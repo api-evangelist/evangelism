@@ -1,0 +1,23 @@
+title : API Evangelism
+
+safe: true
+lsi: false
+pygments: true
+auto: true
+
+source: api-evangelism
+destination: api-evangelism
+
+permalink: /:categories/:year/:month/:day/:title 
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+
+paginate: 10
+paginate_path: "/blog/page:num"
+
+production_url : http://evangelism.apievangelist.com
+
+BASE_PATH : http://evangelism.apievangelist.com
+
+archive_path: /archive.html
+categories_path : /categories.html
+tags_path : /tags.html
