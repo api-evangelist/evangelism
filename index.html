@@ -77,7 +77,7 @@ overview: true
 
 function listbuidingblockcategories()
     {
-    $.getJSON('data/buildingblockcategories.json', function(data) {
+    $.getJSON('/data/buildingblockcategories.json', function(data) {
          $.each(data['buildingblockcategories'], function(key, val) {
              
             var template = $('#buildingblockcategoryTemplate').html();
@@ -89,7 +89,8 @@ function listbuidingblockcategories()
     
 function listbuidingblocks()
     {
-    $.getJSON('data/buildingblocks.json', function(data) {
+    alert('in');
+    $.getJSON('/data/buildingblocks.json', function(data) {
          $.each(data['buildingblocks'], function(key, val) {
             categoryslug = val['categoryslug']; 
             var template = $('#buildingblockTemplate').html();
@@ -100,11 +101,9 @@ function listbuidingblocks()
     }    
 </script>
 
-<!--Trigger BaaS Full Listing JavaScript onLoad-->
 <script type="text/javascript">
 listbuidingblockcategories();
 listbuidingblocks();
 </script>
-
 
 <p>A healthy API evangelism strategy will be something that is owned partially by all departments in a company. IT was a silo, APIs are about interoperability internally and externally.</p>    
