@@ -89,7 +89,6 @@ function listbuidingblockcategories()
     
 function listbuidingblocks()
     {
-    alert('in');
     $.getJSON('/data/buildingblocks.json', function(data) {
          $.each(data['buildingblocks'], function(key, val) {
             categoryslug = val['categoryslug']; 
