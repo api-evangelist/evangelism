@@ -1,9 +1,9 @@
 [
 	{
-		"building_block_id": "263",
-		"building_block_category_id": "19",
+		"building_block_id": "oQDH123HCyZxZAEwFtUMUdKUFkWXxLtjiZyMS5juZMidJNyz5fd8rX116hVFpY3S21160UlHl116qptsPqZi2qs5CdtXog117117",
+		"building_block_category_id": "VMpREZxm3YVl123cRu7dwavPCvkDLKEKpkQs123fWarQq1169F1AkShy9JzBAKZDcqkwahNaMGEzZM123umd6Wa2qATViQ117117",
 		"name": "Growth in New Users",
-		"about": "<p>Growing the number of new API users is pretty obvious. &nbsp;That is what we all want. &nbsp;But it needs to be listed on your API evangelism strategy so you think about it constantly, ask it regularly and constantly innovate how you will attract new developers.&nbsp;</p>",
+		"about": "Growing the number of new signups for an API platform, increasing the number of new consumers, and potentially establishing as an active user.",
 		"category_id": "19",
 		"category": "Goals",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-analytics-4.jpeg",
@@ -11,10 +11,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "264",
-		"building_block_category_id": "19",
+		"building_block_id": "Swt1230pITCv1164mcikbgYBhx2116kY3qx6PnQDVwgNdmOPD116UPj80116OukC3EtB8XP4DL123SFRQkOiNENT116LvuyJydmw117117",
+		"building_block_category_id": "VMpREZxm3YVl123cRu7dwavPCvkDLKEKpkQs123fWarQq1169F1AkShy9JzBAKZDcqkwahNaMGEzZM123umd6Wa2qATViQ117117",
 		"name": "Growth in Existing User API Usage",
-		"about": "<p>Sometimes the real growth in API usage comes from helping existing users maximize existing potential, rather than just finding new users. Growth in existing user base should also be part of any evangelism strategy.&nbsp;</p>",
+		"about": "Growing the number of existing users who are actively using an API platform, increasing the number of APIs they use, and the number of calls they make.",
 		"category_id": "19",
 		"category": "Goals",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-analytics-4.jpeg",
@@ -22,10 +22,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "265",
-		"building_block_category_id": "19",
+		"building_block_id": "9C6XLQvFT5OxN0H9tIx123YOeTs66OEVmYnWzAy2d123IiijBkBBhSNbvtvdtuZD9SF1ojIsjtu9hQh4qej8udTKlQ117117",
+		"building_block_category_id": "VMpREZxm3YVl123cRu7dwavPCvkDLKEKpkQs123fWarQq1169F1AkShy9JzBAKZDcqkwahNaMGEzZM123umd6Wa2qATViQ117117",
 		"name": "Brand Awareness",
-		"about": "<p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/building-blocks-evangelism/brand.jpg" alt="" width="200" align="right" /></p>n<p>One of the top reasons for designing, deploying and managing an active APIs is increase awareness of your brand. &nbsp;</p>n<p>When first hearing about APIs many companies first concern is regarding control over their brand--feeling they might lose control over their brand in a programmatic world. &nbsp;</p>n<p>With the right brand strategy for your API, you can effectively use your API to actually increase brand awareness and not hurt it. &nbsp;</p>n<p>While evangelizing your API, think of how you can effectively package your brand to be part of your developers experience in a non-intrusive way.</p>n<p>Your brand needs to be ubiquitous across your evangelism efforts, in addition to being an essential part of your API developer portal community--properly guiding your developers in alignment with your overall brand marketing.</p>",
+		"about": "A consistent strategy and set of resources for extending the brand reach for any API platform, by providing a set of instructions and assets for consumers to use.",
 		"category_id": "19",
 		"category": "Goals",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-brand.png",
@@ -33,10 +33,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "266",
-		"building_block_category_id": "20",
+		"building_block_id": "TFXKJfW9mS8dpUMnL8E1v5bTEmBWH6imaPO5i1Mpg7pKuRxX9IGfjGepfb6pdGfY3yeJejIG9qMXcw2l8OlaHw117117",
+		"building_block_category_id": "uenFx1zoNVoJSSxA7f4lNfLR3MM123FMtt116T3dKRIIBSXptfWdFnSka116LQPTRiuG4v3fovuMKfGVxKlyYYFPXmlQ117117",
 		"name": "Fresh Engagement",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2577-e5fb-cb7e-199e62bf9b5b"><span>Emailing new developers who have registered weekly to see what their immediate needs are, while their registration is fresh in their minds. &nbsp;</span></span></p>",
+		"about": "Emailing new developers who have registered weekly to see what their immediate needs are, while their registration is fresh in their minds.",
 		"category_id": "20",
 		"category": "Developer Outreach",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-leaf.png",
@@ -44,10 +44,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "267",
-		"building_block_category_id": "20",
+		"building_block_id": "LaV5aqKYkH51UGduDFIylfA7xuMiTYlu3guoxIaIBpvgwasFvevFHmhwgkjeZ116XPvD1fdE9X116HuJ6vhWRBWkrQ117117",
+		"building_block_category_id": "uenFx1zoNVoJSSxA7f4lNfLR3MM123FMtt116T3dKRIIBSXptfWdFnSka116LQPTRiuG4v3fovuMKfGVxKlyYYFPXmlQ117117",
 		"name": "Active User Engagement",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2578-2611-9de0-dfeb9f310f6b"> Where we reach out to existing, active users of your API and find out what they need. &nbsp;We profile them, including Twitter, Facebook, LinkedIn and pull any profile information. &nbsp;Grade and categorize each developer.n<ul>n</ul>n</span></p>",
+		"about": "Where we reach out to existing, active users of your API and find out what they need, profiling them via Twitter, Facebook, LinkedIn and pulling any profile information to grade and categorize each developer.",
 		"category_id": "20",
 		"category": "Developer Outreach",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-arrows-circular.png",
@@ -55,10 +55,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "268",
-		"building_block_category_id": "20",
+		"building_block_id": "FBw64jNoA0i0123Gihr8L9XKqmozhJ2J7f2WIP123Xuv4iQxxkTR116e8H26OpAlKRAUwAXZ2KIoxhq3wFt0s116R8ps1A117117",
+		"building_block_category_id": "uenFx1zoNVoJSSxA7f4lNfLR3MM123FMtt116T3dKRIIBSXptfWdFnSka116LQPTRiuG4v3fovuMKfGVxKlyYYFPXmlQ117117",
 		"name": "Historical Engagement",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2578-9845-fe1f-a90b92610569"><span>Emailing historical active and / or inactive developers to engage and understand what their needs are and would make them active or increase activity.</span></span></p>",
+		"about": "Emailing historical active and / or inactive developers to engage and understand what their needs are and would make them active or increase activity.",
 		"category_id": "20",
 		"category": "Developer Outreach",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-clock.jpeg",
@@ -66,10 +66,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "269",
-		"building_block_category_id": "20",
+		"building_block_id": "FyIfp5xR2SVROYLE7tnXWpABEpU3kyW3ZoQpO8KA1JMN8nE8GutkqkKBWTTaq0GPn6AHZRrOb4QV3Ovy9cIyiw117117",
+		"building_block_category_id": "uenFx1zoNVoJSSxA7f4lNfLR3MM123FMtt116T3dKRIIBSXptfWdFnSka116LQPTRiuG4v3fovuMKfGVxKlyYYFPXmlQ117117",
 		"name": "Social Engagement",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2578-b89f-5508-43b4cfaae97b"><span>When emailing any developer, using Rapportive we establish any URL, Twitter, Facebook or LinkedIn profile they have and reach out via these networks.</span></span></p>",
+		"about": "When emailing any developer, using Rapportive we establish any URL, Twitter, Facebook or LinkedIn profile they have and reach out via these networks.",
 		"category_id": "20",
 		"category": "Developer Outreach",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-twitter-icon.png",
@@ -77,10 +77,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "270",
-		"building_block_category_id": "21",
+		"building_block_id": "5iihJVXfUb9N116q9Ce8uFkUwVpuFETV123tjJ1i7U1230Xh4cSEoPSkyKL78a18MhNnIyJ2JpK1fOZSYOMeF4nG116JPQ117117",
+		"building_block_category_id": "R6116fENUbUJOOg5f935XG8W5JWu3YiLN4jyRD90ctNBHli12b9wQMMI0St5pc7Tm9j0um7uh181cyHaJzQVp9dQ117117",
 		"name": "Projects",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2575-0f02-ff9d-5a7ca0f44163"><span>Establishing of editorial assembly line of technical projects that can feed blog stories, how-tos, samples and Github libraries.</span></span></p>",
+		"about": "Establishing of editorial assembly line of technical projects that can feed blog stories, how-tos, samples and Github libraries.",
 		"category_id": "21",
 		"category": "Blogging",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-tools.png",
@@ -88,10 +88,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "271",
-		"building_block_category_id": "21",
+		"building_block_id": "123Z116OT1dkGflnINGi6brw899ZNN116bddiwKEf6r123wnVmpq6R2Qwfsmbs1mM6YBFCglp116S123JJGqWK0yYQp2G6TV0w117117",
+		"building_block_category_id": "R6116fENUbUJOOg5f935XG8W5JWu3YiLN4jyRD90ctNBHli12b9wQMMI0St5pc7Tm9j0um7uh181cyHaJzQVp9dQ117117",
 		"name": "Stories",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2575-53e9-acdb-80151c8b2738"><span>Writing, editing and posting of stories derived from projects, with SEO and API area support by design.</span></span></p>",
+		"about": "Writing, editing and posting of stories derived from projects, with SEO and API area support by design.",
 		"category_id": "21",
 		"category": "Blogging",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-story.png",
@@ -99,10 +99,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "272",
-		"building_block_category_id": "21",
+		"building_block_id": "PMfn9PfJMDAJQw8o1233Yu1g7MUCQ123NpBQsX177s4gX8oUIRylLROaqZFDtJ123oxz55Q2ceLUDfwXXt3NX6mKvaYA117117",
+		"building_block_category_id": "R6116fENUbUJOOg5f935XG8W5JWu3YiLN4jyRD90ctNBHli12b9wQMMI0St5pc7Tm9j0um7uh181cyHaJzQVp9dQ117117",
 		"name": "Syndication",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2575-a58e-ae7e-ef29b82e2fe9"><span>Syndication to Tumblr, Blogger and other relevant blogging sites.</span></span></p>",
+		"about": "Syndication to Tumblr, Blogger and other relevant blogging sites available online.",
 		"category_id": "21",
 		"category": "Blogging",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-rss-icon.png",
@@ -110,10 +110,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "273",
-		"building_block_category_id": "22",
+		"building_block_id": "rax123QiIqCqJmaemQwx2ReADLqWOr0daS7AAJASR746DRmbLf0116116T6cU2s79pLlvNUieM3scRGLLNF116gAjOEbng117117",
+		"building_block_category_id": "y0EQCmFwrjNLAjBH0HG0QQYi80jCUNgBq9LSuqJqHAmHah116BlDoL116tXgIJOeym6rhSzjqXOY2KE1mwcclGiDSg117117",
 		"name": "Competition Monitoring",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2585-85c9-2c54-263d4f7479d7"> Evaluation of regular activity of competitors.n<ul>n</ul>n</span></p>",
+		"about": "Evaluation of the regular activity of competitors, cultivating an ever growing list of who they are and what they are up to.",
 		"category_id": "22",
 		"category": "Landscape Analysis",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-competition.png",
@@ -121,10 +121,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "274",
-		"building_block_category_id": "22",
+		"building_block_id": "VdR9xyemBVrSetdgI9f0YWBvMPUedfWqToMQJ59HzDRT123OYNFm6HoCOtl3Mz6YZgQ116nxq123U2116qsalef40PdmDA117117",
+		"building_block_category_id": "y0EQCmFwrjNLAjBH0HG0QQYi80jCUNgBq9LSuqJqHAmHah116BlDoL116tXgIJOeym6rhSzjqXOY2KE1mwcclGiDSg117117",
 		"name": "Industry Monitoring",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2585-b52a-bb82-3abbe05223af"><span>Evaluation of relevant topics and trends of overall industry.</span></span></p>",
+		"about": "Evaluation of relevant topics and trends of overall industry an API is operating within.",
 		"category_id": "22",
 		"category": "Landscape Analysis",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-industry.png",
@@ -132,10 +132,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "275",
-		"building_block_category_id": "22",
+		"building_block_id": "Vy5BbhoZO9uIv9IYZV00U116L0TehHa6mQVJM2fPSTJjmZChJqWGJJR8ImYZ0sPVzBRUhVt8Jn79klSeFZH50HTg117117",
+		"building_block_category_id": "y0EQCmFwrjNLAjBH0HG0QQYi80jCUNgBq9LSuqJqHAmHah116BlDoL116tXgIJOeym6rhSzjqXOY2KE1mwcclGiDSg117117",
 		"name": "Project & Developer Sites",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2585-fe2b-e4a3-eda9aa2bc8c0"><span>Identifying of relevant project sites like Elance and ODesk, and targeting developers who may be suited for engagement.</span></span></p>",
+		"about": "Identifying of relevant project sites like Elance and ODesk, and targeting developers who may be suited for engagement.",
 		"category_id": "22",
 		"category": "Landscape Analysis",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-tools.png",
@@ -143,10 +143,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "276",
-		"building_block_category_id": "22",
+		"building_block_id": "aMDRN2T8Jq0kLPii1tS2ncmkG123KvP099O6123r0imYmLrfbKo8NptXrcUe00vFpuhiIFZFGY47u9Sn9Pnww8tvBg117117",
+		"building_block_category_id": "y0EQCmFwrjNLAjBH0HG0QQYi80jCUNgBq9LSuqJqHAmHah116BlDoL116tXgIJOeym6rhSzjqXOY2KE1mwcclGiDSg117117",
 		"name": "Keywords",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2586-6a81-510d-15c138dbba44"><span>Established a list of keywords to use when searching for topics at search engines, QA, forums, social bookmarking and social networks. </span></span></p>",
+		"about": "Established a list of keywords to use when searching for topics at search engines, QA, forums, social bookmarking and social networks.",
 		"category_id": "22",
 		"category": "Landscape Analysis",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-keyword.png",
@@ -154,10 +154,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "277",
-		"building_block_category_id": "22",
+		"building_block_id": "2zJH2BrlOsvd71239ul2JWZ7CHECcfDz0pbXD116DafbJ4Ex0sCvLEQl63cF5RNpCLitl123v0kA4iQhNSDtGLUeMAkA117117",
+		"building_block_category_id": "y0EQCmFwrjNLAjBH0HG0QQYi80jCUNgBq9LSuqJqHAmHah116BlDoL116tXgIJOeym6rhSzjqXOY2KE1mwcclGiDSg117117",
 		"name": "City Targeting",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2587-0f9b-d153-7f311e02ee50"><span>Target specific markets in cities that make sense to your evangelism strategy.</span></span></p>",
+		"about": "Target specific markets in cities that make sense to an overall API evangelism strategy.",
 		"category_id": "22",
 		"category": "Landscape Analysis",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-city-skyline.png",
@@ -165,10 +165,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "278",
-		"building_block_category_id": "22",
+		"building_block_id": "AMqC4GneNdzcht1yuiD90Rao0nH0YyJpU7LS116iitJO9chP116116v116rRPweeT8vuf1Ihzz116F8ShXm4GbJBDOzEm6KQ117117",
+		"building_block_category_id": "y0EQCmFwrjNLAjBH0HG0QQYi80jCUNgBq9LSuqJqHAmHah116BlDoL116tXgIJOeym6rhSzjqXOY2KE1mwcclGiDSg117117",
 		"name": "Formal Studies ",
-		"about": "<p>Conduct formal studies in the sector you are targeting, and potentially new business sectors--share internally or possibly with partners and the public.</p>",
+		"about": "Conduct formal studies in the sector you are targeting, and potentially new business sectors--share internally or possibly with partners and the public",
 		"category_id": "22",
 		"category": "Landscape Analysis",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-case-study.png",
@@ -176,10 +176,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "279",
-		"building_block_category_id": "23",
+		"building_block_id": "o8D6123pm7NID116uNH123q1mG0TCRXhWIG6Jm5FiucXGHYfoS7O87wemZvx1xMszOEKklyaf123egPK4NirrVCW123zTcZQ117117",
+		"building_block_category_id": "EWes3rsmd116hjCWVhEwoaeg116QDyI4urNUMM3rP1xB5CFmsZMTVgtnIyZ947JSD116Btne8BzMd116JMk3C9YiFPwdug117117",
 		"name": "Forum Conversations",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258f-bacf-4559-b57c223b51ed"><span>Responding to forum activity in a timely and engaging way.</span></span></p>",
+		"about": "Responding to forum activity in a timely and engaging way, and conducting general janitorial work around the community.",
 		"category_id": "23",
 		"category": "Forum Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-conversation-bubbles.png",
@@ -187,10 +187,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "280",
-		"building_block_category_id": "23",
+		"building_block_id": "mthjytpvncsQhw8yWQLlInMwjxmcDTyNCX9116suTGF8bL04TrYUncGXiDw8Ri2KGAiXAoBLzHj116mardcC8k7vTA117117",
+		"building_block_category_id": "EWes3rsmd116hjCWVhEwoaeg116QDyI4urNUMM3rP1xB5CFmsZMTVgtnIyZ947JSD116Btne8BzMd116JMk3C9YiFPwdug117117",
 		"name": "Forum Posting",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258f-e897-234c-3cf58c15ac9d"><span>Generating forum activity by anonymous posters or officially with common problems and questions faced throughout community as well as open landscape.</span></span></p>",
+		"about": "Generating forum activity by anonymous posters or officially with common problems and questions faced throughout community as well as open landscape.",
 		"category_id": "23",
 		"category": "Forum Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-forum.png",
@@ -198,10 +198,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "282",
-		"building_block_category_id": "24",
+		"building_block_id": "6D2hb9Ud0jnuLf151z8Q24P9s2UuoOfdWHvJqffA7t123twO116SjRhkeRr123hNYFxqFtZgzHcD116C9H116rgdfhfwANng117117",
+		"building_block_category_id": "ZBSQ31UjdsOqhUf56waHPj7TlXLgyX9wWh5kwG0S09kcTMfX9116hy7poGJliwWOvDJ9jgNrdrTGeA4UsnUI4FcA117117",
 		"name": "Email Coordination ",
-		"about": "<p><span id="docs-internal-guid-77f5571f-257a-fa3f-a724-114f40a68919"> Regular coordination, relaying of support issues with central [Client Name] support.n<ul>n</ul>n</span></p>",
+		"about": "Regular coordination, relaying of support issues with central support process.",
 		"category_id": "24",
 		"category": "Support",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email.png",
@@ -209,10 +209,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "283",
-		"building_block_category_id": "24",
+		"building_block_id": "a123rJpX01V35cdzKZEc1161A116DX2XtqTq8bYKW6KdBc1nxAfyMi61ONVwPdBcdG3sHP4Qd5OPk123EOjiApl1uN116N6g117117",
+		"building_block_category_id": "ZBSQ31UjdsOqhUf56waHPj7TlXLgyX9wWh5kwG0S09kcTMfX9116hy7poGJliwWOvDJ9jgNrdrTGeA4UsnUI4FcA117117",
 		"name": "Email Needs Tracking",
-		"about": "<p><span id="docs-internal-guid-77f5571f-257b-5ff0-1dbc-96abfa8c15db"> Deriving of common support requests to drive API and API area roadmap.n<ul>n</ul>n</span></p>",
+		"about": "Deriving of common support requests to drive API and API area roadmap.",
 		"category_id": "24",
 		"category": "Support",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email-tracking.png",
@@ -220,10 +220,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "284",
-		"building_block_category_id": "25",
+		"building_block_id": "EcJrWVmyXtjVAVs2123KSWB82uIWy0Obzi48cdrkqwSTzAChpVq4hdf116GZ7wD5pixLHJp7Dsevnh3Jx7KXu9T3xw117117",
+		"building_block_category_id": "wKdGv1S2BAwgk18fuWcI2116gfKfiVWTl3UmNbAyP116Zd3l5123cmVZS1VgTnyk91tysjnnf8dNFTnPaKPHbAUlEAlw117117",
 		"name": "Github Repository",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2590-eaaa-d0f6-4ea0c964e3c7"><span>Managing of code sample Gists, official code libraries and any samples, starter kits or other code samples generated through projects.</span></span></p>",
+		"about": "Managing of code sample Gists, official code libraries and any samples, starter kits or other code samples generated through projects.",
 		"category_id": "25",
 		"category": "GitHub Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg",
@@ -231,10 +231,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "285",
-		"building_block_category_id": "25",
+		"building_block_id": "S71nCkiRgkr1wB3v4dElsgaQmsZTLnKzUYfGF6XKM123cNO123SDUtQcQYPdGp1B123za24UTkk7icWOWs7DKQAen5SA117117",
+		"building_block_category_id": "wKdGv1S2BAwgk18fuWcI2116gfKfiVWTl3UmNbAyP116Zd3l5123cmVZS1VgTnyk91tysjnnf8dNFTnPaKPHbAUlEAlw117117",
 		"name": "Github Relationship ",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2591-1f5b-44ef-83b055c8e86a"><span>Managing of followers, forks, downloads and other potential relationships via Github.</span></span></p>",
+		"about": "Managing of followers, forks, downloads and other potential relationships via Github.",
 		"category_id": "25",
 		"category": "GitHub Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg",
@@ -242,10 +242,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "286",
-		"building_block_category_id": "26",
+		"building_block_id": "4ys2rgn5GDlIjlTYrmpEM5xpenjHzz2eR5BJHmlC4fs8IA2ttXSMglzN1164rxsiASVbwnlWLy0lj116vrYpVESqrw117117",
+		"building_block_category_id": "OGlcOV1116qT116TfU116Xt6eG3Wcf3zTeasNpJvoRCZLDpFUQwrVtq4zlKK0bBKSVtsu3Yvhho7Kmcelg31ftvbT1Bw117117",
 		"name": "QA Profile Maintenance",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258a-d262-b468-162ed95bbb3d"> Ensure that profile on Quora and Stack Overflow are active.n<ul>n</ul>n</span></p>",
+		"about": "Ensure that profile on Quora and Stack Overflow are active.",
 		"category_id": "26",
 		"category": "QA Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-profile.png",
@@ -253,10 +253,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "287",
-		"building_block_category_id": "26",
+		"building_block_id": "iJGRhZJQRtJ57QyIp2mmDGLQ7xDDhF123BsXp116kZvSXMatnNyj9tnATVEji5fO6rT1unqx86FkQM18r6qRGe4MTg117117",
+		"building_block_category_id": "OGlcOV1116qT116TfU116Xt6eG3Wcf3zTeasNpJvoRCZLDpFUQwrVtq4zlKK0bBKSVtsu3Yvhho7Kmcelg31ftvbT1Bw117117",
 		"name": "Stack Exchange",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258a-06ad-b2b3-1510169ce3e7"> Regular trolling of Stack Exchange / Stack Overflow and responding to relevant [Client Name] or industry related questions.n<ul>n</ul>n</span></p>",
+		"about": "Regular trolling of Stack Exchange / Stack Overflow and responding to relevant [Client Name] or industry related questions.",
 		"category_id": "26",
 		"category": "QA Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-stack-exchange.png",
@@ -264,10 +264,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "288",
-		"building_block_category_id": "26",
+		"building_block_id": "ZMrNwHSkGrpit995wRPEYAnOAbXAcfQR8mGyj2FC5s7gUDbBVRxf5e1BD4gCZ8xRcq42bi9lwRk5bvSpHsMqpQ117117",
+		"building_block_category_id": "OGlcOV1116qT116TfU116Xt6eG3Wcf3zTeasNpJvoRCZLDpFUQwrVtq4zlKK0bBKSVtsu3Yvhho7Kmcelg31ftvbT1Bw117117",
 		"name": "Quora",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2589-d54c-825a-4fd7f905cfad"><span><span id="docs-internal-guid-77f5571f-258a-7131-3850-619d28973089"><span>Regular trolling of Quora and responding to relevant [Client Name] or industry related questions.</span></span></span></span></p>",
+		"about": "Regular trolling of Quora and responding to relevant [Client Name] or industry related questions.",
 		"category_id": "26",
 		"category": "QA Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-quora.png",
@@ -275,10 +275,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "289",
-		"building_block_category_id": "26",
+		"building_block_id": "2NJsnw668IFi6TzIjF2PZq1161DkDV4DdJ51WttOTqUqmXyJw8qK123LOtlq95uQTYT27wQWn3z2Bfak7NS1cc8YYw117117",
+		"building_block_category_id": "OGlcOV1116qT116TfU116Xt6eG3Wcf3zTeasNpJvoRCZLDpFUQwrVtq4zlKK0bBKSVtsu3Yvhho7Kmcelg31ftvbT1Bw117117",
 		"name": "QA Seeding",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258b-190d-a50b-685d238441dc"><span>Seeding of questions by anonymous 3rd party profiles for relevant topics.</span></span></p>",
+		"about": "Seeding of questions by anonymous 3rd party profiles for relevant topics.",
 		"category_id": "26",
 		"category": "QA Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-seed.png",
@@ -286,10 +286,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "291",
-		"building_block_category_id": "27",
+		"building_block_id": "123Ak2123By6qUjYkYaTU3CLJJPLsNDkaTapKwOZcpMhuxIEeayo3O6qJkGRRzTXmVTWiLWk116ylgq8lTKdXmAyiHAg117117",
+		"building_block_category_id": "LF2foHPD7N32MuuEGQoIk9FrT4rwcoBylzgGO7HsUMZL11166dy116stNPoGxs2I2tmtc42O18Fbr5uKwXDKQDLgKg117117",
 		"name": "LinkedIn",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258b-f2f8-959e-bb829443f911"><span>Setup of new API specific LinkedIn profile page who will follow developers and other relevant users for engagement. &nbsp;Posting of all API evangelism activities.</span></span></p>",
+		"about": "Setup of new API specific LinkedIn profile page who will follow developers and other relevant users for engagement. u00a0Posting of all API evangelism activities.",
 		"category_id": "27",
 		"category": "Social Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-linkedin.png",
@@ -297,10 +297,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "293",
-		"building_block_category_id": "27",
+		"building_block_id": "XKeoHHjvxXyh1VheDbgWRODPN9ext123BT4ICE2a116Z53Q6oWqt6N4fuLjDkbKxpcJ22LZ3cxlJfdUl0hd5cXgmMg117117",
+		"building_block_category_id": "LF2foHPD7N32MuuEGQoIk9FrT4rwcoBylzgGO7HsUMZL11166dy116stNPoGxs2I2tmtc42O18Fbr5uKwXDKQDLgKg117117",
 		"name": "Google Plus",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258c-ff2d-7208-4c71676d9c51"><span>Setup of new API specific Google+ company. &nbsp;Posting of all API evangelism activities and management of friends.</span></span></p>",
+		"about": "Setup of new API specific Google+ company and posting of all API evangelism activities and management of friends.",
 		"category_id": "27",
 		"category": "Social Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-google-plus.png",
@@ -308,10 +308,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "294",
-		"building_block_category_id": "28",
+		"building_block_id": "1o0x5lsFKGpLJ2hnHVHyCjrTuRZE116sQ4JFr123tPHr7St123R0v9tUpTD85Mom5wvUwuPCB4PWjv0vNCNRJC30TTeQ117117",
+		"building_block_category_id": "7EFguvyge0IS71161161gkmQpLi3bjqeYGRXiC77esOdZqZiiUXu3NqN8EZ61239GPPx2ZJSJVqYNPeHSV7sxBlao7NQ117117",
 		"name": "Hacker News",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258d-8eb3-e16c-7c7b318675d6"><span>Social bookmarking of all relevant API evangelism activities as well as relevant industry landscape topics to Hacker News, to keep a fair and balanced profile, as well as network and user engagement.</span></span></p>",
+		"about": "Social bookmarking of all relevant API evangelism activities as well as relevant industry landscape topics to Hacker News, to keep a fair and balanced profile, as well as network and user engagement.",
 		"category_id": "28",
 		"category": "Social Bookmarking",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-hacker-news.png",
@@ -319,10 +319,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "295",
-		"building_block_category_id": "28",
+		"building_block_id": "bFXcS68yYRYFVoeXN60o1WYotmeAvZC0p9Wi123v123vcJE1PQEi4xLm7CqK116123TiOmKUBvEqT39A1FdjdgjCJZBfuQ117117",
+		"building_block_category_id": "7EFguvyge0IS71161161gkmQpLi3bjqeYGRXiC77esOdZqZiiUXu3NqN8EZ61239GPPx2ZJSJVqYNPeHSV7sxBlao7NQ117117",
 		"name": "StumbleUpon",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258d-d25a-880a-77470f08d5f3"><span>Social bookmarking of all relevant API evangelism activities as well as relevant industry landscape topics to StumbleUpon, to keep a fair and balanced profile, as well as network and user engagement.</span></span></p>",
+		"about": "Social bookmarking of all relevant API evangelism activities as well as relevant industry landscape topics to StumbleUpon, to keep a fair and balanced profile, as well as network and user engagement.",
 		"category_id": "28",
 		"category": "Social Bookmarking",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-stumbleupon.png",
@@ -330,10 +330,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "296",
-		"building_block_category_id": "28",
+		"building_block_id": "JLgCe2IushqlxMeFoOjdp1BPL1QvHySp0wLo95ZxppIyMCeCELFXZTXGXoi2S116tHtZnvmQq88Tre7We18JskmA117117",
+		"building_block_category_id": "7EFguvyge0IS71161161gkmQpLi3bjqeYGRXiC77esOdZqZiiUXu3NqN8EZ61239GPPx2ZJSJVqYNPeHSV7sxBlao7NQ117117",
 		"name": "Reddit",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258e-400e-8cf8-ed0df5943a9a"><span>Social bookmarking of all relevant API evangelism activities as well as relevant industry landscape topics to Reddit, to keep a fair and balanced profile, as well as network and user engagement.</span></span></p>",
+		"about": "Social bookmarking of all relevant API evangelism activities as well as relevant industry landscape topics to Reddit, to keep a fair and balanced profile, as well as network and user engagement.",
 		"category_id": "28",
 		"category": "Social Bookmarking",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-reddit.png",
@@ -341,10 +341,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "297",
-		"building_block_category_id": "29",
+		"building_block_id": "d7lL6c1pM123yFigRcoR123qJaf1CuzEO76gEDb7hDW4fcG38vIWuywaK15jS8WwL9ECJIhaPbSBpoXl85wZQxbjYw117117",
+		"building_block_category_id": "0qGANr9rpY2inFn8FA1i5F4ZWN7DryTai4PZfJMCVDpa7OCKY3Y6339cWWyiPQV8OZ54FAQy4FgGMkyiD8NeeA117117",
 		"name": "Roadmap",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258e-ad13-8212-70267e2caad9"> Provide regular roadmap feedback based upon developer outreach and feedback.n<ul>n</ul>n</span></p>",
+		"about": "Provide regular feedback on the API roadmap based upon developer outreach and feedback.",
 		"category_id": "29",
 		"category": "Roadmap",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-highway.png",
@@ -352,10 +352,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "298",
-		"building_block_category_id": "30",
+		"building_block_id": "6sVFd6ZqwP3Qhbvbb0JaRmPeuU123WzM4D8cG6Jqo51UCdhOvpwDlPKy123bEUHZcMGIF4GFrdHoAHDAMo4j1Y123lCQ117117",
+		"building_block_category_id": "xeI1RVPXJusHqgu3n2N7SJmG6PhHTKc2FE1236g84Kn3SgTrhCoTvefO7JVbEKy123BHU0GOQaDcwczrQJG2ZZ79Jg117117",
 		"name": "Activity By Group",
-		"about": "<p><span id="docs-internal-guid-77f5571f-257e-a849-a82e-7f88c9396cec"> Summary and highlights from weekly activity within the each area of API evangelism strategy.n<ul>n</ul>n</span></p>",
+		"about": "Summary and highlights from weekly activity within the each area of API evangelism strategy.",
 		"category_id": "30",
 		"category": "Reporting",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-arrows-circular.png",
@@ -363,10 +363,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "299",
-		"building_block_category_id": "30",
+		"building_block_id": "VyOgW9bdVrNsidRYs1M7wp48Fw5hagqntbU2uzwDRBv9f8TEC6mrn3PwOnvjQdEorBq9mnRcJHuGMnBoHXYFAw117117",
+		"building_block_category_id": "xeI1RVPXJusHqgu3n2N7SJmG6PhHTKc2FE1236g84Kn3SgTrhCoTvefO7JVbEKy123BHU0GOQaDcwczrQJG2ZZ79Jg117117",
 		"name": "New Registrations",
-		"about": "<p><span id="docs-internal-guid-77f5571f-257e-fcef-d97c-949da7172001"><span>Historical and weekly accounting of new developer registrations across APis.</span></span></p>",
+		"about": "Historical and weekly accounting of new developer registrations across APIs.",
 		"category_id": "30",
 		"category": "Reporting",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-register.png",
@@ -374,10 +374,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "300",
-		"building_block_category_id": "30",
+		"building_block_id": "TEg31RRRbUdbiNZrhyRmCQRal7v4BvO0HWXVNrwTtAgWkgc3meeyik6iCD7VdoRqxwkNKGUQFer123R123116N6o6TEA117117",
+		"building_block_category_id": "xeI1RVPXJusHqgu3n2N7SJmG6PhHTKc2FE1236g84Kn3SgTrhCoTvefO7JVbEKy123BHU0GOQaDcwczrQJG2ZZ79Jg117117",
 		"name": "Volume of Calls",
-		"about": "<p><span id="docs-internal-guid-77f5571f-257f-8706-cc90-7902bca0cbac"><span>Historical and weekly accounting of API calls per API.</span></span></p>",
+		"about": "Historical and weekly accounting of API calls per API.",
 		"category_id": "30",
 		"category": "Reporting",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-analytics-5.jpeg",
@@ -385,10 +385,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "301",
-		"building_block_category_id": "31",
+		"building_block_id": "fNcHVoHkIdFwhjtJ5C5pWHsLEEEEkonOM0d3LS116ZMN4dAwXVqA123ieDSciLYyvqwn349RQWqOy5SCxBHDadzG1g117117",
+		"building_block_category_id": "ywsgFrtxwxS3LvTG116TzQXFSBGrUhzEWNlmeXzV4123PEWk4qDgwVp1aCxNZtzBo7lrbYua8fBlgHjfks4V0B45RQ117117",
 		"name": "Hackathons",
-		"about": "<p><span id="docs-internal-guid-77f5571f-257d-3fc8-4216-2ca173a26e5e"><span>What hackathons are coming up in 30, 90, 120 days? Which would should be sponsored, attended, etc.</span></span></p>",
+		"about": "What hackathons are coming up in 30, 90, 120 days? Which would should be sponsored, attended, etc.",
 		"category_id": "31",
 		"category": "Events",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-hackathon.png",
@@ -396,10 +396,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "302",
-		"building_block_category_id": "31",
+		"building_block_id": "qvtAC2GdO6xnUkzni3HC4WJ9G7d91X4aMTGp2ausvEqcuh3rHHNC1VnhtGzOIOeynXqhtJPzRncbvqfSkgdvHw117117",
+		"building_block_category_id": "ywsgFrtxwxS3LvTG116TzQXFSBGrUhzEWNlmeXzV4123PEWk4qDgwVp1aCxNZtzBo7lrbYua8fBlgHjfks4V0B45RQ117117",
 		"name": "Meetups",
-		"about": "<p><span id="docs-internal-guid-77f5571f-257d-7118-1a20-ac09a0b5b159"><span>What are the best meetups in target cities? Are there different formats that would best meet our goals? Are there any sponsorship or speaking opportunities?</span></span></p>",
+		"about": "What are the best Meetups in target cities? Are there different formats that would best meet our goals? Are there any sponsorship or speaking opportunities?",
 		"category_id": "31",
 		"category": "Events",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-meetup.png",
@@ -407,10 +407,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "303",
-		"building_block_category_id": "31",
+		"building_block_id": "2kpwPzA1ljzrwTg5wvUTjZdAcN9Au3AVJxYiMb073eK9fx1234oXykjRo1168k6ZKaGYcUOmUOhzd0zYYCGdJGYZbg117117",
+		"building_block_category_id": "ywsgFrtxwxS3LvTG116TzQXFSBGrUhzEWNlmeXzV4123PEWk4qDgwVp1aCxNZtzBo7lrbYua8fBlgHjfks4V0B45RQ117117",
 		"name": "Conferences",
-		"about": "<p><span id="docs-internal-guid-77f5571f-257d-b2b2-1f09-2cb1bf0eb821"><span>What are the top conferences occurring that we can participate in or attend--pay attention to call for papers of relevant industry events.</span></span></p>",
+		"about": "What are the top conferences occurring that we can participate in or attend--pay attention to call for papers of relevant industry events.",
 		"category_id": "31",
 		"category": "Events",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-conference.png",
@@ -418,10 +418,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "679",
-		"building_block_category_id": "92",
+		"building_block_id": "ykVp6Iis116mntt1lfkNXUfm11RYnnd123hlulVMwp28dVObw8ATqaRblguPL9fossebQZ13mcRLk90Zj116123Q7vE7gA117117",
+		"building_block_category_id": "123b123rCqJDPYjgtRxxBAfC959dM0y6eWHdvTfDioeYcchc6fv1hvDsm1231k1UY1234dauH21239IYcJIBoD5e6tGMEpZg117117",
 		"name": "Storytelling",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2581-90ec-489b-5cb1874a4f5c"><span>Telling stories of an API isn&rsquo;t just something you do externally, what stores need to be told internally to make sure an API initiative is successful.</span></span></p>",
+		"about": "Telling stories of an API isnu2019t just something you do externally, what stores need to be told internally to make sure an API initiative is successful.",
 		"category_id": "92",
 		"category": "Internal",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-story.png",
@@ -429,10 +429,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "680",
-		"building_block_category_id": "92",
+		"building_block_id": "qCLtL1vSmFylBY5W5iF5nxtzCqYjpXAy9Y5RSry0EgR116123IN6jphYgwLeWqn123HGD4Afl0fvdI123ha7iaD28IXaSQ117117",
+		"building_block_category_id": "123b123rCqJDPYjgtRxxBAfC959dM0y6eWHdvTfDioeYcchc6fv1hvDsm1231k1UY1234dauH21239IYcJIBoD5e6tGMEpZg117117",
 		"name": "Participation",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2581-f9a3-7608-edddb78ca5bd"><span>It is very healthy to include other people from across the company in API operations. How can we include people from other teams in API evangelism efforts.</span></span></p>",
+		"about": "It is very healthy to include other people from across the company in API operations. How can we include people from other teams in API evangelism efforts.",
 		"category_id": "92",
 		"category": "Internal",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-participation.png",
@@ -440,10 +440,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "681",
-		"building_block_category_id": "92",
+		"building_block_id": "BT4ONHiis4SAVsKljCA123mYTj0Gex1a116DBXHM6T9q998qOqi5cj9waUFVGhZu358GfL6Ecjl8zrIIdhFJvkdW3w117117",
+		"building_block_category_id": "123b123rCqJDPYjgtRxxBAfC959dM0y6eWHdvTfDioeYcchc6fv1hvDsm1231k1UY1234dauH21239IYcJIBoD5e6tGMEpZg117117",
 		"name": "Reporting",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2582-3960-ca75-24b905718c83"><span>Sometimes providing regular numbers and reports to key players internally can help keep operations running smooth. What reports can we produce?</span></span></p>",
+		"about": "Sometimes providing regular numbers and reports to key players internally can help keep operations running smooth. What reports can we produce?",
 		"category_id": "92",
 		"category": "Internal",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-reports.png",
@@ -451,10 +451,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "682",
-		"building_block_category_id": "93",
+		"building_block_id": "xuOXilIrgkw116n079RH62k4vH19123wwSkt123tuSHCdPC3jiQ1itd5QeROprf2TRD53jPPscpOxgSge5u8AUbN2r1Q117117",
+		"building_block_category_id": "OM8HjfYFeVT7erfsJXGxx123zIswi123JjOsNtmFORSJL9RDoIhnwIasU29ooW4522wCxmZoxRzqrCUyMsbRMqzTdw117117",
 		"name": "Getting Started",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2584-0059-cb24-ba558965d899"><span>Evolution of getting started page when relevant based upon API and network changes, and relevant developer feedback.</span></span></p>",
+		"about": "Evolution of getting started page when relevant based upon API and network changes, and relevant developer feedback.",
 		"category_id": "93",
 		"category": "Developer Area",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-running.png",
@@ -462,10 +462,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "683",
-		"building_block_category_id": "93",
+		"building_block_id": "atGQ0IgQFOsCKPUHWDtLBWy8oEDh9cKa11nYvoWjYNUsa8eu3a3O4opzOmXb2NjZsT8LZLEc1n123bPP86123S3yCA117117",
+		"building_block_category_id": "OM8HjfYFeVT7erfsJXGxx123zIswi123JjOsNtmFORSJL9RDoIhnwIasU29ooW4522wCxmZoxRzqrCUyMsbRMqzTdw117117",
 		"name": "Documentation",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2584-829b-c120-25b8f5889108"><span>Enhancement and addition to API documentation based upon project development and active developer engagement and feedback</span></span></p>",
+		"about": "Enhancement and addition to API documentation based upon project development and active developer engagement and feedback",
 		"category_id": "93",
 		"category": "Developer Area",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation.png",
@@ -473,10 +473,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "684",
-		"building_block_category_id": "93",
+		"building_block_id": "d3Rqlb8hkqd7fuHmi2KREgJ116wB2Tp1233vTJ123mBJFUAOTzmDDmi1236j9lA116HiLtFUmXbOPPsxPz338XftZdpVsorw117117",
+		"building_block_category_id": "OM8HjfYFeVT7erfsJXGxx123zIswi123JjOsNtmFORSJL9RDoIhnwIasU29ooW4522wCxmZoxRzqrCUyMsbRMqzTdw117117",
 		"name": "Code Samples",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2584-dca0-3953-ff3a84daf5ea"><span>Establish new code samples that can be used within API documentation pages, maintain them as API evolves.</span></span></p>",
+		"about": "Establish new code samples that can be used within API documentation pages, maintain them as API evolves.",
 		"category_id": "93",
 		"category": "Developer Area",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-code.png",
@@ -484,10 +484,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "685",
-		"building_block_category_id": "27",
+		"building_block_id": "BYLoV8yTBl1GuH8ZeUCWUBcxK2Pas6Ako5123b6BYTC9zy12384tFWNOHk8SrLLifMja5wh3PYN2wiJ1C6zdgXiVGw117117",
+		"building_block_category_id": "LF2foHPD7N32MuuEGQoIk9FrT4rwcoBylzgGO7HsUMZL11166dy116stNPoGxs2I2tmtc42O18Fbr5uKwXDKQDLgKg117117",
 		"name": "Twitter",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258b-525a-40bb-415a65cb26fe"><span>Setup of new API specific Twitter account. &nbsp;Tweeting of all API evangelism activity, relevant industry landscape activity, discover new followers and engage with followers.</span></span></p>",
+		"about": "Setup of new API specific Twitter account, and the tweeting of all API evangelism activity, relevant industry landscape activity, discover new followers and engage with followers.",
 		"category_id": "27",
 		"category": "Social Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-twitter-icon.png",
@@ -495,10 +495,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "686",
-		"building_block_category_id": "27",
+		"building_block_id": "JQiUofQOmM4123fJ116lu9c97KXkrQf4h3owdB36LCmN82YNcPfxleE2NyXzQfrpEIfYDrHalTLCO9zrCElSYCHCDw117117",
+		"building_block_category_id": "LF2foHPD7N32MuuEGQoIk9FrT4rwcoBylzgGO7HsUMZL11166dy116stNPoGxs2I2tmtc42O18Fbr5uKwXDKQDLgKg117117",
 		"name": "Facebook",
-		"about": "<p><span id="docs-internal-guid-77f5571f-258c-708d-04a1-7af5318b1fb6"><span>Setup of new API specific Facebook company. &nbsp;Posting of all API evangelism activities and management of friends.</span></span></p>",
+		"about": "Setup of new API specific Facebook company, and the posting of all API evangelism activities and management of friends.",
 		"category_id": "27",
 		"category": "Social Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-facebook.png",
@@ -506,10 +506,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "687",
-		"building_block_category_id": "23",
+		"building_block_id": "ZOIPYTfqLj123D7jdSfZQfnmPNCc8RHON1231233xa9450116wJqe916XipYEgjC123116T116lZWe8ZV3OeD2CUa6dA65veJDYQ117117",
+		"building_block_category_id": "EWes3rsmd116hjCWVhEwoaeg116QDyI4urNUMM3rP1xB5CFmsZMTVgtnIyZ947JSD116Btne8BzMd116JMk3C9YiFPwdug117117",
 		"name": "Stories",
-		"about": "<p><span id="docs-internal-guid-77f5571f-2590-68a6-4c47-893121a7d51c"><span>Deriving of stories for blog derived from forum activity, and the actual needs of developers.</span></span></p>",
+		"about": "Deriving of stories for blog derived from forum activity, and the actual needs of developers to be crafted and published as part of overall editorial strategy.",
 		"category_id": "23",
 		"category": "Forum Management",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-story.png",
@@ -517,10 +517,10 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "788",
-		"building_block_category_id": "28",
+		"building_block_id": "kUEjM6YbSm3ie4vA70ZzS116oyWprzCZs47P2NU1WZt9a5kmAI2Vnz5CfRG53y2JugfidSbSMgNwh4mmnaKx6nsQ117117",
+		"building_block_category_id": "7EFguvyge0IS71161161gkmQpLi3bjqeYGRXiC77esOdZqZiiUXu3NqN8EZ61239GPPx2ZJSJVqYNPeHSV7sxBlao7NQ117117",
 		"name": "Product Hunt",
-		"about": "<p>Product Hunt is a place to share the latest tech creations, providing an excellent format for API providers to share details about their new API offerings.</p>",
+		"about": "Listing of new API offerings via the Product Hunt social product and service platform, showcasing any new resources as they are made available.",
 		"category_id": "28",
 		"category": "Social Bookmarking",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/product-hunt-icon.jpg",
