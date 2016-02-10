@@ -15,7 +15,7 @@ title: API Evangelism
     <ul class="newslist">
       {% for post in site.posts limit:4 %}
       {% if post.title != null %}
-      <li><a href="{{ post.source }}">{{ post.title }}</a></li>
+        <li><a href="{{ post.source }}">{{ post.title }}</a></li>
       {% endif %}
       {% endfor %}
     </ul>
