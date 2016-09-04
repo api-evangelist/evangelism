@@ -1,4 +1,4 @@
-API Documentation
+API Regulation
 ==============
 
-This is a project for tracking on the world of API documentation, visit http://documentation.apievangelist.com for more information.
+This is a project for preparing to understand how regulation and APIs are colliding, visit http://regulation.apievangelist.com for more information.

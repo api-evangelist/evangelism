@@ -1,4 +1,4 @@
-API Documentation
+API Evangelism
 ==============
 
-This is a project for tracking on the world of API documentation, visit http://documentation.apievangelist.com for more information.
+This is my research into API evangelism.
