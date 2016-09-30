@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "zclIsKrwVKs8JZ0Frf116xaBRPPH123t123CpXMAsTjPijNP6Ddn123h123OhFK7L8UYdBZbhoCSvIMJl123S81N1vzZoGXgRw117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Whats New in OpenShift 33  Developer Experience",
+		"url": "https://blog.openshift.com/whats-new-openshift-3-3-developer-experience/",
+		"domain": "blog.openshift.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BZAJoEyfM116Gn3wOtGF3eIoY3j1169ZHYp4q7lr3evrK3nUPnREpgXFgqwUoKrLP9TJkUYTclb37y6kWofbX6pXjw117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "5 Clever Ways to Leverage Client Feedback for More Referrals",
+		"url": "http://blog.hubspot.com/marketing/leverage-client-feedback-more-referrals",
+		"domain": "blog.hubspot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8wF9123JhMTvF1CYWs9x6fznQt6URHG6R2WbbmfSBOU5VInWOM14Iwegp116l6XvRLlTPDrcl27t6y1234VIy1123easnA117117",
+		"item_date": "2016-09-14 11:51:07",
+		"title": "How Twilios distributed team solves developer evangelism",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4aXmrpEv116116zOkLkfHkuT116TCcl0hCXzVskgFuHTO6IgiZ123tORy0GzOR7CM0Lj1f68FNFz7jk116lIzgClwHelLuHg117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "3 Takeaways From Our First API Meetup",
+		"url": "https://blog.percolate.com/2016/09/takeaways-first-api-meetup-documentation/",
+		"domain": "blog.percolate.com",
+		"image": ""
+	},
+	{
+		"curated_id": "A9jfVgzutaIYhUQX116Lr0n123pgwYLmuA116P4Asbu1233Xwxrc8WCpVDrDylKNtEtSpd4P7VYkURhqkMzNm9Qk4Tq7MQ117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "State of the Map Workshops and Lightning Talks",
+		"url": "https://blog.openstreetmap.org/2016/09/16/state-of-the-map-workshops-and-lightning-talks/",
+		"domain": "blog.openstreetmap.org",
+		"image": ""
+	},
+	{
+		"curated_id": "gb123cLUna7wtOkIZLkJb68xsYtlAvUZkOn4116TXCoyvB116r26xEsq116K5mM5IDHsc53WIu4FB8T123RLulOYBAzh094g117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "Measuring developer evangelism",
+		"url": "https://devrel.net/craft/measuring-developer-evangelism",
+		"domain": "devrel.net",
+		"image": ""
+	},
+	{
+		"curated_id": "11667SdVW0C116vNOebTpEeaS116vdzRCYMU116X7jLCUZAmsyMq3EnpelsAxGi1BNL9lbUlIjlBtlyAbVK1Mg8zBHoErA117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "New Dockercast Episode with Docker Captain Nirmal Mehta",
+		"url": "https://blog.docker.com/2016/09/new-dockercast-episode-docker-captain-nirmal-mehta/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LQ4ftuQyIy4bR46cYeYEnQxK4HQ116vdnjFZHbXU4GcEboLlZiyKdFCAHAtQYwdHLotMKSeLIn4y2THj0VCuQRdQ117117",
+		"item_date": "2016-09-14 11:51:07",
+		"title": "How Twilios distributed team solves developer evangelism",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
 		"curated_id": "d3waEuCPOWbwjMCxlAF1wEDgvwtJHCOleW6WOjp0AS8MyUN2tnvTlR0PfGPci9lCeHQuHmFDR116NyDUGJBkQ116Aw117117",
 		"item_date": "2016-09-01 00:00:00",
 		"title": "Docker Online Meetup 42 Docker Captains Share Tips  Tricks for Using Docker 112",
