@@ -1,10 +1,10 @@
-title:        API Getting Started
-url:          http://getting-started.apievangelist.com
-raw_url: http://getting-started.apievangelist.com/apis/
+title:        API Evangelism
+url:          http://evangelism.apievangelist.com
+raw_url: http://evangelism.apievangelist.com/apis/
 
-tag: Getting Started
+tag: Evangelism
 
-logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-getting-started.png
+logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-evangelism.png
 logo_width:   80
 logo_bottom_padding: 10
 
@@ -21,7 +21,7 @@ paginate: 25
 paginate_path: "/blog/page:num"
 
 github_user: api-evangelist
-github_repo: getting-started
+github_repo: evangelism
 github_branch: gh-pages
 
 # Footer
