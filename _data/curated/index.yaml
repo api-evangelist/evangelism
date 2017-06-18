@@ -1,163 +1,4 @@
 ---
-- curated_id: 5d0488ef64cee6fbb6eeea48663cb2a2
-  item_date: "2012-05-19 18:45:38"
-  title: A year as a Developer Evangelist
-  url: http://www.leggetter.co.uk/2012/05/20/a-year-as-a-developer-evangelist.html
-  domain: www.leggetter.co.uk
-  image: ""
-- curated_id: 3e5f5934d6c25e07b4321ebdec2f10bd
-  item_date: "2012-06-03 11:33:13"
-  title: A Day in the Life of a Developer Evangelist
-  url: http://thenextweb.com/dd/2012/06/03/a-day-in-the-life-of-a-developer-evangelist/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 90dac0c87c8133e3514689b0302521a8
-  item_date: "2012-11-12 13:40:55"
-  title: Cleartrade Exchange delivers unique liquidity through open API
-  url: http://www.commodities-now.com/news/technology/error-404.html
-  domain: www.commodities-now.com
-  image: ""
-- curated_id: b847092effffa93c77714d33081d0b9c
-  item_date: "2013-04-17 00:00:00"
-  title: The Growth Hacking Manifesto
-  url: http://blog.mashape.com/the-growth-hacking-manifesto/
-  domain: blog.mashape.com
-  image: ""
-- curated_id: dfd563be00d22c5aa0677115f84185c3
-  item_date: "2013-04-25 00:00:00"
-  title: 'Platform success strategies: Communicate the value of your API'
-  url: http://www.programmableweb.com/news/platform-success-strategies-communicate-value-your-api/2013/04/25
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: f33209f7ca1a30f03353b4a2289e9dec
-  item_date: "2013-05-05 00:00:00"
-  title: 'Explained: The actual difference between growth hacking and marketing'
-  url: http://thenextweb.com/insider/2013/05/05/the-actual-difference-between-growth-hacking-and-marketing-explained/
-  domain: thenextweb.com
-  image: ""
-- curated_id: c55ff51d1a402e1b2bb5ab51b25198c0
-  item_date: "2013-05-21 00:00:00"
-  title: What Does a Developer Evangelist Do?
-  url: http://apieconomist.com/blog/2013/5/20/what-does-a-developer-evangelist-do
-  domain: apieconomist.com
-  image: ""
-- curated_id: 35798325d8b67aa71a4463b2efcdd19f
-  item_date: "2013-05-28 15:13:38"
-  title: 'Practicing Developer Communications: Share Knowledge, Not Features'
-  url: http://sendgrid.com/blog/practicing-developer-communications-share-knowledge-not-features/
-  domain: sendgrid.com
-  image: ""
-- curated_id: 0a084d4f17b0aef5424010b8ba4fbde7
-  item_date: "2013-05-30 00:00:00"
-  title: Five Essential Steps for Executing an Effective API Strategy
-  url: http://azure.microsoft.com/en-us/services/api-management/
-  domain: azure.microsoft.com
-  image: ""
-- curated_id: 88bd9eab2ff853853ea1bd1cda1e8d2c
-  item_date: "2013-11-18 00:00:00"
-  title: How to Find Evangelists in Your Audience
-  url: https://www.scripted.com/content-marketing-2/how-to-find-evangelists/
-  domain: www.scripted.com
-  image: ""
-- curated_id: dd4f6ac09a92287b041b02b5cbc258fa
-  item_date: "2013-12-12 17:14:31"
-  title: 'The Language of Talking to Developers: The Importance of Outcome-Based Segmentation
-    | VisionMobile'
-  url: http://www.visionmobile.com/blog/2013/11/the-language-of-talking-to-developers/
-  domain: www.visionmobile.com
-  image: ""
-- curated_id: ff6f426fc615b9009d525a73b0609ea3
-  item_date: "2014-06-04 00:00:00"
-  title: Developing the Recurly Integrator Community
-  url: https://blog.recurly.com/2014/06/developing-recurly-integrator-community
-  domain: blog.recurly.com
-  image: ""
-- curated_id: f2947bd0eb7a1771541402e190eb317b
-  item_date: "2014-06-09 00:00:00"
-  title: 'Introducing Developer Evangelist Ricky Robinett: Unlocking The World of
-    Possiblities Through Marvel?s Age of Apocalypse'
-  url: https://www.twilio.com/blog/2014/06/introducing-developer-evangelist-ricky-robinett.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 90e88e1f821301ef1cf90afafc74fe6f
-  item_date: "2014-06-18 00:00:00"
-  title: Developer Experience (DX) is Key to a Successful API
-  url: http://www.programmableweb.com/news/developer-experience-dx-key-to-successful-api/analysis/2014/06/05
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: c56301bba61e80bcf9c065e0648724eb
-  item_date: "2014-06-23 00:00:00"
-  title: What is a Developer Evangelist?
-  url: http://www.mashery.com/blog/what-developer-evangelist
-  domain: www.mashery.com
-  image: ""
-- curated_id: 12dc452baf978e7b9e1ab03a32171d9e
-  item_date: "2014-06-24 00:00:00"
-  title: 'Introducing Portfolios: Tell the Story Behind Your Code'
-  url: http://blog.devpost.com/post/89757732733/introducing-portfolios-tell-the-story-behind-your#_=_
-  domain: blog.devpost.com
-  image: ""
-- curated_id: 97088d00c9ca1e789985c901e5163286
-  item_date: "2014-07-11 19:54:02"
-  title: A Survival Guide on Developer Evangelism
-  url: http://thenextweb.com/dd/2014/06/28/survival-guide-developer-evangelism/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 4a0dbd4a920d1e13cba7e8ee8663dea7
-  item_date: "2014-07-17 10:43:28"
-  title: Tips and Tricks for a Beginner Developer Evangelist (Part 2)
-  url: http://sendgrid.com/blog/tips-tricks-beginner-developer-evangelist-part-2/
-  domain: sendgrid.com
-  image: ""
-- curated_id: bbbf1a3d1667282bf1965c7206fad521
-  item_date: "2014-07-30 00:00:00"
-  title: Developer Evangelists FAQ
-  url: https://www.mailjet.com/blogpost/93317385400/developer-evangelists-faq
-  domain: www.mailjet.com
-  image: ""
-- curated_id: eae9606925d28617d73e4fb4859a14e1
-  item_date: "2014-08-08 08:35:40"
-  title: 'From Startup to Rapid Growth: How SendGrid Scaled Their Developer Evangelist
-    Strategy as They Reached Critical Mass'
-  url: http://cmxhub.com/from-startup-to-rapid-growth-how-sendgrid-scaled-their-developer-evangelist-strategy-as-they-reached-critical-mass/
-  domain: cmxhub.com
-  image: ""
-- curated_id: 6d8b17a9b0320caec0e6e5880f72a2bc
-  item_date: "2014-09-25 00:00:00"
-  title: Non Coder in the Developer Community
-  url: http://sendgrid.com/blog/non-coder-developer-community/
-  domain: sendgrid.com
-  image: ""
-- curated_id: 72679aa3dfe26484ab8bef09d493fa71
-  item_date: "2014-09-30 00:00:00"
-  title: Using Github for Developer Marketing and Growth Hacking
-  url: http://www.heavybit.com/library/blog/hiten-shah-developer-marketing-growth-hacking/
-  domain: www.heavybit.com
-  image: ""
-- curated_id: 22b7775f0d62023aa6993d0fbce82c5d
-  item_date: "2014-10-01 00:00:00"
-  title: 'Evolving your hierarchy of developer needs: when things go wrong'
-  url: http://www.blog.juliaferraioli.com/2014/10/evolving-your-hierarchy.html
-  domain: www.blog.juliaferraioli.com
-  image: ""
-- curated_id: 074d27ad5c6d97b8c5a501bd750efbdc
-  item_date: "2014-11-04 00:00:00"
-  title: Getting Your Organization To Embrace Data Analysis
-  url: https://datahero.com/blog/2014/11/04/getting-organization-embrace-data-analysis/
-  domain: datahero.com
-  image: ""
-- curated_id: 91d614a487982fd1443d413b9bd2b101
-  item_date: "2014-12-19 00:00:00"
-  title: Introducing Twilio Developer Evangelist Marcos Placona
-  url: https://www.twilio.com/blog/2014/12/introducing-twilio-developer-evangelist-marcos-placona.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 06806c8ebfc011e48f30d0433474c3a2
-  item_date: "2014-12-22 00:00:00"
-  title: MasterCard Launches New Hackathon Series for Developers
-  url: http://bankinnovation.net/2014/12/mastercard-launches-new-hackathon-series-for-developers/
-  domain: bankinnovation.net
-  image: ""
 - curated_id: cb99064bb393f65dd8326e7111eb1615
   item_date: "2015-01-05 00:00:00"
   title: How to Better Promote Your API at Hackathons
@@ -262,16 +103,16 @@
   url: http://catchyagency.com/utility-api-or-ecosystem-api-a-guest-post-from-eventbrite/
   domain: catchyagency.com
   image: ""
-- curated_id: 121828d5d10c9d0f9a370fbf9a225eec
-  item_date: "2015-04-16 00:00:00"
-  title: Why the Small Business Market is the Next Big Thing for Developers
-  url: https://developer.intuit.com/blog/2015/04/14/why-the-small-business-market-is-the-next-big-thing-for-developers
-  domain: developer.intuit.com
-  image: ""
 - curated_id: 17b5bb31f0d3152ebaac754cae2c391a
   item_date: "2015-04-16 00:00:00"
   title: A 3-step guide to getting started with Intuit Developer
   url: https://developer.intuit.com/blog/2015/04/16/a-3-step-guide-to-getting-started-with-intuit-developer
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 121828d5d10c9d0f9a370fbf9a225eec
+  item_date: "2015-04-16 00:00:00"
+  title: Why the Small Business Market is the Next Big Thing for Developers
+  url: https://developer.intuit.com/blog/2015/04/14/why-the-small-business-market-is-the-next-big-thing-for-developers
   domain: developer.intuit.com
   image: ""
 - curated_id: a6f0947f23622eecd0908f8fde12c567
@@ -304,35 +145,11 @@
   url: http://blog.estimote.com/post/119525082855/user-stories-on-steroids-how-estimote-uses-blog
   domain: blog.estimote.com
   image: ""
-- curated_id: 2f152428dcf81b6352c1e5ed1e362d37
-  item_date: "2015-05-26 00:00:00"
-  title: James Nocentini is a UK-based Couchbase Evangelist
-  url: http://hackathon.posthaven.com/james-nocentini-is-a-uk-based-couchbase-evangelist
-  domain: hackathon.posthaven.com
-  image: ""
 - curated_id: 12297da101bf72b8b76b869f800ef246
   item_date: "2015-05-26 00:00:00"
   title: MakeSchool evangelist Nicolai Safai got into evangelism via an unconventional
     route
   url: http://hackathon.posthaven.com/makeschool-evangelist-nicolai-safai-got-into-evangelism-via-an-unconventional-route
-  domain: hackathon.posthaven.com
-  image: ""
-- curated_id: 8e09dfeed8bfe8150645c893024c7ac9
-  item_date: "2015-05-26 00:00:00"
-  title: How Tim Falls is building community from scratch at Keen.io
-  url: http://hackathon.posthaven.com/how-tim-falls-is-building-an-evangelism-program-from-scratch-at-keen-dot-io
-  domain: hackathon.posthaven.com
-  image: ""
-- curated_id: d91ec2718fe426bede26731cd7516920
-  item_date: "2015-05-26 00:00:00"
-  title: Eddie Zaneski is a Brooklyn-based SendGrid evangelist
-  url: http://hackathon.posthaven.com/eddie-zaneski-is-a-sendgrid-evangelist
-  domain: hackathon.posthaven.com
-  image: ""
-- curated_id: ba497efb606e785b871a2ddb920e08f5
-  item_date: "2015-05-26 00:00:00"
-  title: Cassidy Williams is a Venmo dev evangelist and hackathon enthusiast
-  url: http://hackathon.posthaven.com/cassidy-williams-is-a-venmo-dev-evangelist-and-hackathon-enthusiast
   domain: hackathon.posthaven.com
   image: ""
 - curated_id: 22dc007f5f3385f0c1244aac55670a41
@@ -342,10 +159,22 @@
   url: http://hackathon.posthaven.com/matt-dierker-is-an-organizer-of-hack-illinois-whos-interned-at-facebook-google-and-dropbox
   domain: hackathon.posthaven.com
   image: ""
-- curated_id: df23ea93bb2ab41382366fa838fe08da
+- curated_id: 2f152428dcf81b6352c1e5ed1e362d37
   item_date: "2015-05-26 00:00:00"
-  title: Namecheap Evangelist Sebastian Park reps the NC.me program for student hackers
-  url: http://hackathon.posthaven.com/namecheap-evangelist-sebastian-park-reps-the-nc-dot-me-program-for-student-hackers
+  title: James Nocentini is a UK-based Couchbase Evangelist
+  url: http://hackathon.posthaven.com/james-nocentini-is-a-uk-based-couchbase-evangelist
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: 8e09dfeed8bfe8150645c893024c7ac9
+  item_date: "2015-05-26 00:00:00"
+  title: How Tim Falls is building community from scratch at Keen.io
+  url: http://hackathon.posthaven.com/how-tim-falls-is-building-an-evangelism-program-from-scratch-at-keen-dot-io
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: ba497efb606e785b871a2ddb920e08f5
+  item_date: "2015-05-26 00:00:00"
+  title: Cassidy Williams is a Venmo dev evangelist and hackathon enthusiast
+  url: http://hackathon.posthaven.com/cassidy-williams-is-a-venmo-dev-evangelist-and-hackathon-enthusiast
   domain: hackathon.posthaven.com
   image: ""
 - curated_id: e3b62cd6992f25ccb8814dc6aefb5f05
@@ -354,16 +183,22 @@
   url: http://hackathon.posthaven.com/mulesoft-evangelist-mike-stowe-is-completely-self-taught
   domain: hackathon.posthaven.com
   image: ""
+- curated_id: d91ec2718fe426bede26731cd7516920
+  item_date: "2015-05-26 00:00:00"
+  title: Eddie Zaneski is a Brooklyn-based SendGrid evangelist
+  url: http://hackathon.posthaven.com/eddie-zaneski-is-a-sendgrid-evangelist
+  domain: hackathon.posthaven.com
+  image: ""
 - curated_id: 82b2a3a80a3ee80a479029ab95a074e0
   item_date: "2015-05-26 00:00:00"
   title: Tyler Nappy is an NYC-based evangelist for Mailjet
   url: http://hackathon.posthaven.com/tyler-nappy-is-an-nyc-based-evangelist-for-mailjet
   domain: hackathon.posthaven.com
   image: ""
-- curated_id: 023191c34b1ef97ad56d5412989231c2
+- curated_id: df23ea93bb2ab41382366fa838fe08da
   item_date: "2015-05-26 00:00:00"
-  title: Rex St John reps a stable of APIs for Intel Mashery
-  url: http://hackathon.posthaven.com/rex-st-john-reps-a-stable-of-apis-for-intel-mashery
+  title: Namecheap Evangelist Sebastian Park reps the NC.me program for student hackers
+  url: http://hackathon.posthaven.com/namecheap-evangelist-sebastian-park-reps-the-nc-dot-me-program-for-student-hackers
   domain: hackathon.posthaven.com
   image: ""
 - curated_id: 95c89c1083e6dc60590521ce4fd5f3d1
@@ -378,17 +213,23 @@
   url: http://hackathon.posthaven.com/nick-quinlan-is-a-sendgrid-veteran-and-now-commissioner-of-major-league-hacking
   domain: hackathon.posthaven.com
   image: ""
-- curated_id: 5caaf803f674dee46abeeea6ed55464f
-  item_date: "2015-05-27 00:00:00"
-  title: 'Trailhead: A New Approach to Learning Salesforce'
-  url: https://developer.salesforce.com/blogs/tech-pubs/2015/05/trailhead-new-approach-learning-salesforce.html
-  domain: developer.salesforce.com
+- curated_id: 023191c34b1ef97ad56d5412989231c2
+  item_date: "2015-05-26 00:00:00"
+  title: Rex St John reps a stable of APIs for Intel Mashery
+  url: http://hackathon.posthaven.com/rex-st-john-reps-a-stable-of-apis-for-intel-mashery
+  domain: hackathon.posthaven.com
   image: ""
 - curated_id: 10fecbdacaa1a4374d3097dbcc06f08d
   item_date: "2015-05-27 00:00:00"
   title: Watch MailChimp?s Free API Course on Team Treehouse
   url: http://blog.mailchimp.com/watch-mailchimps-free-api-course-on-team-treehouse/
   domain: blog.mailchimp.com
+  image: ""
+- curated_id: 5caaf803f674dee46abeeea6ed55464f
+  item_date: "2015-05-27 00:00:00"
+  title: 'Trailhead: A New Approach to Learning Salesforce'
+  url: https://developer.salesforce.com/blogs/tech-pubs/2015/05/trailhead-new-approach-learning-salesforce.html
+  domain: developer.salesforce.com
   image: ""
 - curated_id: ba8ddbda00008e74d98f5bd4cc15aa81
   item_date: "2015-06-03 00:00:00"
@@ -578,17 +419,17 @@
   url: https://medium.com/@thursdayb/the-discussion-we-need-to-have-at-apistrat-ae4812f3244f#.24y5efh34
   domain: medium.com
   image: ""
-- curated_id: 8bfd41b5f6f66509387076859952f11a
-  item_date: "2015-12-08 00:00:00"
-  title: Developer Success Story  ? Peter Knolle
-  url: https://developer.salesforce.com/blogs/developer-relations/2015/12/developer-success-story-peter-knolle.html
-  domain: developer.salesforce.com
-  image: ""
 - curated_id: 5200c673feea721eba1c5a5b06b320c0
   item_date: "2015-12-08 00:00:00"
   title: Self-Serve Indix Product API ? The Story So Far
   url: http://www.indix.com/blog/news/self-serve-api-status-update/
   domain: www.indix.com
+  image: ""
+- curated_id: 8bfd41b5f6f66509387076859952f11a
+  item_date: "2015-12-08 00:00:00"
+  title: Developer Success Story  ? Peter Knolle
+  url: https://developer.salesforce.com/blogs/developer-relations/2015/12/developer-success-story-peter-knolle.html
+  domain: developer.salesforce.com
   image: ""
 - curated_id: 2d7f488cdf923fea1e8959516d8de690
   item_date: "2015-12-10 00:00:00"
@@ -700,17 +541,17 @@
   url: http://blog.apiware.io/importance-of-thinking-externally-when-writing-the-description-for-your-api/
   domain: blog.apiware.io
   image: ""
-- curated_id: 03a4072add26e2d9890e27f1a4018a51
-  item_date: "2016-02-12 00:00:00"
-  title: Answering some questions about developer evangelism
-  url: https://www.christianheilmann.com/2016/02/12/answering-some-questions-about-developer-evangelism/
-  domain: www.christianheilmann.com
-  image: ""
 - curated_id: fabfd6f84a816a504de2d2fcf6986f89
   item_date: "2016-02-12 00:00:00"
   title: Announcing Weekly Alexa Developer Office Hours
   url: https://developer.amazon.com/appsandservices/community/post/Tx3NJ44CRNDHE00/Announcing-Weekly-Alexa-Developer-Office-Hours
   domain: developer.amazon.com
+  image: ""
+- curated_id: 03a4072add26e2d9890e27f1a4018a51
+  item_date: "2016-02-12 00:00:00"
+  title: Answering some questions about developer evangelism
+  url: https://www.christianheilmann.com/2016/02/12/answering-some-questions-about-developer-evangelism/
+  domain: www.christianheilmann.com
   image: ""
 - curated_id: 20ad6d327b73764f05ebe8a919cefa12
   item_date: "2016-02-16 00:00:00"
@@ -852,17 +693,17 @@
   url: https://dzone.com/articles/api-providers-amp-consumers-keeping-in-touch-is-ho
   domain: dzone.com
   image: ""
-- curated_id: ef62a38c59657f6b36c037047e1ae18b
-  item_date: "2016-05-17 00:00:00"
-  title: Developer Tutorial - Building a Secure Onboarding App with Box Platform
-  url: https://www.box.com/blog/developer-tutorial-building-user-onboarding-app-box-platform/
-  domain: www.box.com
-  image: ""
 - curated_id: 2071b589ee4b499907833e555db58560
   item_date: "2016-05-17 00:00:00"
   title: Welcome to the Newest AWS Community Heroes (Spring 2016)
   url: https://aws.amazon.com/blogs/aws/welcome-to-the-newest-aws-community-heroes-spring-2016/
   domain: aws.amazon.com
+  image: ""
+- curated_id: ef62a38c59657f6b36c037047e1ae18b
+  item_date: "2016-05-17 00:00:00"
+  title: Developer Tutorial - Building a Secure Onboarding App with Box Platform
+  url: https://www.box.com/blog/developer-tutorial-building-user-onboarding-app-box-platform/
+  domain: www.box.com
   image: ""
 - curated_id: f9aa7c58f3ae9c1a513ab8fc1b77e86c
   item_date: "2016-05-20 00:00:00"
@@ -973,16 +814,16 @@
   url: https://blog.docker.com/2016/08/5-minutes-docker-captains/
   domain: blog.docker.com
   image: ""
-- curated_id: 7c46bb9dc0b28c3920e0af13c9543381
-  item_date: "2016-08-17 00:00:00"
-  title: 'Meet April L. Hamilton: Developer, Blogger, and All Around Alexa Champion'
-  url: https://developer.amazon.com/appsandservices/community/post/Tx1I8VB8CSIC5JW/Meet-April-L-Hamilton-Developer-Blogger-and-All-Around-Alexa-Champion
-  domain: developer.amazon.com
-  image: ""
 - curated_id: 8a3700d294b364c604c5604639c46294
   item_date: "2016-08-17 00:00:00"
   title: 'Alexa Champions: Recognizing Top Alexa Developers in the Community'
   url: https://developer.amazon.com/appsandservices/community/post/Tx19OHYKBG2ROQQ/Alexa-Champions-Recognizing-Top-Alexa-Developers-in-the-Community
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 7c46bb9dc0b28c3920e0af13c9543381
+  item_date: "2016-08-17 00:00:00"
+  title: 'Meet April L. Hamilton: Developer, Blogger, and All Around Alexa Champion'
+  url: https://developer.amazon.com/appsandservices/community/post/Tx1I8VB8CSIC5JW/Meet-April-L-Hamilton-Developer-Blogger-and-All-Around-Alexa-Champion
   domain: developer.amazon.com
   image: ""
 - curated_id: 05a14acc9aa04358614b8791b75148c7
@@ -1106,5 +947,236 @@
   title: 'Twitter Developer Communities: get to know your local developers'
   url: https://blog.twitter.com/2016/twitter-developer-communities-get-to-know-your-local-developers-0
   domain: blog.twitter.com
+  image: ""
+- curated_id: 658f9e350f57bfe7b91bdc961285af62
+  item_date: "2016-12-15 00:00:00"
+  title: Developer experience for developer events
+  url: https://devrel.net/craft/developer-experience-developer-events
+  domain: devrel.net
+  image: ""
+- curated_id: ea9885852896fa7e936058e9de165933
+  item_date: "2016-12-15 00:00:00"
+  title: From empathy to community
+  url: http://www.niemanlab.org/2016/12/from-empathy-to-community/
+  domain: www.niemanlab.org
+  image: ""
+- curated_id: 11b3d6fe9241f490b8067f95e363fec5
+  item_date: "2016-12-15 00:00:00"
+  title: 'Why developer relations programmes fail: Mike Stowe'
+  url: https://devrel.net/opinion/developer-relations-programmes-fail-mike-stowe
+  domain: devrel.net
+  image: ""
+- curated_id: d9298d4f7f720ad712c5410171a183f8
+  item_date: "2016-12-18 00:00:00"
+  title: Building our own communities
+  url: http://www.niemanlab.org/2016/12/building-our-own-communities/
+  domain: www.niemanlab.org
+  image: ""
+- curated_id: 1b0923f099e7e5ef8846fcc75aad46a2
+  item_date: "2016-12-19 00:00:00"
+  title: Welcome to the Newest AWS Heroes (Winter 2016)
+  url: https://aws.amazon.com/blogs/aws/welcome-to-the-newest-aws-heroes-winter-2016/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: b995dfe07379f4a9328034ab2c609971
+  item_date: "2016-12-30 00:00:00"
+  title: Suggestions for improving Twitter
+  url: http://boingboing.net/2016/12/30/suggestions-for-improving-twit.html
+  domain: boingboing.net
+  image: ""
+- curated_id: 54911fb74a1590a860ff3c6ad08272f4
+  item_date: "2017-01-10 00:00:00"
+  title: "Introducing David Okun \u2013 StrongLoop Developer Evangelist"
+  url: https://strongloop.com/strongblog/introducing-david-okun-strongloop-developer-evangelist/
+  domain: strongloop.com
+  image: ""
+- curated_id: f3e1b4b65300502a001ce53d4efbea93
+  item_date: "2017-01-10 09:30:09"
+  title: 'New Years Resolution: How (and Why) to Give Back to the Developer Community'
+  url: https://blog.runscope.com/posts/new-years-resolution-how-and-why-to-give-back-to-the-developer-community
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 3615a4ad53fe65ad3c2091dc593d0204
+  item_date: "2017-01-11 00:00:00"
+  title: 'Measuring developer evangelism: Rey Bango'
+  url: https://devrel.net/craft/measuring-developer-evangelism-rey-bango
+  domain: devrel.net
+  image: ""
+- curated_id: 32d28711f9ae810e0021679211cbea8a
+  item_date: "2017-01-17 00:00:00"
+  title: "Introducing Erin McKean \u2013 StrongLoop Lead Developer Evangelist"
+  url: https://strongloop.com/strongblog/introducing-erin-mckean-strongloop-lead-developer-evangelist/
+  domain: strongloop.com
+  image: ""
+- curated_id: 7027cbdc4c3ba43449e78e7460fb8328
+  item_date: "2017-01-31 00:00:00"
+  title: "Introducing Raymond Camden \u2013 Cat Person who Occasionally Evangelizes"
+  url: https://strongloop.com/strongblog/introducing-raymond-camden-cat-person-who-occasionally-evangelizes/
+  domain: strongloop.com
+  image: ""
+- curated_id: 8cbb3e75db7916b7cafecd9bd78c1e26
+  item_date: "2017-02-06 14:51:01"
+  title: 'Developer Program Metrics: How Intuit Measures Developer Success'
+  url: https://www.visionmobile.com/blog/2017/01/intuit-measures-developer-success
+  domain: www.visionmobile.com
+  image: ""
+- curated_id: f6e1642cbe38e901a4397fbdb2e6658f
+  item_date: "2017-02-07 00:00:00"
+  title: Get published on this blog
+  url: https://medium.com/slack-developer-blog/get-published-on-this-blog-5d9dae534595
+  domain: medium.com
+  image: ""
+- curated_id: b9c1269efab78c563dbd5925a0ed6f7d
+  item_date: "2017-02-07 00:00:00"
+  title: New integrations for you to discover
+  url: https://medium.com/intercom-developers/new-integrations-for-you-to-discover-6fc8b7694e23
+  domain: medium.com
+  image: ""
+- curated_id: 547818fae6894f376e123de2c139e13b
+  item_date: "2017-02-08 00:00:00"
+  title: Box Overhauls its Developer Experience
+  url: https://www.programmableweb.com/news/box-overhauls-its-developer-experience/brief/2017/02/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 34fbb6b0449c73ab7a198ad351729546
+  item_date: "2017-02-08 00:00:00"
+  title: G Suite Developer Sessions at Google Cloud Next 2017
+  url: https://developers.googleblog.com/2017/02/g-suite-developer-sessions-at-google.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: 10ee763900b1b935275be258ddcec750
+  item_date: "2017-02-09 00:00:00"
+  title: New Developer Evanglist Charlotte Joins the OpenShift Team
+  url: https://blog.openshift.com/new-developer-evanglist-charlotte-joins-the-openshift-team/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: e30ca79a134825b4518c767a71493701
+  item_date: "2017-02-09 00:00:00"
+  title: 'EVMan: event management tool for devrel teams'
+  url: https://devrel.net/tools/evman-event-management-tool-devrel-teams
+  domain: devrel.net
+  image: ""
+- curated_id: 79ea01932ba921e110cb4e56635cbd8a
+  item_date: "2017-02-10 00:00:00"
+  title: Developer experience is user experience
+  url: https://devrel.net/developer-experience/developer-experience-user-experience
+  domain: devrel.net
+  image: ""
+- curated_id: c69a8cda38d677659138208bbd798ed9
+  item_date: "2017-02-13 00:00:00"
+  title: Back the Developer Relations book Kickstarter
+  url: https://devrel.net/industry/back-developer-relations-book-kickstarter
+  domain: devrel.net
+  image: ""
+- curated_id: d4fba0768d2f627787f90d62c6574a34
+  item_date: "2017-02-19 00:00:00"
+  title: The dangers of technical evangelism
+  url: https://permanenttourist.ch/2017/02/the-dangers-of-technical-evangelism/
+  domain: permanenttourist.ch
+  image: ""
+- curated_id: c7461a5fc45ffbf7ed9338375d6a5e53
+  item_date: "2017-02-22 00:00:00"
+  title: What We Learned When We Surveyed Our Developer Community
+  url: http://keenio.tumblr.com/post/157583365631/what-we-learned-when-we-surveyed-our-developer#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: ab8669c8c728d02e76b6c26612de874a
+  item_date: "2017-02-22 00:00:00"
+  title: Who Actually Uses Your API?
+  url: https://zapier.com/engineering/non-developer-experience/
+  domain: zapier.com
+  image: ""
+- curated_id: ac495dee16b44f583510382653518675
+  item_date: "2017-02-27 00:00:00"
+  title: 'Developer Success: the real challenge for APIs, and how we plan to solve
+    that'
+  url: https://blog.hitchhq.com/developer-success-the-real-challenge-for-apis-and-how-we-plan-to-solve-that-80a9e7285958
+  domain: blog.hitchhq.com
+  image: ""
+- curated_id: 1a612d9c1aae8dcb683b833fa2b3ba2c
+  item_date: "2017-03-07 00:00:00"
+  title: Rebooting a community
+  url: https://devrel.net/craft/rebooting-a-community
+  domain: devrel.net
+  image: ""
+- curated_id: 42f3ec344ca177600753864e25aa8a47
+  item_date: "2017-03-14 00:00:00"
+  title: Measuring growth for your API using the SAAS analogy
+  url: https://blog.hitchhq.com/measuring-growth-for-your-api-using-the-saas-analogy-33efc03d1ef4#.i4qhwq6lh
+  domain: blog.hitchhq.com
+  image: ""
+- curated_id: 404a5d64442b7f042dbbfbd3393c8271
+  item_date: "2017-03-14 00:00:00"
+  title: "From Building RESTful APIs to Teaching Hip Hop:  An Interview with VictorOps
+    Developer DeAndr\xE9 Carroll"
+  url: https://victorops.com/blog/building-restful-apis-teaching-hip-hop-interview-victorops-developer-deandre-carroll/
+  domain: victorops.com
+  image: ""
+- curated_id: b0943cdf09ac2269841c21d519c8d47b
+  item_date: "2017-03-15 00:00:00"
+  title: Is Glitch the answer to API devrel?
+  url: https://devrel.net/tools/glitch-answer-api-devrel
+  domain: devrel.net
+  image: ""
+- curated_id: 6a98ca9c06e7dbd5d74e9fc2d83b201f
+  item_date: "2017-03-16 00:00:00"
+  title: Citizen Data Evangelists, CDOs,  Sunshine Week in the News
+  url: https://socrata.com/blog/citizen-data-evangelists-cdos-sunshine-week-news/
+  domain: socrata.com
+  image: ""
+- curated_id: 3b83ff648129741519aba48ce4beb16d
+  item_date: "2017-03-19 00:00:00"
+  title: "Talking to Developers and Civic Hackers on Their Own Terms\u2026"
+  url: https://blog.ouseful.info/2017/03/19/talking-to-developers/
+  domain: blog.ouseful.info
+  image: ""
+- curated_id: e65ec2c8bbf1c5ade2cb294eff942605
+  item_date: "2017-03-22 00:00:00"
+  title: 'Now Live: Stack Overflow Developer Survey 2017 Results'
+  url: https://stackoverflow.blog/2017/03/22/now-live-stack-overflow-developer-survey-2017-results/
+  domain: stackoverflow.blog
+  image: ""
+- curated_id: cdde9e3570059f9d5042ca32ce9cb2e2
+  item_date: "2017-03-29 00:00:00"
+  title: In case you missed the AdWords API Workshops... videos are on YouTube
+  url: http://googleadsdeveloper.blogspot.com/2017/03/in-case-you-missed-adwords-api.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: 94f8062678edf87c1399114a72474d01
+  item_date: "2017-04-06 00:00:00"
+  title: Announcing the Slack Platform Eurotour!
+  url: https://medium.com/slack-developer-blog/announcing-the-slack-platform-eurotour-bf1f4a05576e
+  domain: medium.com
+  image: ""
+- curated_id: 16ad107752977fa45990934e28ac36ed
+  item_date: "2017-04-12 00:00:00"
+  title: OpsGenie Presents New Community
+  url: https://blog.opsgenie.com/2017/04/community
+  domain: blog.opsgenie.com
+  image: ""
+- curated_id: 44b839a98a1a161a21e6c30eb9cc5195
+  item_date: "2017-04-17 00:00:00"
+  title: GitHub makes its Developer Program free, adds new benefits
+  url: http://www.zdnet.com/article/github-makes-its-developer-program-free-adds-new-benefits/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 0c10931448f19055a577ddd22811d7af
+  item_date: "2017-04-17 00:00:00"
+  title: GitHub Updates its Developer Program
+  url: https://www.programmableweb.com/news/github-updates-its-developer-program/brief/2017/04/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 09126edb3c2284c26e23e5999689d797
+  item_date: "2017-04-20 15:19:49"
+  title: "How I fail developers \u2013 Taylor Singletary \u2013 Medium"
+  url: https://medium.com/@episod/how-i-fail-developers-74580c13d5a4
+  domain: medium.com
+  image: ""
+- curated_id: 0ef0042e11142e4a34136d2d1b07faa1
+  item_date: "2017-05-05 15:27:36"
+  title: 'Tweet: We#039;re hosting API Office Hours on Monday, May 8th at 1pm PST!
+    You can register here: https://t.co/m6ofDLwOOp'
+  url: https://twitter.com/BoxPlatform/statuses/860622032085676032
+  domain: twitter.com
   image: ""
 ...
