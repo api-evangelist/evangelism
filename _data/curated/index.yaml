@@ -174,16 +174,16 @@
   url: http://www.mashery.com/blog/why-you-should-treat-your-api-product
   domain: www.mashery.com
   image: ""
-- curated_id: 52dd2033e4aeca046471c3f7d2170a1a
-  item_date: "2013-06-05 00:00:00"
-  title: 'APIs vs. The Myth of the Omnichannel Retailer  '
-  url: http://www.mashery.com/blog/apis-vs-myth-omnichannel-retailer
-  domain: www.mashery.com
-  image: ""
 - curated_id: 37215327ea7c81205e6f11086f15da5a
   item_date: "2013-06-05 00:00:00"
   title: API Management ? The New Black?
   url: http://www.mashery.com/blog/api-management-new-black
+  domain: www.mashery.com
+  image: ""
+- curated_id: 52dd2033e4aeca046471c3f7d2170a1a
+  item_date: "2013-06-05 00:00:00"
+  title: 'APIs vs. The Myth of the Omnichannel Retailer  '
+  url: http://www.mashery.com/blog/apis-vs-myth-omnichannel-retailer
   domain: www.mashery.com
   image: ""
 - curated_id: 7e311ee3053f190ae70e5623d906ab63
@@ -204,29 +204,29 @@
   url: http://www.designinghypermediaapis.com/
   domain: www.designinghypermediaapis.com
   image: ""
-- curated_id: 4e0f423e88f0480e605ef828d3334404
-  item_date: "2013-06-17 00:00:00"
-  title: 'RESTful APIs: White House Sets The Standard(s)'
-  url: http://www.programmableweb.com/news/restful-apis-white-house-sets-standards/2013/06/17
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 4684b22e52d05acd7c5b5b81d5ae3b0c
   item_date: "2013-06-17 00:00:00"
   title: 'API Design: Honing in on HATEOAS'
   url: http://apigee.com/about/blog/developer/api-design-honing-hateoas
   domain: apigee.com
   image: ""
-- curated_id: f84efa3faafb3c499ef588dfbe3f4886
-  item_date: "2013-06-19 00:00:00"
-  title: When Good API Design is a Waste of Time
-  url: http://www.apiacademy.co/blogs/when-good-api-design-is-a-waste-of-time/
-  domain: www.apiacademy.co
+- curated_id: 4e0f423e88f0480e605ef828d3334404
+  item_date: "2013-06-17 00:00:00"
+  title: 'RESTful APIs: White House Sets The Standard(s)'
+  url: http://www.programmableweb.com/news/restful-apis-white-house-sets-standards/2013/06/17
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 7d6aae70c8bbdb726c78e4fa13017f9e
   item_date: "2013-06-19 00:00:00"
   title: Data-Driven Aesthetics
   url: http://www.nytimes.com/glogin/URI=http://bits.blogs.nytimes.com/2013/06/19/data-driven-aesthetics/&amp;OQ=_rQ3D0&amp;OP=54867341Q2FfQ3B9Q51fbhXf555fzXJefG7d.
   domain: www.nytimes.com
+  image: ""
+- curated_id: f84efa3faafb3c499ef588dfbe3f4886
+  item_date: "2013-06-19 00:00:00"
+  title: When Good API Design is a Waste of Time
+  url: http://www.apiacademy.co/blogs/when-good-api-design-is-a-waste-of-time/
+  domain: www.apiacademy.co
   image: ""
 - curated_id: 7df783f9d31f00753c2b5b97376c4e45
   item_date: "2013-06-20 00:00:00"
@@ -270,17 +270,17 @@
   url: https://www.3scale.net/2013/07/api-crafting-secrets-into-flightstats-apis/
   domain: www.3scale.net
   image: ""
-- curated_id: 4bab1969403f9a4252dfb4eaeadb1a70
-  item_date: "2013-07-03 00:00:00"
-  title: 'API Design: Harnessing HATEOAS, Part 2'
-  url: https://blog.apigee.com/detail/api_design_harnessing_hateoas_part_2
-  domain: blog.apigee.com
-  image: ""
 - curated_id: 2c0189ef6c30e8c4df68649b0f7e065a
   item_date: "2013-07-03 00:00:00"
   title: Signs youre veering from good API design
   url: http://blog.apiaxle.com/post/signs-youre-veering-from-good-api-design/
   domain: blog.apiaxle.com
+  image: ""
+- curated_id: 4bab1969403f9a4252dfb4eaeadb1a70
+  item_date: "2013-07-03 00:00:00"
+  title: 'API Design: Harnessing HATEOAS, Part 2'
+  url: https://blog.apigee.com/detail/api_design_harnessing_hateoas_part_2
+  domain: blog.apigee.com
   image: ""
 - curated_id: 201c016c59919bcda0cb928cb64dfecf
   item_date: "2013-07-04 00:00:00"
@@ -324,17 +324,17 @@
   url: http://www.mashery.com/blog/future-tv-and-apis
   domain: www.mashery.com
   image: ""
-- curated_id: 1b7ea2d3b299e9b1a7e87fb83f3b3108
-  item_date: "2013-08-06 00:00:00"
-  title: The Importance of Impermanence in API Design
-  url: http://www.programmableweb.com/news/importance-impermanence-api-design/2013/08/06
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: e95a34a87e95bfdab6b0b829eff0a206
   item_date: "2013-08-06 00:00:00"
   title: HOW USA TODAYS API POWERS PARTNERSHIPS
   url: http://www.mashery.com/blog/how-usa-todays-api-powers-partnerships
   domain: www.mashery.com
+  image: ""
+- curated_id: 1b7ea2d3b299e9b1a7e87fb83f3b3108
+  item_date: "2013-08-06 00:00:00"
+  title: The Importance of Impermanence in API Design
+  url: http://www.programmableweb.com/news/importance-impermanence-api-design/2013/08/06
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 469b18b3569635cfbf6d725bb6c6da5b
   item_date: "2013-08-08 00:00:00"
@@ -348,6 +348,18 @@
   url: https://dzone.com/articles/secrets-awesome-javascript-api
   domain: dzone.com
   image: ""
+- curated_id: 0d4ef097a8242fa4d5c91c721c9c26d6
+  item_date: "2013-08-20 00:00:00"
+  title: 'Api Design, Part 3: Make Transactions And Error Handling...'
+  url: https://www.forrester.com/report/API+Design+Part+3+Make+Transactions+And+Error+Handling+Clear+In+Your+API+Designs/-/E-RES102023
+  domain: www.forrester.com
+  image: ""
+- curated_id: 7785d938c648fb3319535d2273439564
+  item_date: "2013-08-20 00:00:00"
+  title: 'Api Design, Part 2: Design Messaging Styles By Balancing...'
+  url: https://www.forrester.com/report/API+Design+Part+2+Design+Messaging+Styles+By+Balancing+Reach+With+Your+Other+Design+Goals/-/E-RES102022
+  domain: www.forrester.com
+  image: ""
 - curated_id: 3b2b75b8e4651a1f5ff4c19cfa89adfc
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 4: Future-proof And Secure Your Apis...'
@@ -358,18 +370,6 @@
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
   url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
-  domain: www.forrester.com
-  image: ""
-- curated_id: 7785d938c648fb3319535d2273439564
-  item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 2: Design Messaging Styles By Balancing...'
-  url: https://www.forrester.com/report/API+Design+Part+2+Design+Messaging+Styles+By+Balancing+Reach+With+Your+Other+Design+Goals/-/E-RES102022
-  domain: www.forrester.com
-  image: ""
-- curated_id: 0d4ef097a8242fa4d5c91c721c9c26d6
-  item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 3: Make Transactions And Error Handling...'
-  url: https://www.forrester.com/report/API+Design+Part+3+Make+Transactions+And+Error+Handling+Clear+In+Your+API+Designs/-/E-RES102023
   domain: www.forrester.com
   image: ""
 - curated_id: 75e378f435ff8be00494caeb7c1a867b
@@ -565,17 +565,17 @@
   url: https://18fblog.tumblr.com/post/91868213233/hot-off-the-press-18fs-api-standards#_=_
   domain: 18fblog.tumblr.com
   image: ""
-- curated_id: d0a5488ff945ef7e4b610182363f2576
-  item_date: "2014-07-16 00:00:00"
-  title: 'The Real World Cup Winner: APIs'
-  url: http://blogs.mulesoft.com/biz/api-enable-world-cup-2014/
-  domain: blogs.mulesoft.com
-  image: ""
 - curated_id: b35ca6ab6a4b739481554bdb3058feba
   item_date: "2014-07-16 00:00:00"
   title: 'Hot off the Press: 18F?s API Standards'
   url: http://www.digitalgov.gov/2014/07/16/hot-off-the-press-18fs-api-standards/
   domain: www.digitalgov.gov
+  image: ""
+- curated_id: d0a5488ff945ef7e4b610182363f2576
+  item_date: "2014-07-16 00:00:00"
+  title: 'The Real World Cup Winner: APIs'
+  url: http://blogs.mulesoft.com/biz/api-enable-world-cup-2014/
+  domain: blogs.mulesoft.com
   image: ""
 - curated_id: 4479b9fe854a19ff7229c47017279553
   item_date: "2014-07-18 00:00:00"
@@ -595,17 +595,17 @@
   url: http://blogs.mulesoft.com/biz/dont-just-throw-apis/
   domain: blogs.mulesoft.com
   image: ""
-- curated_id: 5bf217a33b290a540d4635a26e3d9042
-  item_date: "2014-07-25 00:00:00"
-  title: 'APIs: The Key to Surviving a Zombie Apocalypse?'
-  url: http://www.mashery.com/blog/apis-key-surviving-zombie-apocalypse
-  domain: www.mashery.com
-  image: ""
 - curated_id: 1c1727e9a786adca35fda6c640c2fead
   item_date: "2014-07-25 00:00:00"
   title: Upcoming Webinar ? Integrating Salesforce and SAP
   url: http://blogs.mulesoft.com/biz/saas/sfdc-sap-unlock-back-office/
   domain: blogs.mulesoft.com
+  image: ""
+- curated_id: 5bf217a33b290a540d4635a26e3d9042
+  item_date: "2014-07-25 00:00:00"
+  title: 'APIs: The Key to Surviving a Zombie Apocalypse?'
+  url: http://www.mashery.com/blog/apis-key-surviving-zombie-apocalypse
+  domain: www.mashery.com
   image: ""
 - curated_id: f9341875db4741c665f688baba989ff3
   item_date: "2014-07-25 11:55:18"
@@ -613,18 +613,18 @@
   url: https://www.sitepoint.com/best-practices-rest-api-scratch-introduction/
   domain: www.sitepoint.com
   image: ""
-- curated_id: 8f20b2c8123ae0f36b7f3af33b4fac00
-  item_date: "2014-07-30 00:00:00"
-  title: Introducing the Anypoint Platform for APIs
-  url: http://blogs.mulesoft.com/dev/release-anypoint-platform-api-2014-07/
-  domain: blogs.mulesoft.com
-  image: ""
 - curated_id: 2144cf7b6ae1e4945985a2841c5ed29d
   item_date: "2014-07-30 00:00:00"
   title: Reaffirming Intel Services? Connection with Developers and Open Source at
     OSCON
   url: http://www.mashery.com/blog/reaffirming-intel-services-connection-developers-and-open-source-oscon
   domain: www.mashery.com
+  image: ""
+- curated_id: 8f20b2c8123ae0f36b7f3af33b4fac00
+  item_date: "2014-07-30 00:00:00"
+  title: Introducing the Anypoint Platform for APIs
+  url: http://blogs.mulesoft.com/dev/release-anypoint-platform-api-2014-07/
+  domain: blogs.mulesoft.com
   image: ""
 - curated_id: 2be2689fece7524fe66f560e70b94512
   item_date: "2014-07-31 00:00:00"
@@ -674,17 +674,17 @@
   url: http://blogs.mulesoft.com/dev/integrating-mule-esb-net-based-rules-engines/
   domain: blogs.mulesoft.com
   image: ""
-- curated_id: 37a3c06d72eb59f098c847b5dc305918
-  item_date: "2014-08-20 00:00:00"
-  title: A drive by review of the Uber API
-  url: http://www.bizcoder.com:80/a-drive-by-review-of-the-uber-api
-  domain: www.bizcoder.com
-  image: ""
 - curated_id: f91d38bc30b0531338aee79fed15d1f5
   item_date: "2014-08-20 00:00:00"
   title: MuleSoft Summit Heads to Chicago  New York
   url: http://blogs.mulesoft.com/biz/events/mulesoft-summit-chicago-new-york/
   domain: blogs.mulesoft.com
+  image: ""
+- curated_id: 37a3c06d72eb59f098c847b5dc305918
+  item_date: "2014-08-20 00:00:00"
+  title: A drive by review of the Uber API
+  url: http://www.bizcoder.com:80/a-drive-by-review-of-the-uber-api
+  domain: www.bizcoder.com
   image: ""
 - curated_id: b39d33b47c455eb0e55ecf81c25c4f2c
   item_date: "2014-08-21 00:00:00"
@@ -704,17 +704,17 @@
   url: http://blog.smartbear.com/readyapi/api-readiness-do-you-have-what-you-need/
   domain: blog.smartbear.com
   image: ""
-- curated_id: 28c9a84532f4ffaf3b76dbd9d55f5d3b
-  item_date: "2014-09-25 00:00:00"
-  title: Designing APIs for the Web
-  url: http://tehparadox.com/forum/f58/designing-apis-web-8395324/
-  domain: tehparadox.com
-  image: ""
 - curated_id: af215a5a5d4d60fc1548a7cb802929d7
   item_date: "2014-09-25 00:00:00"
   title: WillowTree Apps Applies Service Virtualization to API Development
   url: http://www.programmableweb.com/news/willowtree-apps-applies-service-virtualization-to-api-development/2014/09/25
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 28c9a84532f4ffaf3b76dbd9d55f5d3b
+  item_date: "2014-09-25 00:00:00"
+  title: Designing APIs for the Web
+  url: http://tehparadox.com/forum/f58/designing-apis-web-8395324/
+  domain: tehparadox.com
   image: ""
 - curated_id: 4f731b9dd81637dcbb3d82793620fc2d
   item_date: "2014-09-26 00:00:00"
@@ -728,17 +728,17 @@
   url: http://rest-apithy.blogspot.ca/2014/11/readfielding.html
   domain: rest-apithy.blogspot.ca
   image: ""
-- curated_id: b789fc199a97d2842d86fad02496d760
-  item_date: "2014-12-03 00:00:00"
-  title: Restlet Studio, the First Cross-Language IDE for APIs
-  url: http://restlet.com/blog/2014/12/03/restlet-studio-the-first-cross-language-ide-for-apis/
-  domain: restlet.com
-  image: ""
 - curated_id: 36d1437b3e560ba212503bb255ed6d58
   item_date: "2014-12-03 00:00:00"
   title: Constructing URLs the easy way
   url: http://www.bizcoder.com:80/constructing-urls-the-easy-way
   domain: www.bizcoder.com
+  image: ""
+- curated_id: b789fc199a97d2842d86fad02496d760
+  item_date: "2014-12-03 00:00:00"
+  title: Restlet Studio, the First Cross-Language IDE for APIs
+  url: http://restlet.com/blog/2014/12/03/restlet-studio-the-first-cross-language-ide-for-apis/
+  domain: restlet.com
   image: ""
 - curated_id: c65247a5e357ab02c4b1d1e433a510c5
   item_date: "2014-12-23 00:00:00"
@@ -746,12 +746,18 @@
   url: http://www.windley.com//archives/2014/12/the_core_of_your_api.shtml
   domain: www.windley.com
   image: ""
-- curated_id: EI7haK43eN4QuUEK123zUqB6IWfA8cSZW77eoQ5fBGNm7YWVOtlxGJEykAI123wrhvGlVGDviU6tCgjqjoDG3m116dDw117117
-  item_date: "2015-01-06 00:00:00"
-  title: Does One API Description Language Fit an Entire Enterprise
-  url: https://blog.soa.com/does-one-api-description-language-fit-an-entire-enterprise/
-  domain: blog.soa.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-soa-comdoes-one-api-description-language-fit-an-entire-enterprise.png
+- curated_id: cb99064bb393f65dd8326e7111eb1615
+  item_date: "2015-01-05 00:00:00"
+  title: How to Better Promote Your API at Hackathons
+  url: http://www.programmableweb.com/news/how-to-better-promote-your-api-hackathons/elsewhere-web/2015/01/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 80fc89d9403bac1520b2745a2de25d36
+  item_date: "2015-01-05 00:00:00"
+  title: Venturesity Hosts Hackathons to Pinpoint Developer Talent
+  url: http://www.programmableweb.com/news/venturesity-hosts-hackathons-to-pinpoint-developer-talent/2015/01/05
+  domain: www.programmableweb.com
+  image: ""
 - curated_id: 8ioDhMuEfXB1I41S3RoLFtHpvKnAwBYDO1pQYXmjBtdFH4mKRO123yrCCWR6123aW9i1116LoMOjnfV0a2PC6U123zbgsg117117
   item_date: "2015-01-06 00:00:00"
   title: Connecting Our History At The Digital Public Library of America Using APIs
@@ -759,18 +765,36 @@
   url: http://apievangelist.com/2015/01/07/connecting-our-history-at-the-digital-public-library-of-america-using-apis-and-jsonld/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150107connecting-our-history-at-the-digital-public-library-of-america-using-apis-and-jsonld.png
+- curated_id: EI7haK43eN4QuUEK123zUqB6IWfA8cSZW77eoQ5fBGNm7YWVOtlxGJEykAI123wrhvGlVGDviU6tCgjqjoDG3m116dDw117117
+  item_date: "2015-01-06 00:00:00"
+  title: Does One API Description Language Fit an Entire Enterprise
+  url: https://blog.soa.com/does-one-api-description-language-fit-an-entire-enterprise/
+  domain: blog.soa.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-soa-comdoes-one-api-description-language-fit-an-entire-enterprise.png
 - curated_id: Mg806B8tgRQ9lJT7csi1SyudoAGPMEwQz2pDS2jJYK7J116hCWFjeHmXU1SUJlmN116cU6AAmQP4Wy0MzF2c5116OJGA117117
   item_date: "2015-01-06 19:30:12"
   title: Server Skeletons In Restlet Studio And APISpark
   url: http://apievangelist.com/2015/01/06/server-skeletons-in-restlet-studio-and-apispark/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150106server-skeletons-in-restlet-studio-and-apispark.png
+- curated_id: 2bc56c432fe634c451861df502837dd6
+  item_date: "2015-01-22 00:00:00"
+  title: Introducing Jordan Kasper ? StrongLoop Developer Evangelist
+  url: https://strongloop.com/strongblog/jordan-kasper-developer-evangelist/
+  domain: strongloop.com
+  image: ""
 - curated_id: GrjdHzLbcKsDmgtUOH6BuEZFxk8gvN123116qXPlq9R9mZRlTq8EBiPZnCZFbXKgAjgWC8G8tke9VYNHAC116tWogMJA117117
   item_date: "2015-01-22 00:00:00"
   title: Introducing the Organization Component in Codenvy
   url: http://blog.codenvy.com/introducing-organizations-codenvy121/
   domain: blog.codenvy.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-comintroducing-organizations-codenvy121.png
+- curated_id: 43d039cc4a8bdc6eef33585f7d19fd0f
+  item_date: "2015-01-28 00:00:00"
+  title: The power of developer communities
+  url: https://blog.docker.com/2015/01/the-power-of-developer-communities/
+  domain: blog.docker.com
+  image: ""
 - curated_id: WJxtV69QfIVFFt5gBlCsSgW9LDHqcvSo7igBFLG4DQTcCkPomEv0Nb116fR70pcXO1dflSb7SGBBnJUAjTwCA64Q117117
   item_date: "2015-02-08 22:47:32"
   title: Why you must design your private API in english  API Handyman
@@ -795,18 +819,18 @@
   url: https://blog.apiary.io/2015/02/17/Utilising-API-Blueprint-in-API-Clients
   domain: blog.apiary.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150217utilising-api-blueprint-in-api-clients.png
-- curated_id: FN85XqYS9CtnEtF20HgFFQ7T8MF6hxyXOb1123cnACz88T2OOQwNxGdLoTHZIyd7NDqPNZoStbZj8jUY3YWzQJbg117117
-  item_date: "2015-02-18 00:00:00"
-  title: How API Description Languages Enable API IDEs
-  url: http://www.programmableweb.com/news/how-api-description-languages-enable-api-ides/sponsored-content/2015/02/18
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-api-description-languages-enable-api-idessponsored-content20150218.png
 - curated_id: LWomzMZEGI3hzCApQQv4T2nOPmXLi27OUhkIZlZ2KxcU1l7Ej8X5ddj123mWsrTYa2jcan5iTvelrSymuS8DDkOg117117
   item_date: "2015-02-18 00:00:00"
   title: Community Debates API Specification Alternatives
   url: https://www.infoq.com/news/2015/02/api-alternatives
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201502api-alternatives.png
+- curated_id: FN85XqYS9CtnEtF20HgFFQ7T8MF6hxyXOb1123cnACz88T2OOQwNxGdLoTHZIyd7NDqPNZoStbZj8jUY3YWzQJbg117117
+  item_date: "2015-02-18 00:00:00"
+  title: How API Description Languages Enable API IDEs
+  url: http://www.programmableweb.com/news/how-api-description-languages-enable-api-ides/sponsored-content/2015/02/18
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-api-description-languages-enable-api-idessponsored-content20150218.png
 - curated_id: tYkcl8KiATEfaiY1UmrH5lxtVcQmat6oNAlRqvraOl4hGud72qibADUwKesZCBVX7HADCB8L0A6O5TiUoytF2w117117
   item_date: "2015-02-19 00:00:00"
   title: Using Templates for Documentation Driven API Design
@@ -819,6 +843,19 @@
   url: http://blog.smartbear.com/programming/collaborators-new-external-api/
   domain: blog.smartbear.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-smartbear-comprogrammingcollaborators-new-external-api.png
+- curated_id: f6bbbf81bda407fb1032b81739852c0e
+  item_date: "2015-02-20 00:00:00"
+  title: British bookseller Waterstones hid a reading list for developers in its source
+    code
+  url: http://thenextweb.com/shareables/2015/02/20/british-bookseller-waterstones-hid-reading-list-developers-source-code/
+  domain: thenextweb.com
+  image: ""
+- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
+  item_date: "2015-02-20 00:00:00"
+  title: LucyBot Eliminates CrossLanguage Programming Necessity
+  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
 - curated_id: STHZs1a123L9FCgfWP94I0Sc5SihdhKqiKdYRIR0PK4lESe9PXk51P18QI780lIAg454DCBfmE8UBsuB1qInUpEQ117117
   item_date: "2015-02-20 00:00:00"
   title: API Best Practices The Wrap Up
@@ -831,12 +868,6 @@
   url: http://www.programmableweb.com/news/mulesoft-releases-raml-.net-parser-visual-studio-extension/2015/02/20
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png
-- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
-  item_date: "2015-02-20 00:00:00"
-  title: LucyBot Eliminates CrossLanguage Programming Necessity
-  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
 - curated_id: IIngeWuMGFGoJeAH2UXBSc2Gk6tk1hjLPM3H1nHX7uzGRz7kCQbVVspghX2XHAEjeDLnOvaOyVqzZgK0iq123ngA117117
   item_date: "2015-02-20 08:48:02"
   title: LucyBot  Get your APIs consumers moving faster
@@ -861,6 +892,12 @@
   url: http://apievangelist.com/2015/02/23/my-brain-dump-on-an-api-definition-fueled-life-cycle/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150223my-brain-dump-on-an-api-definition-fueled-life-cycle.png
+- curated_id: d17e5d4adfe458e7aa525c0279517b84
+  item_date: "2015-02-23 00:00:00"
+  title: API Evangelist at HelloSign
+  url: https://stackoverflow.com/jobs/81419/api-evangelist-hellosign
+  domain: stackoverflow.com
+  image: ""
 - curated_id: n116g1239fmX8E123QXLOUbsnTfv5JSdGYHkYwt2VKOcW3Q1123oQnKVZ1ae8eYv4bU5wFJEss116UYsx5AA90Z72ODhyMEQ117117
   item_date: "2015-02-24 00:00:00"
   title: What Makes an Agile API
@@ -915,18 +952,24 @@
   url: http://radar.oreilly.com/2015/02/meta-design-the-intersection-of-art-design-and-computation.html
   domain: radar.oreilly.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/radar-oreilly-com201502meta-design-the-intersection-of-art-design-and-computation-html.png
-- curated_id: nPPSlUd3ATGDOhS45IbSlt1165BiAQ123OSoVTjdJR9NPlQSE8930I0DO9x123oMTA3fa4HMRIe2q5lfdSdm0EccqQfA117117
+- curated_id: 839e735c7e07015cd4037e9e1baab479
   item_date: "2015-03-03 00:00:00"
-  title: My API Design Research
-  url: http://apievangelist.com/2015/03/04/my-api-design-research/
-  domain: apievangelist.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150304my-api-design-research.png
+  title: 'Developer Download: Bill Palin, the Legal Hacker'
+  url: http://blog.devpost.com/post/112608135494/developer-download-bill-palin-the-legal-hacker
+  domain: blog.devpost.com
+  image: ""
 - curated_id: p8tPzwzIDnd123tqNr8eWRjAV3GVqJaEIBsL8SeFZkHWrLO87MfjTdo3P2vRbEynyMZXKLSfgmZWsnRLytkwgNdA117117
   item_date: "2015-03-03 00:00:00"
   title: Dropbox Sparks Controversy With API Design Decision
   url: http://www.programmableweb.com/news/dropbox-sparks-controversy-api-design-decision/analysis/2015/03/03
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsdropbox-sparks-controversy-api-design-decisionanalysis20150303.png
+- curated_id: nPPSlUd3ATGDOhS45IbSlt1165BiAQ123OSoVTjdJR9NPlQSE8930I0DO9x123oMTA3fa4HMRIe2q5lfdSdm0EccqQfA117117
+  item_date: "2015-03-03 00:00:00"
+  title: My API Design Research
+  url: http://apievangelist.com/2015/03/04/my-api-design-research/
+  domain: apievangelist.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150304my-api-design-research.png
 - curated_id: Bcy116FXbG5lFaou123Bq5VZbnj70mgPMsNZpkHyJKePfrmiR116yIzCrcoMIdqzij42UnYGym312jRv7PNLW2P0vN6w117117
   item_date: "2015-03-03 10:39:40"
   title: Apigee Product Highlight Video SmartDocs
@@ -945,12 +988,24 @@
   url: http://apievangelist.com/2015/03/04/making-sure-my-api-roundup-stories-are-machine-readable-by-designing-them-as-apisjson-collections/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150304making-sure-my-api-roundup-stories-are-machine-readable-by-designing-them-as-apisjson-collections.png
+- curated_id: b46feded1caa4025d27213d2eaa8267c
+  item_date: "2015-03-06 00:00:00"
+  title: How Promoting a Developer Ecosystem Strengthens an API
+  url: http://www.programmableweb.com/news/how-promoting-developer-ecosystem-strengthens-api/analysis/2015/03/06
+  domain: www.programmableweb.com
+  image: ""
 - curated_id: 8kPxNQDHPawjQvoE5VurmXDajybcmkuoVC123rmDhxkedCh4YSSKMtzxilrCMhFL7aKAA033I8jlkSIBJJJZrw7g117117
   item_date: "2015-03-07 10:36:02"
   title: We Need An Open Library Of The Most Common Utility API Implementations
   url: http://apievangelist.com/2015/03/07/we-need-an-open-library-of-the-most-common-utility-api-implementations/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150307we-need-an-open-library-of-the-most-common-utility-api-implementations.png
+- curated_id: P123Lr1g8NW7vIDkK8Uck2FMoLTvFqh1k7xXuaxSUhUnQuXhYWVETqA7Zky3Sj0TRxxsaddroCKTvzazOQjFSq6g117117
+  item_date: "2015-03-09 00:00:00"
+  title: Ideal REST API design  betim drenicas blog
+  url: https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/
+  domain: betimdrenica.wordpress.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/betimdrenica-wordpress-com20150309ideal-rest-api-design.png
 - curated_id: gbfpHt0Jwf3HoWH356OoyJK6TNHO1236bulVYUI1X7fpmZ2tLVGLDEs18CyjQKjzjEixOmf9Y70V511681IKrUDOgg117117
   item_date: "2015-03-09 00:00:00"
   title: Targeting Some APIs In My Stack For House Cleaning And Maybe Some Design
@@ -958,18 +1013,24 @@
   url: http://apievangelist.com/2015/03/10/targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150310targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations.png
-- curated_id: P123Lr1g8NW7vIDkK8Uck2FMoLTvFqh1k7xXuaxSUhUnQuXhYWVETqA7Zky3Sj0TRxxsaddroCKTvzazOQjFSq6g117117
-  item_date: "2015-03-09 00:00:00"
-  title: Ideal REST API design  betim drenicas blog
-  url: https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/
-  domain: betimdrenica.wordpress.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/betimdrenica-wordpress-com20150309ideal-rest-api-design.png
 - curated_id: KifJPHJjge116hzyNwyAPGw6RcPJ28rB1232hRPvkVRxsVRiP3aBPqPIi9rDLULK9BozVBsy0HhANdyhMtGjTvc03w117117
   item_date: "2015-03-10 00:00:00"
   title: Facebook Applies Versioning Strategy to Marketing API
   url: http://www.programmableweb.com/news/facebook-applies-versioning-strategy-to-marketing-api/2015/03/10
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsfacebook-applies-versioning-strategy-to-marketing-api20150310.png
+- curated_id: 3cdd27bceabaac6a616b8f8e787fc2f4
+  item_date: "2015-03-10 00:00:00"
+  title: Why API Developer Experience Matters More Than Ever
+  url: http://nordicapis.com/why-api-developer-experience-matters-more-than-ever/
+  domain: nordicapis.com
+  image: ""
+- curated_id: 4f1f75d059565605e1c1bdfac7d75ac4
+  item_date: "2015-03-12 00:00:00"
+  title: Why Amazon forces its developers to write press releases (AMZN)
+  url: http://www.businessinsider.com/heres-the-surprising-way-amazon-decides-what-new-enterprise-products-to-work-on-next-2015-3
+  domain: www.businessinsider.com
+  image: ""
 - curated_id: ievylumZCSmLT8bMOfL8QimGjx8HYIzAQxhZJgQuxdXnhHMrP6Al6ES2WUP7I2MW80HEDit8Xt2wRQRcGOCMSQ117117
   item_date: "2015-03-12 00:03:20"
   title: Augmenting A Read Only API With AN External POST PUT And DELETE
@@ -1000,6 +1061,18 @@
   url: http://jergames.blogspot.com/2015/03/20-api-design-tips-to-stop-annoying.html
   domain: jergames.blogspot.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/jergames-blogspot-com20150320-api-design-tips-to-stop-annoying-html.png
+- curated_id: 2cc123cde09b6c29518831f51921669e
+  item_date: "2015-03-18 00:00:00"
+  title: Taking off the developer goggles
+  url: https://signalvnoise.com/posts/3863-taking-off-the-developer-goggles
+  domain: signalvnoise.com
+  image: ""
+- curated_id: ae6ae0ac87aa3a9af078ef7012e96d62
+  item_date: "2015-03-18 00:00:00"
+  title: Announcing the Splunk Developer Guidance
+  url: http://blogs.splunk.com/2015/03/18/announcing-dev-guidance/
+  domain: blogs.splunk.com
+  image: ""
 - curated_id: ZtWvBV116njuOGonZkEKF2123WS6XJ116LwEejVuG123T5dzTIKGdI6Vshli3F9BnKLX1IiL5l123onu1EqAtQGpegJLZwVQ117117
   item_date: "2015-03-18 00:00:00"
   title: The API Field of Dreams Build It Correctly and They Will Come
@@ -1018,6 +1091,12 @@
   url: http://blog.smartbear.com/web-development/html6-apis-as-natural-friends/
   domain: blog.smartbear.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-smartbear-comnewshtml6-apis-as-natural-friends.png
+- curated_id: abd87d66197c56a1fea3d67e75de81ea
+  item_date: "2015-03-23 00:00:00"
+  title: What?s new for developers in QuickBooks Online V83?
+  url: https://developer.intuit.com/hub/blog/2015/03/23/whats-new-for-developers-in-quickbooks-online-v83/link=rss
+  domain: developer.intuit.com
+  image: ""
 - curated_id: 758Hfpq10j0123R4khxu116116P9aoHpcmTQ8sxByQYmYJZrgAIjtqpaZ123hRKR0oKKEikWyzJKwkBSqY5Lv1232l4WWcRg117117
   item_date: "2015-03-23 09:25:06"
   title: APIs arent apps Make them as thin and light as possible
@@ -1036,6 +1115,13 @@
   url: http://cloud-elements.com/ecommerce-api-design-the-etsy-api/
   domain: cloud-elements.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comecommerce-api-design-the-etsy-api.png
+- curated_id: 5dea45bc1acff68f51bec2dbf3cf65c6
+  item_date: "2015-03-30 13:58:32"
+  title: 'Troy Hunt: Deconstruct websites, get hired: hiding recruitment messages
+    in source code'
+  url: https://www.troyhunt.com/deconstruct-websites-get-hired-hiding/
+  domain: www.troyhunt.com
+  image: ""
 - curated_id: xh0xDU123116zqUVMS8W2iHPJbpGBEAIvLmffj6RBHdS5TdtJJ8lsaqSgptZMg9K7pYm8i116z1163DWCj6sd123CP9UABSA117117
   item_date: "2015-03-31 10:26:45"
   title: Bizcoder  API Design Notes Smart Paging
@@ -1054,6 +1140,12 @@
   url: http://www.programmableweb.com/news/how-to-decide-how-many-http-status-codes-your-api-needs/elsewhere-web/2015/04/02
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-to-decide-how-many-http-status-codes-your-api-needselsewhere-web20150402.png
+- curated_id: 4508c3cb2947bc434a7fd81ceed870fa
+  item_date: "2015-04-04 00:00:00"
+  title: Designing a workshop and workbooks
+  url: https://ffeathers.wordpress.com/2015/04/04/designing-a-workshop-and-workbooks/
+  domain: ffeathers.wordpress.com
+  image: ""
 - curated_id: Dr1hw1rslo116khwnZp8ji0ekdQPZcY6Qs2123g116CiXMgmYiNklGzt116H5Dus9foB1238MckwR5FH6ihgJM31oqT123IlrQ117117
   item_date: "2015-04-06 00:00:00"
   title: JSON API Spec Goes Through The Hacker News Gauntlet
@@ -1090,18 +1182,54 @@
   url: http://www.bizcoder.com/solving-dropbox-s-url-problems
   domain: www.bizcoder.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-bizcoder-comsolving-dropbox-s-url-problems.png
+- curated_id: ef9f512a25797177dda72995381e03c4
+  item_date: "2015-04-12 00:00:00"
+  title: New API Capabilities
+  url: http://blog.itrp.com/2015/04/new-api-capabilities.html
+  domain: blog.itrp.com
+  image: ""
+- curated_id: 022c4e42750847815585de06643a0bd4
+  item_date: "2015-04-13 17:53:26"
+  title: Utility API or Ecosystem API? A guest post from Eventbrit
+  url: http://catchyagency.com/utility-api-or-ecosystem-api-a-guest-post-from-eventbrite/
+  domain: catchyagency.com
+  image: ""
 - curated_id: o2dtUGBAyxBzRaBWBH1yPdBpkCy6Et116VMFEHfLDhlBFV0bk1zMqVnbpLEEL2m1Nxz88Kd116HvjRA116yKT2TwFvrA117117
   item_date: "2015-04-14 00:00:00"
   title: API Part of the Creative Palette
   url: http://nordicapis.com/apis-part-of-the-creative-palette/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comapis-part-of-the-creative-palette.png
+- curated_id: 17b5bb31f0d3152ebaac754cae2c391a
+  item_date: "2015-04-16 00:00:00"
+  title: A 3-step guide to getting started with Intuit Developer
+  url: https://developer.intuit.com/blog/2015/04/16/a-3-step-guide-to-getting-started-with-intuit-developer
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 121828d5d10c9d0f9a370fbf9a225eec
+  item_date: "2015-04-16 00:00:00"
+  title: Why the Small Business Market is the Next Big Thing for Developers
+  url: https://developer.intuit.com/blog/2015/04/14/why-the-small-business-market-is-the-next-big-thing-for-developers
+  domain: developer.intuit.com
+  image: ""
 - curated_id: WRytBnqKOk116Xg4u4ThlMWo2Mn7f4bVL2kULNcjLxtOuPp116HkGVGR3si5WCiBPI7cn4PfDLC5c441LmjgyQd25w117117
   item_date: "2015-04-19 00:00:00"
   title: REST API design tips
   url: https://kwtrnka.wordpress.com/2015/04/20/rest-api-design-tips/
   domain: kwtrnka.wordpress.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/kwtrnka-wordpress-com20150420rest-api-design-tips.png
+- curated_id: a6f0947f23622eecd0908f8fde12c567
+  item_date: "2015-04-20 00:00:00"
+  title: 'Dev. Evangelism 101: How to Sponsor a Hackathon - Webinar Report'
+  url: http://blog.challengepost.com/post/116929184639/dev-evangelism-101-how-to-sponsor-a-hackathon#_=_
+  domain: blog.challengepost.com
+  image: ""
+- curated_id: e9f811595277283da30088cd85eb0cde
+  item_date: "2015-04-20 00:00:00"
+  title: Hi! I?m Graham McBain, the New Evangelist!
+  url: http://blog.context.io/2015/04/hi-im-graham-mcbain-the-new-evangelist/
+  domain: blog.context.io
+  image: ""
 - curated_id: ZdkU4NwtEn9tv0Pxxb7Y8agWWq8p4yIumyy4imay7T0faHfbH6F8nwuxkeCwsVvIZeNQURuK2Wm7d0E8UpnGcg117117
   item_date: "2015-04-20 00:00:00"
   title: Introduction to Apiary Overview of Apiary and How to Create APIs
@@ -1157,6 +1285,12 @@
   url: http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/
   domain: apihandyman.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apihandyman-iodo-you-really-know-why-you-prefer-rest-over-rpc.png
+- curated_id: c830c14014174d875a27c0ef92e2b16c
+  item_date: "2015-05-11 00:00:00"
+  title: What?s it Like to be a Twilion?
+  url: https://www.twilio.com/blog/2015/05/whats-it-like-to-be-a-twilion.html
+  domain: www.twilio.com
+  image: ""
 - curated_id: YVvAgfB5ifkoqU20EVcjEWbeDKj0KgNwMN0vOnalR5hVDinEn123xT116maTvkybDLbtZdv7UJj6ipzSR63HgxW123123g117117
   item_date: "2015-05-11 14:44:01"
   title: A Guide to REST and API Design
@@ -1176,36 +1310,134 @@
   url: http://restlet.com/blog/2015/05/20/restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api/
   domain: restlet.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150520restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api.png
-- curated_id: Bs2hh71239NRJJ123123IBB9wcK7NZJZjhEIz1Hea67EEI0KB35123j28NaT08jBbSGxsarnQW116DhQ721164116Pm7tF2Ipn5Q117117
-  item_date: "2015-05-21 00:00:00"
-  title: 7 Important API Design Lessons
-  url: http://nordicapis.com/7-api-design-lessons-world-tour-roundup/
-  domain: nordicapis.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-com7-api-design-lessons-world-tour-roundup.png
 - curated_id: aSdL9MjYhohCUm22j7gioM123xw9NVf5j952Lu80Elw32J8wGj8ePV24T2zSEQAvUYliq1qZuYPHNl9CPl8nbNjQ117117
   item_date: "2015-05-21 00:00:00"
   title: Apigee adds some Swagger to API design
   url: http://www.pcadvisor.co.uk/news/software/apigee-adds-some-swagger-to-api-design-3612750/
   domain: www.pcadvisor.co.uk
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-pcadvisor-co-uknewssoftware3612750apigee-adds-some-swagger-to-api-design.png
+- curated_id: Bs2hh71239NRJJ123123IBB9wcK7NZJZjhEIz1Hea67EEI0KB35123j28NaT08jBbSGxsarnQW116DhQ721164116Pm7tF2Ipn5Q117117
+  item_date: "2015-05-21 00:00:00"
+  title: 7 Important API Design Lessons
+  url: http://nordicapis.com/7-api-design-lessons-world-tour-roundup/
+  domain: nordicapis.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-com7-api-design-lessons-world-tour-roundup.png
 - curated_id: 0RlbclclakYqrpBkU1116CCDN6IbxoulxNCGvTLxNE8P1qJSRIwHMIPiIH0diua4OP116MJnWyKkQf6zf0116jZiWhYw117117
   item_date: "2015-05-21 00:00:00"
   title: Apigee API Studio Designing Testing and Sharing APIs
   url: http://www.infoq.com/news/2015/05/apigee-api-studio
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201505apigee-api-studio.png
+- curated_id: f8b97c75f60fc8e39fc062e0ea62a7b6
+  item_date: "2015-05-22 00:00:00"
+  title: Why Twitter is your most important support channel
+  url: http://www.desk.com/blog/why-twitter-is-your-most-important-support-channel/
+  domain: www.desk.com
+  image: ""
+- curated_id: 380e6baf0541e260399c52759c6cdb3b
+  item_date: "2015-05-22 10:48:31"
+  title: Reality matters ? User stories on steroids ? how Estimote uses ?blog...
+  url: http://blog.estimote.com/post/119525082855/user-stories-on-steroids-how-estimote-uses-blog
+  domain: blog.estimote.com
+  image: ""
+- curated_id: ba497efb606e785b871a2ddb920e08f5
+  item_date: "2015-05-26 00:00:00"
+  title: Cassidy Williams is a Venmo dev evangelist and hackathon enthusiast
+  url: http://hackathon.posthaven.com/cassidy-williams-is-a-venmo-dev-evangelist-and-hackathon-enthusiast
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: d91ec2718fe426bede26731cd7516920
+  item_date: "2015-05-26 00:00:00"
+  title: Eddie Zaneski is a Brooklyn-based SendGrid evangelist
+  url: http://hackathon.posthaven.com/eddie-zaneski-is-a-sendgrid-evangelist
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: 023191c34b1ef97ad56d5412989231c2
+  item_date: "2015-05-26 00:00:00"
+  title: Rex St John reps a stable of APIs for Intel Mashery
+  url: http://hackathon.posthaven.com/rex-st-john-reps-a-stable-of-apis-for-intel-mashery
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: 8e09dfeed8bfe8150645c893024c7ac9
+  item_date: "2015-05-26 00:00:00"
+  title: How Tim Falls is building community from scratch at Keen.io
+  url: http://hackathon.posthaven.com/how-tim-falls-is-building-an-evangelism-program-from-scratch-at-keen-dot-io
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: 82b2a3a80a3ee80a479029ab95a074e0
+  item_date: "2015-05-26 00:00:00"
+  title: Tyler Nappy is an NYC-based evangelist for Mailjet
+  url: http://hackathon.posthaven.com/tyler-nappy-is-an-nyc-based-evangelist-for-mailjet
+  domain: hackathon.posthaven.com
+  image: ""
 - curated_id: E9EtiV1169XNQe1kCC82mNbfy9COKD123Hg4UYKSOPgAE9guxhW7riNevMV0j123O796ixpYtcqn9YorIQIqEpe116h8FQ117117
   item_date: "2015-05-26 00:00:00"
   title: RESTful API Design Part III Error Handling
   url: http://blog.cloud-elements.com/error-handling-restful-api-design-part-iii
   domain: blog.cloud-elements.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comrestful-api-design-part-iii-error-handling.png
+- curated_id: 2f152428dcf81b6352c1e5ed1e362d37
+  item_date: "2015-05-26 00:00:00"
+  title: James Nocentini is a UK-based Couchbase Evangelist
+  url: http://hackathon.posthaven.com/james-nocentini-is-a-uk-based-couchbase-evangelist
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: df23ea93bb2ab41382366fa838fe08da
+  item_date: "2015-05-26 00:00:00"
+  title: Namecheap Evangelist Sebastian Park reps the NC.me program for student hackers
+  url: http://hackathon.posthaven.com/namecheap-evangelist-sebastian-park-reps-the-nc-dot-me-program-for-student-hackers
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: 39b248097de3ed4036f97c0ced632c59
+  item_date: "2015-05-26 00:00:00"
+  title: Nick Quinlan is a SendGrid veteran and now commissioner of Major League Hacking
+  url: http://hackathon.posthaven.com/nick-quinlan-is-a-sendgrid-veteran-and-now-commissioner-of-major-league-hacking
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: e3b62cd6992f25ccb8814dc6aefb5f05
+  item_date: "2015-05-26 00:00:00"
+  title: Mulesoft Evangelist Mike Stowe is completely self-taught
+  url: http://hackathon.posthaven.com/mulesoft-evangelist-mike-stowe-is-completely-self-taught
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: 22dc007f5f3385f0c1244aac55670a41
+  item_date: "2015-05-26 00:00:00"
+  title: Matt Dierker is an organizer of Hack Illinois whos interned at Facebook,
+    Google, and Dropbox
+  url: http://hackathon.posthaven.com/matt-dierker-is-an-organizer-of-hack-illinois-whos-interned-at-facebook-google-and-dropbox
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: 12297da101bf72b8b76b869f800ef246
+  item_date: "2015-05-26 00:00:00"
+  title: MakeSchool evangelist Nicolai Safai got into evangelism via an unconventional
+    route
+  url: http://hackathon.posthaven.com/makeschool-evangelist-nicolai-safai-got-into-evangelism-via-an-unconventional-route
+  domain: hackathon.posthaven.com
+  image: ""
 - curated_id: yyyQ2sx4byR5DrIIg8JCp5MyS2QoGlHKlcHtj4SxukmFvt28umPU9Hi7123aXpTqQc4ev12zNus9ayFlqCNhgKbA117117
   item_date: "2015-05-26 00:00:00"
   title: Article From Doodles to Delivery  An API Design Process
   url: http://www.infoq.com/articles/doodles-to-delivery
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comarticlesdoodles-to-delivery.png
+- curated_id: 95c89c1083e6dc60590521ce4fd5f3d1
+  item_date: "2015-05-26 00:00:00"
+  title: Ricky Robinett of Twilio is a Brooklyn Based evangelist
+  url: http://hackathon.posthaven.com/ricky-robinett-of-twilio-is-a-brooklyn-based-evangelist
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: 10fecbdacaa1a4374d3097dbcc06f08d
+  item_date: "2015-05-27 00:00:00"
+  title: Watch MailChimp?s Free API Course on Team Treehouse
+  url: http://blog.mailchimp.com/watch-mailchimps-free-api-course-on-team-treehouse/
+  domain: blog.mailchimp.com
+  image: ""
+- curated_id: 5caaf803f674dee46abeeea6ed55464f
+  item_date: "2015-05-27 00:00:00"
+  title: 'Trailhead: A New Approach to Learning Salesforce'
+  url: https://developer.salesforce.com/blogs/tech-pubs/2015/05/trailhead-new-approach-learning-salesforce.html
+  domain: developer.salesforce.com
+  image: ""
 - curated_id: yys0JrQG4GKZQYqRVGPCE7FBtxQeMrffOGJs2xUHIKaUcHOxHdb3Fhv1123oOB14PLPIUEwG7y82ETldawQ5uYKQ117117
   item_date: "2015-05-30 00:00:00"
   title: How to build APIs efficiently
@@ -1218,6 +1450,12 @@
   url: http://www.infoq.com/articles/power-of-raml
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comarticlespower-of-raml.png
+- curated_id: ba8ddbda00008e74d98f5bd4cc15aa81
+  item_date: "2015-06-03 00:00:00"
+  title: Join Keen Community Discussions Every Friday
+  url: http://keenio.tumblr.com/post/120624511266/join-keen-community-discussions-every-friday#_=_
+  domain: keenio.tumblr.com
+  image: ""
 - curated_id: 9SrBNQiYw9IQLh4zPSgEOtrthq3pG116r7z7WuamyXkcDdtZFZ9PP90s8CJluutkBZPTpKCfY116JDGxGUpuzcee9A117117
   item_date: "2015-06-03 00:00:00"
   title: Integrations are Hard Part II API Resources Search and Pagination
@@ -1272,12 +1510,42 @@
   url: http://nordicapis.com/a-tale-of-four-api-designs-dissecting-common-api-architectures/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-coma-tale-of-four-api-designs-dissecting-common-api-architectures.png
+- curated_id: a214c3e88ca7baa831a775bd101e5a18
+  item_date: "2015-06-12 00:00:00"
+  title: 5 Ways to Increase API Adoption
+  url: http://www.programmableweb.com/news/5-ways-to-increase-api-adoption/analysis/2015/06/12
+  domain: www.programmableweb.com
+  image: ""
 - curated_id: AeD3uAraU0YAPRX1OH60IUZx49qxXv116RIshJC123VV2OB6JA1wOJLDLlSVVJVdzaCUcitQmF4RkYUvWCcDvkqE9w117117
   item_date: "2015-06-12 11:06:34"
   title: Decoupling the Mind of the API Designer
   url: https://blog.apiary.io/2015/06/09/Decoupling-the-Mind-of-the-API-Designer
   domain: blog.apiary.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png
+- curated_id: ce3bbdd7e7d6753354d749292b501936
+  item_date: "2015-06-17 00:00:00"
+  title: On Air with the Google Apps Developer Team
+  url: http://googleappsdeveloper.blogspot.com/2015/06/on-air-with-google-apps-developer-team.html
+  domain: googleappsdeveloper.blogspot.com
+  image: ""
+- curated_id: 841881f90f94965a2154994d05f17fd2
+  item_date: "2015-06-18 00:00:00"
+  title: Rob Spectre, head of evangelism at Twilio
+  url: http://hackathon.posthaven.com/rob-spectre-head-of-evangelism-at-twilio
+  domain: hackathon.posthaven.com
+  image: ""
+- curated_id: 29c1140760f82d15756c57312e2c372d
+  item_date: "2015-06-18 00:00:00"
+  title: How To Understand Your Target API Consumer
+  url: http://nordicapis.com/how-to-understand-your-target-api-consumer/
+  domain: nordicapis.com
+  image: ""
+- curated_id: 8b6e107ddf1a58c259e0195229e65cf2
+  item_date: "2015-06-18 00:00:00"
+  title: Andrew Mager, developer advocate at SmartThings
+  url: http://hackathon.posthaven.com/andrew-mager-developer-advocate-at-smartthings
+  domain: hackathon.posthaven.com
+  image: ""
 - curated_id: DshiUEey7ptsMLb3DCi4123rDx6zzGLUYurwHIHcuu123pt7dgmnRahFexknkT116kcIhV1jSsa80awQS84qJssk116123RA117117
   item_date: "2015-06-19 00:00:00"
   title: Lessons learnt from shipping APIs for Microsofts cloud platform
@@ -1291,24 +1559,42 @@
   url: http://apievangelist.com/2015/06/23/breaking-down-publication-references-with-the-global-change-information-system-api/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150623breaking-down-publication-references-with-the-global-change-information-system-api.png
+- curated_id: b7210ff7b88edc80560df94d434cc53e
+  item_date: "2015-06-24 00:00:00"
+  title: Lessons from the Small Product Lab (So Far)
+  url: http://blog.gumroad.com/post/122280850223/spllessons#_=_
+  domain: blog.gumroad.com
+  image: ""
+- curated_id: 879f5b29c8961177e0da8a82f1cf31d4
+  item_date: "2015-06-24 00:00:00"
+  title: Getting to Know Our Developers at Our First London Meetup
+  url: http://blog.datasift.com/2015/06/24/getting-to-know-our-developers-at-our-first-london-meetup/
+  domain: blog.datasift.com
+  image: ""
 - curated_id: yU6uZuemPLgmYnXzfb123vDIiVb4vXyQBbdsqOS123lA6Qa4FRoOyzyDuKjOorHF7CDlMOqqUdLB4z6R1ntArRiYFQ117117
   item_date: "2015-06-29 00:00:00"
   title: The API Design Tooling I Have Included In My Research
   url: http://apievangelist.com/2015/06/30/the-api-design-tooling-i-have-included-in-my-research/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150630the-api-design-tooling-i-have-included-in-my-research.png
-- curated_id: GtToYCl83GqPeDTeu9CxlochQL5ZdZhjuN7n1noEnUcLl1Vg123ZZEaT7116k95123116UgOpQrjRmDKwDp8z123noC5XnYQ117117
-  item_date: "2015-06-30 00:00:00"
-  title: API Design Considerations for The Internet of Things
-  url: http://www.programmableweb.com/news/api-design-considerations-internet-things/analysis/2015/06/30
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsapi-design-considerations-internet-thingsanalysis20150630.png
+- curated_id: 014702e76c29eae34fc198bfd5783c52
+  item_date: "2015-06-29 13:00:04"
+  title: 'Developer Evangelism: How We Support Financial Innovation'
+  url: http://blog.yodleeinteractive.com/developer-evangelism-how-we-support-financial-innovation/
+  domain: blog.yodleeinteractive.com
+  image: ""
 - curated_id: WedC123gJbVRxcVR5FuD8q7123Yk116o9116116HS12xXrrtIyDZxZuZsaa58VJDuaUcXXCBRx1SFIuz2123QzLeZoiTp116Ie2g117117
   item_date: "2015-06-30 00:00:00"
   title: Why Its OK To Design Imperfect APIs
   url: http://www.programmableweb.com/news/why-it%E2%80%99s-ok-to-design-imperfect-apis/analysis/2015/06/30
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewswhy-it%e2%80%99s-ok-to-design-imperfect-apisanalysis20150630.png
+- curated_id: GtToYCl83GqPeDTeu9CxlochQL5ZdZhjuN7n1noEnUcLl1Vg123ZZEaT7116k95123116UgOpQrjRmDKwDp8z123noC5XnYQ117117
+  item_date: "2015-06-30 00:00:00"
+  title: API Design Considerations for The Internet of Things
+  url: http://www.programmableweb.com/news/api-design-considerations-internet-things/analysis/2015/06/30
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsapi-design-considerations-internet-thingsanalysis20150630.png
 - curated_id: n7z123M6y116buVRfY8Wr4kz5OdnR123wqB2116t38ShIcn4123vI0XQysXA0yDLl17WibuFfmRMhAvqCtCoEPjA0aw7cjDA117117
   item_date: "2015-06-30 00:43:09"
   title: Tightening Up The Organizations That Are Included In My API Design Research
@@ -1321,12 +1607,31 @@
   url: http://apievangelist.com/2015/06/30/the-api-design-tooling-i-have-included-in-my-research/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150630the-api-design-tooling-i-have-included-in-my-research.png
+- curated_id: 5597445f9b52dd694fdcdffa251b0d11
+  item_date: "2015-07-03 00:00:00"
+  title: Free Video Training - An Introduction to Amazon Echo and the Alexa Skills
+    Kit
+  url: https://developer.amazon.com/appsandservices/community/post/Tx9JUX8VZNUZY5/Free-Video-Training-An-Introduction-to-Amazon-Echo-and-the-Alexa-Skills-Kit
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 6fe627f8f96de980b11e6738e7e56ca2
+  item_date: "2015-07-03 00:00:00"
+  title: Become an ace Amazon Web Services engineer with this bootcamp bundle
+  url: http://thenextweb.com/offers/2015/07/03/become-an-ace-amazon-web-services-engineer-with-this-bootcamp-bundle/
+  domain: thenextweb.com
+  image: ""
 - curated_id: jb6SYacs3WULnkJa4vVm5ayGW6VYawwte116biwcZ9SpjGUuHRfo2UD1rw5zV2fYIc988D9ihNVNhpjBuL1236LmKg117117
   item_date: "2015-07-07 00:00:00"
   title: My API Design Research Distilled Down As Single PDF Guide
   url: http://apievangelist.com/2015/07/08/my-api-design-research-distilled-down-as-single-pdf-guide/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150708my-api-design-research-distilled-down-as-single-pdf-guide.png
+- curated_id: 28fb9d773ee9d875811b4eca4e6f97fe
+  item_date: "2015-07-07 15:04:59"
+  title: The API Evangelist has spoken | InfoWorld
+  url: http://www.infoworld.com/article/2943965/apis/the-api-evangelist-has-spoken.html#tk.rss_aheadofthecurve
+  domain: www.infoworld.com
+  image: ""
 - curated_id: BGgeXEtFo2XkqhmxZKGwDgA7RyoSdoqhEBYpH2gsDwsErkbjzhljwNIBVAOgSBoADmiRxfznv3txNw1ipSvYRg117117
   item_date: "2015-07-08 00:00:00"
   title: Now in Production DELETE page
@@ -1351,6 +1656,12 @@
   url: http://httpstatus.es/
   domain: httpstatus.es
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/httpstatus-es.png
+- curated_id: 05fc62a4e52eade18387c99c5f9d3fba
+  item_date: "2015-08-14 05:49:21"
+  title: Elsevier API Guild | Mendeley API Blog
+  url: https://mendeleyapi.wordpress.com/2015/08/03/elsevier-api-guild/
+  domain: mendeleyapi.wordpress.com
+  image: ""
 - curated_id: WVkkZkEJ6qp116y6m0x3rfWtid1232Dhcj96cumrndnkGmEyqDRTffUtK123PPv8eG3MxcaLXl116UcWvDxRBei6ZEE4Vg117117
   item_date: "2015-08-14 08:53:38"
   title: A Common Open Source API Design Editor Is Needed For API Service Providers
@@ -1364,6 +1675,12 @@
   url: http://venturebeat.com/2015/08/18/api-development-startup-apiary-raises-6-8m-and-launches-a-testing-service/
   domain: venturebeat.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20150818api-development-startup-apiary-raises-6-8m-and-launches-a-testing-service.png
+- curated_id: 51f7b776c08493c45d8871a101b8de0e
+  item_date: "2015-08-19 00:00:00"
+  title: Office Hours with Kin Lane for the Summer of APIs
+  url: http://restlet.com/blog/2015/08/19/office-hours-with-kin-lane-for-the-summer-of-apis/
+  domain: restlet.com
+  image: ""
 - curated_id: ScIgWaCVQBTKOdWjtIEo7saAylMdYlAAmEQwTEtbWoTgtdctLeqRVdzFwdahswjD3XJbFeYPUAm73c3Loijk5g117117
   item_date: "2015-08-21 00:00:00"
   title: Resources Not Data
@@ -1376,6 +1693,12 @@
   url: http://www.technologydecisions.com.au/content/gov-tech-review/article/dto-engages-with-developers-for-api-design-mandate-1048757537
   domain: www.technologydecisions.com.au
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-technologydecisions-com-aucontentgov-tech-reviewarticledto-engages-with-developers-for-api-design-mandate-1048757537.png
+- curated_id: 6913571a55a12cdea894e45ce67f460c
+  item_date: "2015-08-27 00:00:00"
+  title: Im the new Salesforce Trailhead Developer Advocate
+  url: http://blog.jeffdouglas.com/2015/08/27/salesforce-trailhead-developer-advocate/
+  domain: blog.jeffdouglas.com
+  image: ""
 - curated_id: UIMyu123ZaQWwyBLEGc7sab8pI6bQpN5HjoBf5ewR10kAetxjHlwaebM7DJdXvL1schzE5VGGQTuhLEC1m06peCQ117117
   item_date: "2015-08-28 10:34:17"
   title: Crafting and Publishing API Design Guide Shows That You Are Further Along
@@ -1402,29 +1725,126 @@
   url: http://apievangelist.com/2015/08/31/a-quick-example-of-an-api-provider-putting-content-type-negotiation-to-work/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150831a-quick-example-of-an-api-provider-putting-content-type-negotiation-to-work.png
+- curated_id: fc49ed6177b933f8f6c9da954ef1516e
+  item_date: "2015-08-31 12:37:06"
+  title: Intuit Developer Friday Morning Hangouts  - YouTube
+  url: https://www.youtube.com/playlist
+  domain: www.youtube.com
+  image: ""
+- curated_id: 3fc1270d76b6c7c34aba12fbe69ffd02
+  item_date: "2015-09-09 09:17:58"
+  title: Improving Developer Experience With 3scale Partner API Changelog
+  url: http://www.3scale.net/2015/09/improving-developer-experience-with-3scale-partner-api-changelog/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 6ab5e0ffe7f3d3f249dc370ba68ce310
+  item_date: "2015-09-09 09:44:27"
+  title: Oracle Purges Java Evangelist Staff
+  url: http://www.infoq.com/news/2015/09/oracle-purges-java-evangelists
+  domain: www.infoq.com
+  image: ""
+- curated_id: f2e35e76aa15b838f4a5a65b9841332d
+  item_date: "2015-09-10 00:00:00"
+  title: What Makes an API Demo Unforgettable?
+  url: http://nordicapis.com/what-makes-an-api-demo-unforgettable/
+  domain: nordicapis.com
+  image: ""
+- curated_id: a41e835b3fc0f9c1d32a4fe2f0fdb774
+  item_date: "2015-09-11 00:00:00"
+  title: 'Building A Developer Community Around An API: 2015 Developer Survey'
+  url: https://blog.paymill.com/developer-community-survey/
+  domain: blog.paymill.com
+  image: ""
 - curated_id: Ms3Pt068sia9Tnpe5SIB942hfNOh9HjemPb116Ib7Ga5isc116M30aDISc1l6r3oq0nZ9IrHjKw116123X6mJp116raavJ0w117117
   item_date: "2015-09-11 19:10:39"
   title: REST in AEM by Roy Fielding
   url: http://www.slideshare.net/AEMHub2014/rest-in-aem-by-roy-fielding
   domain: www.slideshare.net
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-slideshare-netaemhub2014rest-in-aem-by-roy-fielding.png
-- curated_id: AOKBxVnTNmpbS116dT7zC0116YY7ZWkobOEzHUoEAgrupOZlxW4oi4bCPHIjJ1123ouEggVcbR5mvS1Hp123DdMHThJrlw117117
-  item_date: "2015-09-13 00:00:00"
-  title: There Is A Big Opportunity Right Now When It Comes To API Design Tooling
-  url: http://apievangelist.com/2015/09/14/there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling
-  domain: apievangelist.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150914there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling.png
+- curated_id: 5e5c544bd35583e0e5babe23c52082e7
+  item_date: "2015-09-12 20:56:56"
+  title: Leading an API Community
+  url: https://www.infoq.com/presentations/api-community
+  domain: www.infoq.com
+  image: ""
 - curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
   item_date: "2015-09-13 00:00:00"
   title: Architectural Styles for APIs SOAP REST and RPC
   url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
   domain: api-university.com
   image: ""
+- curated_id: AOKBxVnTNmpbS116dT7zC0116YY7ZWkobOEzHUoEAgrupOZlxW4oi4bCPHIjJ1123ouEggVcbR5mvS1Hp123DdMHThJrlw117117
+  item_date: "2015-09-13 00:00:00"
+  title: There Is A Big Opportunity Right Now When It Comes To API Design Tooling
+  url: http://apievangelist.com/2015/09/14/there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling
+  domain: apievangelist.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150914there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling.png
+- curated_id: 1fe583895826dbc8aa4a4b6044bbfe40
+  item_date: "2015-09-14 00:00:00"
+  title: The first year of our API!
+  url: http://blog.mendeley.com/api/the-first-year-of-our-api/
+  domain: blog.mendeley.com
+  image: ""
+- curated_id: 33ab0571475229a33c750e60413df8a0
+  item_date: "2015-09-23 05:25:17"
+  title: Hello, Community. - Tim Falls of Keen IO
+  url: https://keen.io/blog/129186963561/hello-community
+  domain: keen.io
+  image: ""
+- curated_id: 51c6fbe8ca498bbc2107eade1649e15e
+  item_date: "2015-10-20 00:00:00"
+  title: '?Mozilla Firefox: Open source, community, and ethical marketing'
+  url: https://www.cloudave.com/52507/%e2%80%8bmozilla-firefox-open-source-community-ethical-marketing/
+  domain: www.cloudave.com
+  image: ""
+- curated_id: e4d21b7c02b26998bab152f05c211749
+  item_date: "2015-10-21 00:00:00"
+  title: 'Twitter#039;s Jack Dorsey to Developers: We#039;re Sorry. Let#039;s Start
+    Over.'
+  url: http://www.programmableweb.com/news/twitters-jack-dorsey-to-developers-were-sorry.-lets-start-over./2015/10/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 50cbbc7b1a6ad1c5cbc3184954519fb0
+  item_date: "2015-10-22 00:00:00"
+  title: The Difference Between Marketing to an Audience and Building a Community
+  url: http://blog.hootsuite.com/the-difference-between-marketing-to-an-audience-and-building-a-community/
+  domain: blog.hootsuite.com
+  image: ""
+- curated_id: 1a123a1176dbc8c46ac1477052bd356d
+  item_date: "2015-10-23 00:00:00"
+  title: Technical Writing Need Not Be Abstruse?Use Plain Language for Maximum Impact
+  url: http://www.digitalgov.gov/2015/10/23/technical-writing-need-not-be-abstruse-use-plain-language-for-maximum-impact/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: 605ff08ee324bb962441c83d1912dd5a
+  item_date: "2015-10-25 00:00:00"
+  title: Taking Another Look At The Tech Blogosphere
+  url: http://kinlane.com/2015/10/26/taking-another-look-at-the-tech-blogosphere/
+  domain: kinlane.com
+  image: ""
+- curated_id: 9d9bd7fd105e72f25d8c2f165e85a2db
+  item_date: "2015-10-26 08:35:00"
+  title: What is API Developer Experience and Why It Matters
+  url: http://www.infoq.com/news/2015/10/api-developer-experience
+  domain: www.infoq.com
+  image: ""
+- curated_id: 9e525e993c01298fdb07c714cc1378ec
+  item_date: "2015-11-24 00:00:00"
+  title: 'AlchemyAPI: How It Works'
+  url: http://blog.alchemyapi.com/alchemyapi-how-it-works
+  domain: blog.alchemyapi.com
+  image: ""
 - curated_id: OZpnbFT1163F4zCLYvsOGYUkUBJBLMoCMm9oVL5WgOg3S5hxmSRFbIZ3jrZHJ7dOe2cWmjxQ2Ws6WRkwXQJ116rbjQ117117
   item_date: "2015-11-24 00:00:00"
   title: API Design Using Behavior Driven Development
   url: http://blog.smartbear.com/apis/api-design-using-behavior-driven-development/
   domain: blog.smartbear.com
+  image: ""
+- curated_id: 4a91c6cf3a9235a32b878717eea60b2e
+  item_date: "2015-11-24 20:52:01"
+  title: 'The Discussion We Need to Have at #APIStrat'
+  url: https://medium.com/@thursdayb/the-discussion-we-need-to-have-at-apistrat-ae4812f3244f#.24y5efh34
+  domain: medium.com
   image: ""
 - curated_id: 7Amdy5ZdRnSrKxFo3i7fgtNO6hLAJR583NH6WpAFG6iEgzI116oQ4djIF3MbzjXbZnqlIWh11tisht9CneHjWsKw117117
   item_date: "2015-11-25 00:00:00"
@@ -1450,6 +1870,24 @@
   url: http://nordicapis.com/designing-evolvable-apis-for-the-web-formats/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comdesigning-evolvable-apis-for-the-web-formats.png
+- curated_id: 5200c673feea721eba1c5a5b06b320c0
+  item_date: "2015-12-08 00:00:00"
+  title: Self-Serve Indix Product API ? The Story So Far
+  url: http://www.indix.com/blog/news/self-serve-api-status-update/
+  domain: www.indix.com
+  image: ""
+- curated_id: 8bfd41b5f6f66509387076859952f11a
+  item_date: "2015-12-08 00:00:00"
+  title: Developer Success Story  ? Peter Knolle
+  url: https://developer.salesforce.com/blogs/developer-relations/2015/12/developer-success-story-peter-knolle.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: 2d7f488cdf923fea1e8959516d8de690
+  item_date: "2015-12-10 00:00:00"
+  title: Welcome the Newest AWS Community Heroes (Winter 2015)
+  url: https://aws.amazon.com/blogs/aws/welcome-the-newest-aws-community-heroes-winter-2015/
+  domain: aws.amazon.com
+  image: ""
 - curated_id: 6NDWmi116Dpajq0yN4x116Twq0FQc0Oy6y6OS116frTXod4C7yZXChJCmNw6ohxO8OhBaqLLhU5UIdffCNpR116123Banwbw117117
   item_date: "2015-12-10 00:00:00"
   title: Understanding HTTP content negotiation
@@ -1468,6 +1906,18 @@
   url: http://www.infoq.com/presentations/api-design-first
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-compresentationsapi-design-first.png
+- curated_id: 1b775facab8c862aaccbe3c88cbcc3d8
+  item_date: "2015-12-17 00:00:00"
+  title: The Slack Platform Launch Includes a New App Directory, Developer Fund
+  url: http://www.programmableweb.com/news/slack-platform-launch-includes-new-app-directory-developer-fund/2015/12/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e82c4127ad4dfeae39632395b8c53892
+  item_date: "2015-12-17 13:52:08"
+  title: 'Google Developers Blog: Our new global program for Developer Agencies'
+  url: http://googledevelopers.blogspot.com/2015/12/our-new-global-program-for-developer.html
+  domain: googledevelopers.blogspot.com
+  image: ""
 - curated_id: 116QfWeHn6EWiB7hwOfmxKHoRm7Czny7ygQGplxkeaKvq1Jix123e4TFtRcJhwTylDIxYFz1162kqUCkUNBoX3Csnrfg117117
   item_date: "2015-12-17 14:53:42"
   title: REST Fest 2015  Glenn Block  FiveInFive in REST Fest 2015 on Vimeo
@@ -1486,11 +1936,42 @@
   url: http://www.freshblurbs.com/blog/2015/12/12/http-cache-restful-apis.html
   domain: www.freshblurbs.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-freshblurbs-comblog20151212http-cache-restful-apis-html.png
+- curated_id: bb435901a1f2f6887fd93cbf4df5f660
+  item_date: "2015-12-19 00:00:00"
+  title: 'APIs for humans: The rise of developer experience (DX)'
+  url: http://thenextweb.com/dd/2015/12/20/apis-for-humans-the-rise-of-developer-experience-dx/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 363bfe5b7a775a4a8c0b084b35cd571c
+  item_date: "2015-12-20 00:00:00"
+  title: 'Article: Peer Feedback Loops: How to Contribute to a Culture of Continuous
+    Improvement'
+  url: http://www.infoq.com/articles/peer-feedback-loops-3
+  domain: www.infoq.com
+  image: ""
+- curated_id: c530eb30824622bff35ee44d1c0192d4
+  item_date: "2015-12-21 00:00:00"
+  title: 7 Steps to Successful Developer Onboarding
+  url: http://www.programmableweb.com/news/7-steps-to-successful-developer-onboarding/analysis/2015/12/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 078fd77eae1721cdf59aaf257f178748
+  item_date: "2016-01-05 00:00:00"
+  title: Visually explore funnels of user activities
+  url: https://blog.twitter.com/2016/visually-explore-funnels-of-user-activities
+  domain: blog.twitter.com
+  image: ""
 - curated_id: sT8SgcfaPFes40BWqWGTgI5hTgbQWOqN41168u79xOOiemehKFFt7l2WpRlzZrigy1FOs8iIwJMWtE8uMXe2MSpA117117
   item_date: "2016-01-05 00:00:00"
   title: Web API  A Solid Approach
   url: http://www.codeproject.com/Articles/1066348/Web-API-A-Solid-Approach
   domain: www.codeproject.com
+  image: ""
+- curated_id: 81a2f68174d2c0986fc8cd4fcecf5b5e
+  item_date: "2016-01-06 00:00:00"
+  title: Getting Started with the API
+  url: https://developer.wordpress.com/docs/api/getting-started/
+  domain: developer.wordpress.com
   image: ""
 - curated_id: SM2iIDY4yrpVX4DnaMgRYLbkP123dWYug6hb62jyV123QfKzaowNSwfHEjbIdAShReidfDfvf1KlSahvqFeAt9nVIw117117
   item_date: "2016-01-07 00:00:00"
@@ -1516,11 +1997,23 @@
   url: http://itblogs.stephanbauer.me/restful-service-design-how-to-overcome-the-crud-nature-of-the-rest-style/
   domain: itblogs.stephanbauer.me
   image: ""
+- curated_id: 589aedc73f9c3502609368666b6bffd8
+  item_date: "2016-01-14 00:00:00"
+  title: Scaling developer evangelism
+  url: http://blog.devrel.net/craft/scaling-developer-evangelism/
+  domain: blog.devrel.net
+  image: ""
 - curated_id: IhQnnSVBhItcXQoEUkWagdFAq4tIZ8TMfYBNmd97n9HQ123gQgxZPML5cQbt7X0P2h2zdToW7zaVlFu60Xry8JKg117117
   item_date: "2016-01-19 00:00:00"
   title: Apiaryio Now Features Swagger Support
   url: http://www.programmableweb.com/news/apiary.io-now-features-swagger-support/brief/2016/01/19
   domain: www.programmableweb.com
+  image: ""
+- curated_id: e8949cafd06a3f4161aa383d89b36253
+  item_date: "2016-01-20 00:00:00"
+  title: The Slack App Directory Checklist
+  url: https://medium.com/slack-developer-blog/the-slack-app-directory-checklist-e3f3ba0ca7c5
+  domain: medium.com
   image: ""
 - curated_id: LdEjivBOKDGP6fyrgDbtpSMKX5Vn3iKzWMVYX1168UW116aP06giaaYrQkG4X3lCnrHHQ0hDqouYNCsI8rPdWRfDYA117117
   item_date: "2016-01-21 00:00:00"
@@ -1528,11 +2021,29 @@
   url: http://www.codeproject.com/Articles/1073488/Paging-in-ASP-NET-Web-API
   domain: www.codeproject.com
   image: ""
+- curated_id: 19f8544f353cbd05b8f981c37b5b1e9e
+  item_date: "2016-01-22 00:00:00"
+  title: Let?s Talk About Developer Experience (DX) Design
+  url: https://dzone.com/articles/lets-talk-about-developer-experience-dx-design
+  domain: dzone.com
+  image: ""
+- curated_id: 3f5df97a4a8b5689c0d9f2e644a8bbd2
+  item_date: "2016-01-25 00:00:00"
+  title: Hello {Intuit Developer} World
+  url: https://developer.intuit.com/hub/blog/2016/01/25/hello-intuit-developer-world
+  domain: developer.intuit.com
+  image: ""
 - curated_id: s2123UxfpiR5ezjCr0MTu0cPwOyKIayR2TvGoW123hmc7jgBu9ndpYA9ilE0FsSHfx6siP20B3IJlhCoe123x2SIdWhQ117117
   item_date: "2016-01-25 10:17:37"
   title: Reverse Engineering APIs From The Common APIs Models We Know
   url: http://apievangelist.com/2016/01/25/reverse-engineering-apis-from-the-common-apis-models-we-know/
   domain: apievangelist.com
+  image: ""
+- curated_id: 1376948d449904f05273f6cbe8744026
+  item_date: "2016-01-26 17:38:59"
+  title: 2016 Gnip product tour | Twitter Blogs
+  url: https://blog.twitter.com/2016/2016-gnip-product-tour
+  domain: blog.twitter.com
   image: ""
 - curated_id: 6x0ztLyB292jv7qV5HPc2E123H62DrT4z7bu3wGTKHg5ai0f7KAdXeJ1wb86S0Xn3kR3l9kHJsfWmZv1UwZk0jOw117117
   item_date: "2016-01-29 00:00:00"
@@ -1546,17 +2057,60 @@
   url: http://www.amundsen.com/blog/archives/1166
   domain: www.amundsen.com
   image: ""
+- curated_id: ef5649519663b018785a24427d31666a
+  item_date: "2016-02-02 00:00:00"
+  title: 'Developer Feedback: We are Listening amp; Need Your Help with Alexa'
+  url: https://developer.amazon.com/appsandservices/community/post/Tx2OMH488CIUS25/Developer-Feedback-We-are-Listening-Need-Your-Help-with-Alexa
+  domain: developer.amazon.com
+  image: ""
 - curated_id: YauG649ieqeXAfAuqprEfrOJbLev04bHr0NXavNHN14I62IOK3CZplGsjx0fUiNiYv3Jpx0fX3Kd7FuSkc6123Hg117117
   item_date: "2016-02-02 09:23:49"
   title: Lessons From Training 1400 People in Web API Design
   url: http://launchany.com/lessons-from-training-1400-people-in-web-api-design/
   domain: launchany.com
   image: ""
+- curated_id: 7dcd8e1d76712e742279551adf56eb6e
+  item_date: "2016-02-03 09:57:41"
+  title: Defining Developer Relations - Phil Leggetter - Real-Time Web Software  Developer
+    Evangelist
+  url: http://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html
+  domain: www.leggetter.co.uk
+  image: ""
 - curated_id: PPjH1162YporJRL80EZvxzo4uuhMbTxIM0yePUYhaiuFZnk5vjdA116Ja3SjXCjwXjotdb36b7Zbhc9pkbiUNfUKyg117117
   item_date: "2016-02-04 00:00:00"
   title: REST essentials for the QuickBooks API
   url: https://developer.intuit.com/hub/blog/2016/02/04/rest-essentials-for-the-quickbooks-api
   domain: developer.intuit.com
+  image: ""
+- curated_id: 9b177a06c16b4b7f3c59d99f5838cd23
+  item_date: "2016-02-11 00:00:00"
+  title: 'Under the Hood: Building a Mobile Document Scanner'
+  url: https://www.box.com/blog/building-document-scanning/
+  domain: www.box.com
+  image: ""
+- curated_id: e669e3d25d5c0657f67e97d4d8ef4a3c
+  item_date: "2016-02-11 00:00:00"
+  title: How Developers Competed to Drive Innovation With Nexmo APIs
+  url: http://www.programmableweb.com/news/how-developers-competed-to-drive-innovation-nexmo-apis/sponsored-content/2016/02/11
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 462fd2bed684e66dc66da16cf5a17d40
+  item_date: "2016-02-11 14:28:55"
+  title: Importance Of Thinking Externally When Writing The Description For Your API
+  url: http://blog.apiware.io/importance-of-thinking-externally-when-writing-the-description-for-your-api/
+  domain: blog.apiware.io
+  image: ""
+- curated_id: 03a4072add26e2d9890e27f1a4018a51
+  item_date: "2016-02-12 00:00:00"
+  title: Answering some questions about developer evangelism
+  url: https://www.christianheilmann.com/2016/02/12/answering-some-questions-about-developer-evangelism/
+  domain: www.christianheilmann.com
+  image: ""
+- curated_id: fabfd6f84a816a504de2d2fcf6986f89
+  item_date: "2016-02-12 00:00:00"
+  title: Announcing Weekly Alexa Developer Office Hours
+  url: https://developer.amazon.com/appsandservices/community/post/Tx3NJ44CRNDHE00/Announcing-Weekly-Alexa-Developer-Office-Hours
+  domain: developer.amazon.com
   image: ""
 - curated_id: CdWJtyhwhUwoXzK4kBzqSULod5kwIPUL123oqT8ByIqBb07WEgh3wX123116TJgmXGbFicdkwlyBHpFK1237cWBTBElqbw117117
   item_date: "2016-02-15 00:00:00"
@@ -1570,23 +2124,29 @@
   url: http://www.socketlabs.com/blog/introducing-api-templates/
   domain: www.socketlabs.com
   image: ""
+- curated_id: 20ad6d327b73764f05ebe8a919cefa12
+  item_date: "2016-02-16 00:00:00"
+  title: Getting Started with QuickBooks? Five Insights From Your Fellow App Developers
+  url: https://developer.intuit.com/hub/blog/2016/02/16/getting-started-with-quickbooks-five-insights-from-your-fellow-app-developers
+  domain: developer.intuit.com
+  image: ""
 - curated_id: YOtJWZueqcOugEZriOVA9pLJ5BDiMQGdvlTGFozXpUJULbm123DHm5ltV8W9OBP116FsHJduBsWHgc123nSc6jpbMDjg117117
   item_date: "2016-02-16 14:35:55"
   title: Using a Prototype as an API Product Specification
   url: https://sendgrid.com/blog/using-a-prototype-as-an-api-product-specification/
   domain: sendgrid.com
   image: ""
-- curated_id: bcMBFo123E61DH5Rw73UpJWr4o123qWhqbajzzrbRjOCFGgjtDFby8nHl4qgydbDUhNCQi3O3RTD9Ty5116P7aAKmkXQ117117
-  item_date: "2016-02-17 00:00:00"
-  title: Dear API Designer Are You Sure You Want to Return a Primitive
-  url: https://dzone.com/articles/dear-api-designer-are-you-sure-you-want-to-return
-  domain: dzone.com
-  image: ""
 - curated_id: osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117
   item_date: "2016-02-17 00:00:00"
   title: Why Github039s Scientist 10 Could Be Great for API Versioning
   url: http://www.programmableweb.com/news/why-githubs-scientist-1.0-could-be-great-api-versioning/analysis/2016/02/17
   domain: www.programmableweb.com
+  image: ""
+- curated_id: bcMBFo123E61DH5Rw73UpJWr4o123qWhqbajzzrbRjOCFGgjtDFby8nHl4qgydbDUhNCQi3O3RTD9Ty5116P7aAKmkXQ117117
+  item_date: "2016-02-17 00:00:00"
+  title: Dear API Designer Are You Sure You Want to Return a Primitive
+  url: https://dzone.com/articles/dear-api-designer-are-you-sure-you-want-to-return
+  domain: dzone.com
   image: ""
 - curated_id: hiLirbaQ4NlZkTXhYQhipgDJg116pqSEQzbf123DYPMRUGrD5123TZb1anvAoXlJwgsuZWHDY6p116JkDa4kZMBDtNFSrg117117
   item_date: "2016-02-17 00:00:00"
@@ -1606,11 +2166,23 @@
   url: http://www.infoq.com/presentations/5-api-design-anti-patterns
   domain: www.infoq.com
   image: ""
+- curated_id: 6537433f319d650051695b996c151ddc
+  item_date: "2016-02-24 00:00:00"
+  title: A day in the life of an API evangelist
+  url: http://restlet.com/blog/2016/02/24/a-day-in-the-life-of-an-api-evangelist/
+  domain: restlet.com
+  image: ""
 - curated_id: 123rwTYfFbf53qBZ5ncGAJYezNUoYbd1M5V123LoQy123116ExV1hOUVgiblErr0B6jNIc0TTQ5xj5Jrw123qSVNhzNnKGpA117117
   item_date: "2016-02-27 00:00:00"
   title: Interview John Sheehan on Web API Quality
   url: http://www.infoq.com/interviews/sheehan-api-quality
   domain: www.infoq.com
+  image: ""
+- curated_id: 1221902f0cf70f4378b119ee49442855
+  item_date: "2016-02-29 00:00:00"
+  title: What Would You Say You Do Here?
+  url: http://blog.heavybit.com/blog/dev-evangelism-panel
+  domain: blog.heavybit.com
   image: ""
 - curated_id: N1sbeXgH8CXvyirRvsjhTYY04miiSpZJOQZA116QAid123nkBy0nE1238pdj3WZtlCDEYMyMGUrqo57JkYEv7GSjNE5w117117
   item_date: "2016-03-01 00:00:00"
@@ -1624,11 +2196,29 @@
   url: http://www.codeproject.com/Articles/1082105/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D
   domain: www.codeproject.com
   image: ""
+- curated_id: e5d5297a9c7b497b9f3d100fcf0a485f
+  item_date: "2016-03-02 00:00:00"
+  title: Is Twitter Really Serious About Developers Again?
+  url: http://everydeveloper.com/is-twitter-really-serious-about-developers-again/
+  domain: everydeveloper.com
+  image: ""
+- curated_id: 83122e79b3a50f566309ac8677dad9da
+  item_date: "2016-03-03 11:49:15"
+  title: Your strategy?s last message to developers ? Medium
+  url: https://medium.com/@jeffiel/your-strategy-s-last-message-to-developers-ff901cdf4a55#.pka0mxhbq
+  domain: medium.com
+  image: ""
 - curated_id: 7ewtTDCGD116b0hFJhKE4oQmaHMtggBPLu1DF5XTCKvvtYQ5QFjxPNZJ3kWH4IJNf12319116116GZL5123i8m5qrMkSfnXg117117
   item_date: "2016-03-04 00:00:00"
   title: Designing Web APIs with Restlet Studio
   url: http://restlet.com/blog/2016/03/04/designing-web-apis-with-restlet-studio-web-api-concepts/
   domain: restlet.com
+  image: ""
+- curated_id: 10d8b6bf8d2396f03825ac91e6b2bfef
+  item_date: "2016-03-04 00:00:00"
+  title: Developer Marketing and Relations News
+  url: http://www.wipfactory.com/blog/2016/3/4/developer-marketing-and-relations-news-march-2016
+  domain: www.wipfactory.com
   image: ""
 - curated_id: 1qtg116dNGONJDMAfr6RBcMywq8NNEfo862egiyRICcR1MH6I0ThM4Ffyli8lHeWP09zaN51169hdb8iRyw123tnK1wg117117
   item_date: "2016-03-05 04:46:18"
@@ -1648,6 +2238,12 @@
   url: http://restlet.com/blog/2016/03/09/designing-a-web-api-with-restlet-studio-visual-api-editor/
   domain: restlet.com
   image: ""
+- curated_id: eeea460a325f790f95d744dddf608bfc
+  item_date: "2016-03-10 14:00:48"
+  title: ""
+  url: http://kinlane.com/2016/03/10/never-dismiss-the-power-of-storytelling
+  domain: kinlane.com
+  image: ""
 - curated_id: SSBciHckHuHa1231O123S768oLlKzsxw9IwtoRFjohsTL3CTcm6ukutGuBmLUMnXCEOqFF19sfFeGHnAuzMAs2sn4Q117117
   item_date: "2016-03-13 00:00:00"
   title: Article One API Many Facades
@@ -1659,6 +2255,12 @@
   title: Designing APIs With Customers in Mind
   url: http://www.builtinaustin.com/blog/designing-apis-customers-mind
   domain: www.builtinaustin.com
+  image: ""
+- curated_id: 055a5316fb90b0b261b12f7a61499511
+  item_date: "2016-03-15 00:00:00"
+  title: The Humans Behind Every API
+  url: http://everydeveloper.com/the-humans-behind-every-api/
+  domain: everydeveloper.com
   image: ""
 - curated_id: ojqkLG36eQ5116nhgQEYTY5iIW6Rvo0Sgs20JcpXgjfjh116HsxkfDS1164sQAiaTrU5XYFsh3pUmLt2pBlAY690gtAQ117117
   item_date: "2016-03-15 10:23:57"
@@ -1672,6 +2274,12 @@
   title: One API many facades
   url: http://restlet.com/blog/2016/03/16/one-api-many-facades/
   domain: restlet.com
+  image: ""
+- curated_id: 51ad8f548a59df0eed6253f9a83fa078
+  item_date: "2016-03-17 00:00:00"
+  title: Promote and Contribute To Your Developer Community
+  url: https://dzone.com/articles/promote-and-contribute-to-your-developer-community
+  domain: dzone.com
   image: ""
 - curated_id: LnpHAPdiB123di5L8FWxJM19GmsJUgq2oYcfAXqtF116KTsnvIjhJwZq1Pu9E1acnxZnO3pplQ1Tro2NKMLO6yzLaw117117
   item_date: "2016-03-18 00:00:00"
@@ -1690,6 +2298,24 @@
   title: Great APIs Have One Thing in Common
   url: http://everydeveloper.com/great-apis-one-thing/
   domain: everydeveloper.com
+  image: ""
+- curated_id: 3c2afc761a31c8cc36ce82810e08231e
+  item_date: "2016-03-24 00:00:00"
+  title: Get out your gardening tools?how to clean up your users, groups, and organizations
+  url: https://www.zendesk.com/blog/clean-up-users-groups-organizations/
+  domain: www.zendesk.com
+  image: ""
+- curated_id: defcbff36b584f5785c76e514ea5c234
+  item_date: "2016-03-26 19:49:27"
+  title: Help Me Yoda-Kin, Can The JED-API Power a Certification?
+  url: http://cogdogblog.com/2016/03/yoda-kin/
+  domain: cogdogblog.com
+  image: ""
+- curated_id: 336fdc37610ff037dadfb27d7e3df938
+  item_date: "2016-03-28 00:00:00"
+  title: Up close and personal with Vinay Pai, VP of Intuit Developer Group
+  url: https://developer.intuit.com/hub/blog/2016/03/28/up-close-and-personal-with-vinay-pai-vp-of-intuit-developer-group
+  domain: developer.intuit.com
   image: ""
 - curated_id: 84ocULlhQ116J6sBN1230OEyA37U123m14OjfC0A5Z4sRwbMosUqz123fBaRmNC116QQm2hpLD8EbvMGMUdheNz9Wh5Tcd6g117117
   item_date: "2016-03-29 23:49:24"
@@ -1721,11 +2347,23 @@
   url: http://tools.ietf.org/html/rfc7807
   domain: tools.ietf.org
   image: ""
+- curated_id: 4d224c73ffae136203ac4962a374cd13
+  item_date: "2016-04-06 00:00:00"
+  title: Xero API Developer of the year for 2015 goes to??.
+  url: https://www.xero.com/blog/2016/04/xero-api-developer-year-2015-goes/
+  domain: www.xero.com
+  image: ""
 - curated_id: NVH9EtbozZdzueIvjnPrXzNWHa1237TV0rFZUE123nwvcmWE116BcQM2a123EJtyiyGnDoBUxcNL116c116XTuKO76IzhuStOw117117
   item_date: "2016-04-06 00:00:00"
   title: What is a welldesigned API
   url: http://api-university.com/blog/what-is-a-well-designed-api/
   domain: api-university.com
+  image: ""
+- curated_id: aebf28776dba4e56cc82d0d88ce9c831
+  item_date: "2016-04-08 11:24:10"
+  title: On APIs and the Zalando API Guild
+  url: https://tech.zalando.com/blog/on-apis-and-the-zalando-api-guild/
+  domain: tech.zalando.com
   image: ""
 - curated_id: 1hcciMGhqaWLwEn2BnkUPDiivWTMzrb0T1JZVSPbepzW27tqm5DGjtn6hv6YfYjRH63rMMXVmvnveuQy0A0fuw117117
   item_date: "2016-04-12 00:00:00"
@@ -1733,11 +2371,23 @@
   url: http://api-university.com/blog/consumer-oriented-api-design/
   domain: api-university.com
   image: ""
+- curated_id: d4b38f9f78de1d1661dcf7dec95dedfe
+  item_date: "2016-04-14 10:29:53"
+  title: Hitch wants to help you grow and manage your API community
+  url: http://techcrunch.com/2016/04/14/hitchhq/
+  domain: techcrunch.com
+  image: ""
 - curated_id: 896xLXykI6STmz116UwBGB3hJOcirLJmuFx7chDTIEUTrX1p0zduUEA4n9H64vQ7YkczxkZdnh5UWUysUAQgEjig117117
   item_date: "2016-04-16 00:00:00"
   title: How to Improve API Errors With Defensive Design
   url: http://www.programmableweb.com/news/how-to-improve-api-errors-defensive-design/elsewhere-web/2016/04/16
   domain: www.programmableweb.com
+  image: ""
+- curated_id: c21ec02303d36ed283279630ceb0604e
+  item_date: "2016-04-18 00:00:00"
+  title: 'Welcome to the Puppet Community Slack '
+  url: https://puppet.com/blog/welcome-to-puppet-community-slack
+  domain: puppet.com
   image: ""
 - curated_id: doBhRMxX8Nd5116QLuQNVMPi4NVlgU4vklv1230IB6OFvvNyy1TwAo116ylefZZwsTtfCL7jAQaAxY4Afv532LmWDRzg117117
   item_date: "2016-04-21 00:00:00"
@@ -1745,17 +2395,42 @@
   url: http://www.builtinchicago.org/blog/build-better-mobile-apps-data-and-api-best-practices
   domain: www.builtinchicago.org
   image: ""
+- curated_id: c022865c068df3cefd360d682624cdd9
+  item_date: "2016-04-21 00:00:00"
+  title: I Have an API, Now I Need Some Help to Identify What Is Needed to Manage
+    My API Presence
+  url: https://dzone.com/articles/i-have-an-api-now-i-need-some-help-to-identify-wha
+  domain: dzone.com
+  image: ""
 - curated_id: OTFSv0KzM3UiAZ7ZxgrVcCWa123G9HN76BfvMPwv0zJ12gd123F1CRSOGyzufyURsg7zXyUg0ZFOTlclQMzaSrNNTA117117
   item_date: "2016-04-21 00:00:00"
   title: Worlds First API Design Hackathon
   url: https://blog.apiary.io/2016/04/21/API-Design-Hackaton
   domain: blog.apiary.io
   image: ""
+- curated_id: 46a5c79ac1bc56a0b94d9d51e8e0ba45
+  item_date: "2016-04-21 10:18:49"
+  title: 'Understanding APIs: misery to mastery'
+  url: https://techblog.workiva.com/tech-blog/understanding-apis-misery-mastery
+  domain: techblog.workiva.com
+  image: ""
+- curated_id: 16ec25dd8296677abab950dcf1acefa6
+  item_date: "2016-04-22 00:00:00"
+  title: Turning a community into evangelism helpers
+  url: https://www.christianheilmann.com/2016/04/22/turning-a-community-into-evangelism-helpers-devrelcon-notes/
+  domain: www.christianheilmann.com
+  image: ""
 - curated_id: picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117
   item_date: "2016-04-22 00:00:00"
   title: Build a REST API with XML Payload
   url: https://dzone.com/articles/build-a-rest-api-with-xml-payload
   domain: dzone.com
+  image: ""
+- curated_id: 54d7a4b38bdcae56a06cd3d45ec8dc3c
+  item_date: "2016-04-22 00:00:00"
+  title: 'Building a Better Developer Community: DevRelCon Takeaways'
+  url: https://www.jwplayer.com/blog/devrelcon-takeaways/
+  domain: www.jwplayer.com
   image: ""
 - curated_id: GQZ2YNcE3oaixEwp123hvfKEYYiFNCYtJ7wTCGRvL5FQlXAn9DdBpIwdosb1116uqOjqEfZT123sDxxCqgJixiFUPI8A117117
   item_date: "2016-04-22 00:00:00"
@@ -1787,11 +2462,36 @@
   url: http://apievangelist.com/2016/05/02/http-header-awareness-using-the-link-header-for-pagination/
   domain: apievangelist.com
   image: ""
+- curated_id: 952554ddc9fae711a732830a260a6811
+  item_date: "2016-05-03 00:00:00"
+  title: Inaugural developer relations survey
+  url: http://blog.devrel.net/industry/inaugural-developer-relations-survey/
+  domain: blog.devrel.net
+  image: ""
 - curated_id: g0qPr9jGn5OhCDnlI5Fp4zY7ItAxtecCJz3Adr6bmYjjKsa15iYEaFxGucDznvSmtL3gSbwTqAeKQtj39LmbnA117117
   item_date: "2016-05-03 15:15:22"
   title: Thinking About An API Proxy To Add Link Header To Each API Response
   url: http://apievangelist.com/2016/05/02/thinking-about-an-api-proxy-to-add-link-header-to-each-api-response/
   domain: apievangelist.com
+  image: ""
+- curated_id: 706ea962c5f610cda8332a56c9196418
+  item_date: "2016-05-10 00:00:00"
+  title: Hitch Aims to Improve Engagement Between API Providers and Developers
+  url: http://www.programmableweb.com/news/hitch-aims-to-improve-engagement-between-api-providers-and-developers/2016/05/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: cb9ea8ef206b10bbd816af6ed98654d5
+  item_date: "2016-05-12 00:00:00"
+  title: API Providers and Consumers Keeping in Touch Is How You Can Set the Right
+    Tone for an API Community
+  url: https://dzone.com/articles/api-providers-amp-consumers-keeping-in-touch-is-ho
+  domain: dzone.com
+  image: ""
+- curated_id: 2071b589ee4b499907833e555db58560
+  item_date: "2016-05-17 00:00:00"
+  title: Welcome to the Newest AWS Community Heroes (Spring 2016)
+  url: https://aws.amazon.com/blogs/aws/welcome-to-the-newest-aws-community-heroes-spring-2016/
+  domain: aws.amazon.com
   image: ""
 - curated_id: dV5AAU116MTJHyrmJ8JpAbK5afZQPBGFdMXLhu1168jEpC6HE2gzAnegkoV6ADXhUc3fJJoKwtlwkmLKjD116H2XILYA117117
   item_date: "2016-05-17 00:00:00"
@@ -1799,10 +2499,22 @@
   url: http://blog.bugsnag.com/building-great-apis
   domain: blog.bugsnag.com
   image: ""
+- curated_id: ef62a38c59657f6b36c037047e1ae18b
+  item_date: "2016-05-17 00:00:00"
+  title: Developer Tutorial - Building a Secure Onboarding App with Box Platform
+  url: https://www.box.com/blog/developer-tutorial-building-user-onboarding-app-box-platform/
+  domain: www.box.com
+  image: ""
 - curated_id: sPcF6w116aArj5Z0W95ijQRDh01Fahm1xbXFXDjtRi61lzhj123uhFaI4AWEO2cXqatSPLrljo2d62oSdnSsS26LCA117117
   item_date: "2016-05-19 00:00:00"
   title: RAMLing Again With API Workbench From Setup to Design
   url: https://dzone.com/articles/ramling-again-with-api-workbench-from-setup-to-des
+  domain: dzone.com
+  image: ""
+- curated_id: f9aa7c58f3ae9c1a513ab8fc1b77e86c
+  item_date: "2016-05-20 00:00:00"
+  title: Developer Experience (DX) ? Devs Are People Too
+  url: https://dzone.com/articles/developer-experience-dx-devs-are-people-too
   domain: dzone.com
   image: ""
 - curated_id: gLQ4pBj2cdQVqOrNtK561WnqGnA51llQIUJCJPR2XOGzd7hoUKM123jALzpVOVn9uGizJn1ETlKRxAIEF116L20iYw117117
@@ -1811,6 +2523,25 @@
     Not an Implementation
   url: https://dzone.com/articles/a-consumer-of-a-properly-designed-restful-api-is-w
   domain: dzone.com
+  image: ""
+- curated_id: 655c5242b0e16f6e0a96e30b106393d6
+  item_date: "2016-05-24 00:00:00"
+  title: Introducing The New Box Developer Experience
+  url: https://www.box.com/blog/box-developer-experience/
+  domain: www.box.com
+  image: ""
+- curated_id: d270438ffea2c4d380031732f484f260
+  item_date: "2016-05-25 00:00:00"
+  title: Twilio is building better company-customer relationships
+  url: http://www.pulseheadlines.com/twilio-is-building-better-company-customer-relationships/32648/
+  domain: www.pulseheadlines.com
+  image: ""
+- curated_id: f0b3f4829966c978e77878d1598047cf
+  item_date: "2016-05-27 00:00:00"
+  title: Introducing Echosim.io ? A New Online Tool Built by the Community, for the
+    Community
+  url: https://developer.amazon.com/appsandservices/community/post/Tx3BB1JHNS1TDTS/Introducing-Echosim-io-A-New-Online-Tool-Built-by-the-Community-for-the-Communit
+  domain: developer.amazon.com
   image: ""
 - curated_id: nE9BFDozn116lvCSqX6AAj9pJbKXSeYdYijpEH123XejamfZCwjYBFiGMYsIiRmfGRZMA3M3HDupSZuFXgIOXhc7kw117117
   item_date: "2016-06-05 00:00:00"
@@ -1828,6 +2559,18 @@
   item_date: "2016-06-09 00:00:00"
   title: JSONLD Building Meaningful Data APIs
   url: https://dzone.com/articles/json-ld-building-meaningful-data-apis-via-codeship
+  domain: dzone.com
+  image: ""
+- curated_id: c345d55743f7edc0fcd517f06575384b
+  item_date: "2016-06-09 00:00:00"
+  title: Webcast Available ? Introduction to IBM API Connect
+  url: https://strongloop.com/strongblog/webcast-available-introduction-to-ibm-api-connect/
+  domain: strongloop.com
+  image: ""
+- curated_id: 8ecd9637cea24311372f793c43fcedef
+  item_date: "2016-06-14 00:00:00"
+  title: 5 Signs of Managed Platform Entropy
+  url: https://dzone.com/articles/5-signs-of-managed-platform-entropy
   domain: dzone.com
   image: ""
 - curated_id: WN369VvsErxTut1161zbexBP74JQMgLu5lgc9Dg2xPdc89hDQdoh1NHEmLcFuepIizlT7aNfvTcZGKBmN116xlWVpg117117
@@ -1866,11 +2609,23 @@
   url: https://dzone.com/articles/http-rpc-30-released
   domain: dzone.com
   image: ""
+- curated_id: dd31f88a13a7f8aabaaa02a8249e0818
+  item_date: "2016-07-03 00:00:00"
+  title: Developer TV out and about in Episode 4
+  url: https://www.xero.com/blog/2016/07/developer-tv-episode-4/
+  domain: www.xero.com
+  image: ""
 - curated_id: YGOENuqcNc7YQ7CnUkUKtUe6ZLisIqJFzJ0UHAb6JMKmVmyUHF8fcZ2eY7UaUnExvLsChdM46116quLQkpn6ZpWg117117
   item_date: "2016-07-10 00:00:00"
   title: Scaling Your API Design Workflow
   url: https://blog.apiary.io/2016/07/10/Scaling-Your-API-Design-Workflow
   domain: blog.apiary.io
+  image: ""
+- curated_id: d6b891c63c5ec81fea5270c23a20b4ea
+  item_date: "2016-07-11 00:00:00"
+  title: You Can Now Download Stack Overflow?s 2016 Developer Survey Data
+  url: http://blog.stackoverflow.com/2016/07/you-can-now-download-stack-overflows-2016-developer-survey-data/
+  domain: blog.stackoverflow.com
   image: ""
 - curated_id: gQAqK3X30IwWfdaZk0fJcikkqxyPDTPUOSu9jWRYaVAoeqiyms2Hvb5je1fbSB4Bk123eABFjZhc15nvHYEGwVlA117117
   item_date: "2016-07-12 00:00:00"
@@ -1883,6 +2638,18 @@
   title: API Errors Are First Class Citizens
   url: https://dzone.com/articles/api-errors-are-first-class-citizens
   domain: dzone.com
+  image: ""
+- curated_id: e1a23fac493d82722736faa9674aaf95
+  item_date: "2016-07-18 00:00:00"
+  title: Everyone is an evangelist
+  url: http://blog.devrel.net/craft/everyone-is-an-evangelist/
+  domain: blog.devrel.net
+  image: ""
+- curated_id: 680c8fccc9e046660fb6748b61793954
+  item_date: "2016-07-19 00:00:00"
+  title: Introducing the Keen IO Community Code of Conduct
+  url: http://keenio.tumblr.com/post/147643842916/introducing-the-keen-io-community-code-of-conduct#_=_
+  domain: keenio.tumblr.com
   image: ""
 - curated_id: 5ZBeNv7yYPmJA5lSoMOXyRkaEU3AzmMIq5JT123oxooz92v123123UT6zodKohxWbMI5ueEKtkMmah8116q25GXWEzVCGA117117
   item_date: "2016-07-19 12:35:29"
@@ -1902,6 +2669,24 @@
   url: http://www.programmableweb.com/news/microsoft-publishes-rest-api-guidelines-2.3/brief/2016/07/21
   domain: www.programmableweb.com
   image: ""
+- curated_id: f2d199ef5b84c64d19a7d948aa622451
+  item_date: "2016-07-26 00:00:00"
+  title: Jobs board for developer relations
+  url: https://devrel.net/industry/jobs-board-developer-relations/
+  domain: devrel.net
+  image: ""
+- curated_id: 0a14d1a71118de2a843ec0bda7ab64de
+  item_date: "2016-08-02 00:00:00"
+  title: Interview With R. Tyler Crory, Jenkins Community Evangelist
+  url: https://dzone.com/articles/interview-with-r-tyler-crory-jenkins-community-eva
+  domain: dzone.com
+  image: ""
+- curated_id: ac54fc5ee5d0b28dc5372b8e34e46077
+  item_date: "2016-08-02 00:00:00"
+  title: 'Let?s Talk: Introducing the Duo Community'
+  url: https://duo.com/blog/let-s-talk-introducing-the-duo-community
+  domain: duo.com
+  image: ""
 - curated_id: h6loNrmahtGZvgL116Pr8gcsvvzgTqiWUvFoKxZmid4V3MUhCQbij5H5116nLYFyEOwa2IHgQI5V62Z70QMSmwrt116w117117
   item_date: "2016-08-03 00:00:00"
   title: Getting Your REST is Important
@@ -1914,6 +2699,18 @@
   url: http://restlet.com/blog/2016/08/03/restlet-studio-1-3-is-out/
   domain: restlet.com
   image: ""
+- curated_id: 3509c0385ade4641714599822c5e2a13
+  item_date: "2016-08-05 00:00:00"
+  title: 'Planning a Developer Relations Strategy: Part I'
+  url: https://dzone.com/articles/planning-a-developer-relations-strategy-part-1
+  domain: dzone.com
+  image: ""
+- curated_id: 7a27dac9dc3ba060979a37f6f4615b8c
+  item_date: "2016-08-09 00:00:00"
+  title: 'Compose View: Say hello to the Database Advocate'
+  url: https://www.compose.com/articles/compose-view-say-hello-to-the-database-advocate/
+  domain: www.compose.com
+  image: ""
 - curated_id: N4DsiNvaeA9XYbIShqFhKJN9u8qY5hrXFXCXrqt3RarEGDxboM7MJlKBdHfDyErGNmxEYQ888hcuZLr9R57NZg117117
   item_date: "2016-08-09 00:00:00"
   title: Shaming People for Not Being or Understanding REST Is Why We Have So Much
@@ -1921,17 +2718,35 @@
   url: https://dzone.com/articles/shaming-people-for-not-being-or-understanding-rest
   domain: dzone.com
   image: ""
+- curated_id: 01e7f0d9b9b22dc9916296296eec4672
+  item_date: "2016-08-10 00:00:00"
+  title: How People Use Twitter to Find Your Business
+  url: https://blog.hootsuite.com/how-people-use-twitter-to-find-your-business/
+  domain: blog.hootsuite.com
+  image: ""
 - curated_id: vWFqPWVXoApem1tP4N7vtnzR2IHHzN2kRGEyR1231co49eu90xpbcigtZ4MBbJIo123x9lKyDFO1fVH61168123PWtEyng117117
   item_date: "2016-08-11 00:00:00"
   title: Use of API Design and Management Policies
   url: https://dzone.com/articles/use-of-api-design-and-management-policies
   domain: dzone.com
   image: ""
+- curated_id: 96760717655da04240eedf2accfcfba9
+  item_date: "2016-08-15 00:00:00"
+  title: The power of collaboration in the Xero Ecosystem
+  url: http://www.xero.com/blog/2016/08/power-collaboration-xero-ecosystem/
+  domain: www.xero.com
+  image: ""
 - curated_id: FaGEkVpmU32VxmK116DFnDCsPRdKEi6kPI2116123Rl0tyXfgMOkbuz4RFhBxQ1T5mukqEQqhH6M8bKhJOuJdcxlofHQ117117
   item_date: "2016-08-16 00:00:00"
   title: O Slack API How Do I Love Thee
   url: https://medium.com/slack-developer-blog/o-slack-api-how-do-i-love-thee-126aa7345cb0
   domain: medium.com
+  image: ""
+- curated_id: c480b1d1bda98d9de6c364e6ec1b1cb3
+  item_date: "2016-08-16 00:00:00"
+  title: 5 Minutes with the Docker Captains
+  url: https://blog.docker.com/2016/08/5-minutes-docker-captains/
+  domain: blog.docker.com
   image: ""
 - curated_id: ceoFx9mBATDlUmZixIU116Y0SlnEluiUbGIhBRyORysWUE4mIxHQ01234RukmbiduPAmuyOdyurYLPdxDIaVZ2NSTA117117
   item_date: "2016-08-16 09:38:25"
@@ -1945,11 +2760,29 @@
   url: http://blog.opto22.com/optoblog/optonews-tip-whats-a-restful-api-and-why-does-it-matter
   domain: blog.opto22.com
   image: ""
+- curated_id: 7c46bb9dc0b28c3920e0af13c9543381
+  item_date: "2016-08-17 00:00:00"
+  title: 'Meet April L. Hamilton: Developer, Blogger, and All Around Alexa Champion'
+  url: https://developer.amazon.com/appsandservices/community/post/Tx1I8VB8CSIC5JW/Meet-April-L-Hamilton-Developer-Blogger-and-All-Around-Alexa-Champion
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 8a3700d294b364c604c5604639c46294
+  item_date: "2016-08-17 00:00:00"
+  title: 'Alexa Champions: Recognizing Top Alexa Developers in the Community'
+  url: https://developer.amazon.com/appsandservices/community/post/Tx19OHYKBG2ROQQ/Alexa-Champions-Recognizing-Top-Alexa-Developers-in-the-Community
+  domain: developer.amazon.com
+  image: ""
 - curated_id: 5kumgPU1tpPUcGzXi123y0Z116tD230wPDqsDpsZ96h8ISNGv9TrCNU1Pcg3hX3U5ege4c7QV1haRdiF8ABWkrsYIQ117117
   item_date: "2016-08-18 00:00:00"
   title: Five Steps Before Developing a Smart Home Skill
   url: https://developer.amazon.com/appsandservices/community/post/Tx4WG410EHXIYQ/Five-Steps-Before-Developing-a-Smart-Home-Skill
   domain: developer.amazon.com
+  image: ""
+- curated_id: 05a14acc9aa04358614b8791b75148c7
+  item_date: "2016-08-18 00:00:00"
+  title: Turning Away From The InfoSec Drama Machine
+  url: https://www.liquidmatrix.org/blog/2016/08/18/turning-away-infosec-drama-machine/
+  domain: www.liquidmatrix.org
   image: ""
 - curated_id: qLaC11644116WujhcD5nT9f4LoBUe10mDVVEAMM0rippPDYHWXZ24osQ1Ij0kD08kbZYT4CWuvfl5aCPplmfWigAYg117117
   item_date: "2016-08-19 00:00:00"
@@ -1963,11 +2796,29 @@
   url: https://spin.atomicobject.com/2016/08/20/api-design/
   domain: spin.atomicobject.com
   image: ""
+- curated_id: c962425388384bfd9f4740b6483b8598
+  item_date: "2016-08-22 00:00:00"
+  title: Events with the Alexa Team
+  url: https://developer.amazon.com/appsandservices/community/post/Tx3W3EY4VG61HBR/Events-with-the-Alexa-Team
+  domain: developer.amazon.com
+  image: ""
+- curated_id: b5d5b52a1cd4ce8ab23f3c35fd643091
+  item_date: "2016-08-23 00:00:00"
+  title: Essentials for Promoting Web APIs
+  url: http://www.apiful.io/intro/2016/08/24/essential-api-adoption-resources.html
+  domain: www.apiful.io
+  image: ""
 - curated_id: UouB8qxpfASyzf1jmMZnZj7rxFY57ym1eos9hM5WOUtUQ84E17AqZq8QMNg0QgVsHzG5BSuRW1LO5TdLvWgOeQ117117
   item_date: "2016-08-23 00:00:00"
   title: User Interface An Essential part of a Effective API design
   url: http://www.cioreview.com/news/user-interface-an-essential-part-of-a-effective-api-design-nid-18306-cid-111.html
   domain: www.cioreview.com
+  image: ""
+- curated_id: e385779e5bfcca70cfaec2f97f6a5855
+  item_date: "2016-08-24 00:00:00"
+  title: Turning a community into evangelism helpers
+  url: https://devrel.net/craft/turning-community-evangelism-helpers/
+  domain: devrel.net
   image: ""
 - curated_id: Xfyir400A5QT2tkKsL0h4r9rBrHYZDJhKN84Dbz2xsmzScR49f116dt116sGAmd9lqWMS0cLOvKKKE7kcLTnMjt9Ew117117
   item_date: "2016-08-26 00:00:00"
@@ -1981,17 +2832,30 @@
   url: https://www.lullabot.com/articles/internal-api-design-for-distributed-teams
   domain: www.lullabot.com
   image: ""
-- curated_id: BmkZASH5lT8aIjPY68zoiSoAW123MOPpIPwfJ0I123v116VTfnz123Q3GrVUHxxQfi1UEc6wm2rwRJn8rJMwHP2PSWn9sQ117117
-  item_date: "2016-08-30 00:00:00"
-  title: Why Consistency Matters Across the Media Types Offered by an API
-  url: http://www.programmableweb.com/news/why-consistency-matters-across-media-types-offered-api/analysis/2016/08/30
-  domain: www.programmableweb.com
+- curated_id: f8dc9465bcb4efd1c26584676b4c68c2
+  item_date: "2016-08-29 00:00:00"
+  title: What does a developer evangelist/advocate do?
+  url: https://www.christianheilmann.com/2016/08/29/what-does-a-developer-evangelistadvocate-do/
+  domain: www.christianheilmann.com
   image: ""
 - curated_id: lJDc116koEBDYKzA9Gqj8Tgo0lWYERe1236K7O1161DL441B7icwAMmdV123trJFikQk1QWaMnO1aLXkE2HSRYCbUc1231Iw117117
   item_date: "2016-08-30 00:00:00"
   title: Better API Design With Java 8 Optional
   url: https://dzone.com/articles/better-api-design-with-java-8-optional
   domain: dzone.com
+  image: ""
+- curated_id: BmkZASH5lT8aIjPY68zoiSoAW123MOPpIPwfJ0I123v116VTfnz123Q3GrVUHxxQfi1UEc6wm2rwRJn8rJMwHP2PSWn9sQ117117
+  item_date: "2016-08-30 00:00:00"
+  title: Why Consistency Matters Across the Media Types Offered by an API
+  url: http://www.programmableweb.com/news/why-consistency-matters-across-media-types-offered-api/analysis/2016/08/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 23abe49e705a159009c9f3a54de4f827
+  item_date: "2016-09-01 00:00:00"
+  title: 'Docker Online Meetup #42: Docker Captains Share Tips  Tricks for Using Docker
+    1.12'
+  url: https://blog.docker.com/2016/09/docker-online-meetup-42-docker-captains-share-tips-tricks-using-docker-1-12/
+  domain: blog.docker.com
   image: ""
 - curated_id: 2Gty12IkCi3endqM1235hGrvf0jEMGYo81Hxj5oCk2Dxua8obrTmxweQM63lYd8IkcRsNqoJsfPopDkw8gCzcinw117117
   item_date: "2016-09-03 09:26:52"
@@ -2053,11 +2917,29 @@
   url: https://cvesters.wordpress.com/2016/09/11/maintaining-api/
   domain: cvesters.wordpress.com
   image: ""
+- curated_id: 7661d2a7d2019f17f0d789fddd08ecba
+  item_date: "2016-09-12 00:00:00"
+  title: Measuring developer evangelism
+  url: https://devrel.net/craft/measuring-developer-evangelism
+  domain: devrel.net
+  image: ""
+- curated_id: abffed53314e8b1521245d3ba604c502
+  item_date: "2016-09-13 00:00:00"
+  title: New Dockercast Episode with Docker Captain, Nirmal Mehta
+  url: https://blog.docker.com/2016/09/new-dockercast-episode-docker-captain-nirmal-mehta/
+  domain: blog.docker.com
+  image: ""
 - curated_id: Nl1gldzDhgrbcDlUgdHKhEUDKwjCUaaZsUmZAqHuxChtQu9luOTk123vvTGeTfzlGN0Lnioi123SgRfj6WqOWd2W116g117117
   item_date: "2016-09-14 17:38:31"
   title: The GitHub GraphQL API  GitHub Engineering
   url: http://githubengineering.com/the-github-graphql-api/
   domain: githubengineering.com
+  image: ""
+- curated_id: edYbaWsa123R8e2zfyLXvgo5AVtwXb1116NuEbMXDFregXHr1c7Jdjs116O1KPP39WvuR8Zd6VBQYTsvcKTwD116QVKygg117117
+  item_date: "2016-09-15 00:00:00"
+  title: Learn API DevOps from the Experts  Design Testing Deployment
+  url: http://restlet.com/blog/2016/09/15/sept-api-meetup/
+  domain: restlet.com
   image: ""
 - curated_id: cDJL0xH67dOaAxrzgwT7vGmvVQkkKTW4JN7N77116htbGh5hHK5FPpFsEHXjsG3f3pLVSSIL116unJzQo0rJ7D3aZQ117117
   item_date: "2016-09-15 00:00:00"
@@ -2065,11 +2947,17 @@
   url: http://www.programmableweb.com/news/how-to-take-your-api-rpc-to-hypermedia-7-steps/how-to/2016/09/15
   domain: www.programmableweb.com
   image: ""
-- curated_id: edYbaWsa123R8e2zfyLXvgo5AVtwXb1116NuEbMXDFregXHr1c7Jdjs116O1KPP39WvuR8Zd6VBQYTsvcKTwD116QVKygg117117
-  item_date: "2016-09-15 00:00:00"
-  title: Learn API DevOps from the Experts  Design Testing Deployment
-  url: http://restlet.com/blog/2016/09/15/sept-api-meetup/
-  domain: restlet.com
+- curated_id: ebf4a973efdcc77064bf049881b0885d
+  item_date: "2016-09-16 00:00:00"
+  title: 3 Takeaways From Our First API Meetup
+  url: https://blog.percolate.com/2016/09/takeaways-first-api-meetup-documentation/
+  domain: blog.percolate.com
+  image: ""
+- curated_id: ab35c41f5c23e182ba6c563e493e5bc2
+  item_date: "2016-09-16 00:00:00"
+  title: State of the Map Workshops and Lightning Talks
+  url: https://blog.openstreetmap.org/2016/09/16/state-of-the-map-workshops-and-lightning-talks/
+  domain: blog.openstreetmap.org
   image: ""
 - curated_id: DG1Hi4mdkwHH92Vuqlwl9zI3mhKI4ScbSqBXbJpClAd4tAGCHg0DZcXce4V4116MpKNNpnsR99Nlkz116XnUt0w8jQ117117
   item_date: "2016-09-16 00:00:00"
@@ -2101,11 +2989,23 @@
   url: http://blog.howarddierking.com/2016/09/15/there-is-no-rest-api/
   domain: blog.howarddierking.com
   image: ""
+- curated_id: 3c8614d189f906feb17a83c69703b16c
+  item_date: "2016-09-21 00:00:00"
+  title: 5 Clever Ways to Leverage Client Feedback for More Referrals
+  url: http://blog.hubspot.com/marketing/leverage-client-feedback-more-referrals
+  domain: blog.hubspot.com
+  image: ""
 - curated_id: 68a1238xoB3m4SN3S1233p0d123wpchzwYXCdpkT5N7CoTUBelHTfmgfNut18a5QmiFvXx6aBvVfTyWaUR3zdRDzxORQ117117
   item_date: "2016-09-21 09:55:12"
   title: Evolution to RESTful with NoSQL Documents
   url: https://medium.com/m/global-identity
   domain: medium.com
+  image: ""
+- curated_id: 3eb0dafc50f48441ebc0da11e4690bcc
+  item_date: "2016-09-22 00:00:00"
+  title: What?s New in OpenShift 3.3 ? Developer Experience
+  url: https://blog.openshift.com/whats-new-openshift-3-3-developer-experience/
+  domain: blog.openshift.com
   image: ""
 - curated_id: 79nuPDd9uN87YHjR116RJXY8h5CaXEbHl123nSI8fi9EalU7QHcnxa39E91C2fQML7InWk6MUEtkMzscwuSMq8UfSA117117
   item_date: "2016-09-25 00:00:00"
@@ -2120,23 +3020,29 @@
   url: http://sunlightfoundation.com/blog/2016/09/26/sunlight-at-the-21st-century-neighborhoods-symposium-how-humanizing-data-will-improve-our-communities/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: DwWXVrcos2G3G9963wiz0D4uQhzN2njtOdQJK06uX7IkPTkAE5Dhcu8OWvr24jxZLcvodWFRoceqnbDOfs7ApQ117117
-  item_date: "2016-09-28 00:00:00"
-  title: Announcing the OpenSource beaR Library
-  url: http://www.esa.doc.gov/under-secretary-blog/announcing-open-source-bear-library
-  domain: www.esa.doc.gov
-  image: ""
 - curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
   item_date: "2016-09-28 00:00:00"
   title: What is API Design
   url: http://api-university.com/blog/what-is-api-design/
   domain: api-university.com
   image: ""
+- curated_id: DwWXVrcos2G3G9963wiz0D4uQhzN2njtOdQJK06uX7IkPTkAE5Dhcu8OWvr24jxZLcvodWFRoceqnbDOfs7ApQ117117
+  item_date: "2016-09-28 00:00:00"
+  title: Announcing the OpenSource beaR Library
+  url: http://www.esa.doc.gov/under-secretary-blog/announcing-open-source-bear-library
+  domain: www.esa.doc.gov
+  image: ""
 - curated_id: 7CeE123KNo123MVyYk9lEHdRyTJtEgeU3NehAxgWlk123AwQUkiP3116PG05dnj177Bvd1GpNoylYbEsnvTdSDlCm2g67Q117117
   item_date: "2016-09-29 13:23:41"
   title: How to fix CORS problems  Restlet  We Know About APIs
   url: http://restlet.com/blog/2016/09/27/how-to-fix-cors-problems/
   domain: restlet.com
+  image: ""
+- curated_id: 5329cbbd7399504c1153f222388e14e7
+  item_date: "2016-09-30 00:00:00"
+  title: 'eBook Released: How to Market an API'
+  url: http://nordicapis.com/ebook-released-market-api/
+  domain: nordicapis.com
   image: ""
 - curated_id: BcY30vG7JK116aD7ukNjylE116116kR0hCbIibFPsswb1233GHkFu8elkaNMtOJZxaD123TGzPJRG10MLN2XRExcpqekN27w117117
   item_date: "2016-10-01 00:00:00"
@@ -2157,6 +3063,13 @@
   url: http://www.codeproject.com/Articles/1136184/Software-backward-compatibility-undocumented-APIs
   domain: www.codeproject.com
   image: ""
+- curated_id: befb8c90d7a9c8c40684466a46022530
+  item_date: "2016-10-03 18:01:02"
+  title: 'Tweet: Are you using #RedHat #tech to make a difference in your business?
+    Learn about the #RHInnovationAwardshellip; https://t.co/hP5GcqsAcV'
+  url: https://twitter.com/RedHatNews/statuses/783109641165168640
+  domain: twitter.com
+  image: ""
 - curated_id: 6OVIyn4chl62W7lCApv6ECbdPElg32P6g6alSaHqpFwI4EzPU7bcE116maXRoo0NIF6ioqyCuen3123EOh4V1gddGA117117
   item_date: "2016-10-04 00:00:00"
   title: Why to Prioritize Your API Strategy Before Your API Design
@@ -2168,6 +3081,12 @@
   title: A Web API ecosystem through featurebased reuse
   url: https://arxiv.org/pdf/1609.07108v1.pdf
   domain: arxiv.org
+  image: ""
+- curated_id: d6c91674c9cf0b7dbe1ba627b4fa79e5
+  item_date: "2016-10-05 11:32:42"
+  title: A day in the life of a Developer Advocate for Google Cloud Platform
+  url: https://medium.com/@glaforge/a-day-in-the-life-of-a-developer-advocate-for-google-cloud-platform-fe681c8645cf#.rwdcga7pr
+  domain: medium.com
   image: ""
 - curated_id: EwxIBVaMmHammPzHGOMajeISxXpBEkrF5jb1ZnmAD3YuUpqyuv7j15123SeXyXwGjoXJtqFRXORNo58HuMO4wVcA117117
   item_date: "2016-10-06 10:54:35"
@@ -2207,6 +3126,12 @@
   url: https://dzone.com/articles/web-app-next-stop-in-our-software-journey-rest-ser-1
   domain: dzone.com
   image: ""
+- curated_id: 3bd28eabb785d49187d2828e3252141b
+  item_date: "2016-10-12 00:00:00"
+  title: Xploring our developer?s craziest ideas
+  url: http://www.xero.com/blog/2016/10/xplore-craziest-ideas/
+  domain: www.xero.com
+  image: ""
 - curated_id: LlmveosxTOZg123iBkABmK7Tzk1R2yQyVp417K9hQ0UmAIKOetH9sHENXChCdoXugj1238hhSUUWy68xERvnoPOTcg117117
   item_date: "2016-10-12 12:22:06"
   title: API Best Practices API Design
@@ -2237,17 +3162,29 @@
   url: http://dret.typepad.com/dretblog/2016/10/api-usability-matters.html
   domain: dret.typepad.com
   image: ""
-- curated_id: 116DJfGp9e3SCSl1236fULT4116lYhHEJ1Kmjbf5VgB38l2FG116HEDbx8ktTa116h147YNTT9ADBPd1230h525oGiCUfSGrmg117117
-  item_date: "2016-10-19 00:00:00"
-  title: From Good to Great API
-  url: http://api-university.com/blog/from-good-to-great-api/
-  domain: api-university.com
+- curated_id: 870d0dafadae0736a2ddaf43d5aa3efb
+  item_date: "2016-10-18 10:35:00"
+  title: 18F Content Guide - Address the user
+  url: https://pages.18f.gov/content-guide/address-the-user/
+  domain: pages.18f.gov
   image: ""
 - curated_id: BBA116Yi3Ib060MJ123HmqgmaGhJ6i1230kxpcFicTxw7wAos1ISyHN1awVQbBAPQrDTmVut123qlCsarzjkc1uMdMcsUQ117117
   item_date: "2016-10-19 00:00:00"
   title: Designing better Web APIs  Part I  arefscom
   url: https://arefs.com/2016/10/19/designing-better-web-apis-part-i/
   domain: arefs.com
+  image: ""
+- curated_id: 116DJfGp9e3SCSl1236fULT4116lYhHEJ1Kmjbf5VgB38l2FG116HEDbx8ktTa116h147YNTT9ADBPd1230h525oGiCUfSGrmg117117
+  item_date: "2016-10-19 00:00:00"
+  title: From Good to Great API
+  url: http://api-university.com/blog/from-good-to-great-api/
+  domain: api-university.com
+  image: ""
+- curated_id: 4f72316b0ba81291347519768a1d10eb
+  item_date: "2016-10-21 00:00:00"
+  title: 'Introduction to ScribeNerd : API Dev'
+  url: http://blog.scribesoft.com/scribenerd-apidev/
+  domain: blog.scribesoft.com
   image: ""
 - curated_id: dMcIt35Bmig123EVRJYyAv7nIFLwniY7MfwR0FPxUYNsEjkI6PQ4VXWMKdsRbYRAzfuDr116QLx54yDd3mhKx123byqw117117
   item_date: "2016-10-31 00:00:00"
@@ -2260,6 +3197,12 @@
   title: Introduction to APIFirst Design
   url: http://www.programmableweb.com/news/introduction-to-api-first-design/analysis/2016/10/31
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 5e2452ab92c2b9473f312f26cfa16127
+  item_date: "2016-11-02 00:00:00"
+  title: 'Twitter Developer Communities: get to know your local developers'
+  url: https://blog.twitter.com/2016/twitter-developer-communities-get-to-know-your-local-developers-0
+  domain: blog.twitter.com
   image: ""
 - curated_id: EtzfvKVCCoFG9ji123qKPecXVre3gQKXGLIbbSU1j1RHUtTDh3SgdpKCa0r5116RDImAf40116T1zp0QlR4W8CfJm5tg117117
   item_date: "2016-11-02 00:00:00"
@@ -2297,23 +3240,53 @@
   url: http://www.tibco.com/blog/2016/12/14/api-modeling-a-zero-code-way-to-a-designer-api/
   domain: www.tibco.com
   image: ""
-- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
-  item_date: "2016-12-14 00:00:00"
-  title: Foundations of RESTful Architecture
-  url: https://dzone.com/refcardz/rest-foundations-restful
-  domain: dzone.com
-  image: ""
 - curated_id: dKrthEVodGvPzc48123gsMZnHQ1MKhQnVpMkOKghMUeleaNk116RFZgIEfs6nl4QGjuIAHAg97VAiQW3ymxHbZzXnA117117
   item_date: "2016-12-14 00:00:00"
   title: 7 Secrets to Designing Alexa Skills
   url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
   domain: dzone.com
   image: ""
+- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
+  item_date: "2016-12-14 00:00:00"
+  title: Foundations of RESTful Architecture
+  url: https://dzone.com/refcardz/rest-foundations-restful
+  domain: dzone.com
+  image: ""
+- curated_id: ea9885852896fa7e936058e9de165933
+  item_date: "2016-12-15 00:00:00"
+  title: From empathy to community
+  url: http://www.niemanlab.org/2016/12/from-empathy-to-community/
+  domain: www.niemanlab.org
+  image: ""
+- curated_id: 658f9e350f57bfe7b91bdc961285af62
+  item_date: "2016-12-15 00:00:00"
+  title: Developer experience for developer events
+  url: https://devrel.net/craft/developer-experience-developer-events
+  domain: devrel.net
+  image: ""
+- curated_id: 11b3d6fe9241f490b8067f95e363fec5
+  item_date: "2016-12-15 00:00:00"
+  title: 'Why developer relations programmes fail: Mike Stowe'
+  url: https://devrel.net/opinion/developer-relations-programmes-fail-mike-stowe
+  domain: devrel.net
+  image: ""
+- curated_id: d9298d4f7f720ad712c5410171a183f8
+  item_date: "2016-12-18 00:00:00"
+  title: Building our own communities
+  url: http://www.niemanlab.org/2016/12/building-our-own-communities/
+  domain: www.niemanlab.org
+  image: ""
 - curated_id: hCTkehE2fpb12356q116riWdoE9npZ8nzB0XHa3AAS2yKJU123RMX123tFyGtE7HBPP3OCF9VxQpS2cd9dghkJWD1234cK116w117117
   item_date: "2016-12-18 00:00:00"
   title: API Design for C epub
   url: http://thywifyjudit.full-design.com/API-Design-for-C-epub-2847187
   domain: thywifyjudit.full-design.com
+  image: ""
+- curated_id: 1b0923f099e7e5ef8846fcc75aad46a2
+  item_date: "2016-12-19 00:00:00"
+  title: Welcome to the Newest AWS Heroes (Winter 2016)
+  url: https://aws.amazon.com/blogs/aws/welcome-to-the-newest-aws-heroes-winter-2016/
+  domain: aws.amazon.com
   image: ""
 - curated_id: AHn3e2345luaXYLGEVTGOkka5av4qYjhJFdGWh2A8sD123cXSpRomGtK9cKhzPzV60oIJY0U7x7wLzP2aLB0Y116Cw117117
   item_date: "2016-12-19 00:00:00"
@@ -2338,6 +3311,12 @@
   title: Creating a Simple Android REST Client Using HTTPRPC
   url: https://dzone.com/articles/creating-a-simple-android-rest-client-using-http-r
   domain: dzone.com
+  image: ""
+- curated_id: b995dfe07379f4a9328034ab2c609971
+  item_date: "2016-12-30 00:00:00"
+  title: Suggestions for improving Twitter
+  url: http://boingboing.net/2016/12/30/suggestions-for-improving-twit.html
+  domain: boingboing.net
   image: ""
 - curated_id: 2FhxEVHPgWG123eQqokPxL116ZkGyMJ8dhxU3Rmt4GyjubzHJLw2gv7ryyT5BNybEkyDZaDc7zq8piWbvjzHNQQwJg117117
   item_date: "2017-01-01 00:00:00"
@@ -2381,6 +3360,24 @@
   url: https://www.nginx.com/blog/building-api-for-longevity-spec-driven-development/
   domain: www.nginx.com
   image: ""
+- curated_id: 54911fb74a1590a860ff3c6ad08272f4
+  item_date: "2017-01-10 00:00:00"
+  title: "Introducing David Okun \u2013 StrongLoop Developer Evangelist"
+  url: https://strongloop.com/strongblog/introducing-david-okun-strongloop-developer-evangelist/
+  domain: strongloop.com
+  image: ""
+- curated_id: f3e1b4b65300502a001ce53d4efbea93
+  item_date: "2017-01-10 09:30:09"
+  title: 'New Years Resolution: How (and Why) to Give Back to the Developer Community'
+  url: https://blog.runscope.com/posts/new-years-resolution-how-and-why-to-give-back-to-the-developer-community
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 3615a4ad53fe65ad3c2091dc593d0204
+  item_date: "2017-01-11 00:00:00"
+  title: 'Measuring developer evangelism: Rey Bango'
+  url: https://devrel.net/craft/measuring-developer-evangelism-rey-bango
+  domain: devrel.net
+  image: ""
 - curated_id: bmJXvSElCbS123A123zpeHc123U8C75CdU123KYRhZQF6E885eNFCG9Nluyi116bg1YYbNljVfgLjGQUIgbZd4V123NwlQLDNg117117
   item_date: "2017-01-14 00:00:00"
   title: Signatures with PUT vs POST
@@ -2392,6 +3389,18 @@
   title: Looking for commonality among HTTP request APIs
   url: https://snarky.ca/looking-for-commonality-among-http-request-apis/
   domain: snarky.ca
+  image: ""
+- curated_id: 32d28711f9ae810e0021679211cbea8a
+  item_date: "2017-01-17 00:00:00"
+  title: "Introducing Erin McKean \u2013 StrongLoop Lead Developer Evangelist"
+  url: https://strongloop.com/strongblog/introducing-erin-mckean-strongloop-lead-developer-evangelist/
+  domain: strongloop.com
+  image: ""
+- curated_id: 7027cbdc4c3ba43449e78e7460fb8328
+  item_date: "2017-01-31 00:00:00"
+  title: "Introducing Raymond Camden \u2013 Cat Person who Occasionally Evangelizes"
+  url: https://strongloop.com/strongblog/introducing-raymond-camden-cat-person-who-occasionally-evangelizes/
+  domain: strongloop.com
   image: ""
 - curated_id: Iuu2grPtfFXlvCzkPjvGipaShv5QWN116oKM9kudyw18miCrbivkCYhZV9sCz5DAESOtKUf35qD8y0sKeuVfNhzw117117
   item_date: "2017-01-31 00:00:00"
@@ -2411,6 +3420,18 @@
   url: https://hackernoon.com/visualising-complex-apis-using-api-map-f09f617acb32#.8y525mrpn
   domain: hackernoon.com
   image: ""
+- curated_id: 8cbb3e75db7916b7cafecd9bd78c1e26
+  item_date: "2017-02-06 14:51:01"
+  title: 'Developer Program Metrics: How Intuit Measures Developer Success'
+  url: https://www.visionmobile.com/blog/2017/01/intuit-measures-developer-success
+  domain: www.visionmobile.com
+  image: ""
+- curated_id: f6e1642cbe38e901a4397fbdb2e6658f
+  item_date: "2017-02-07 00:00:00"
+  title: Get published on this blog
+  url: https://medium.com/slack-developer-blog/get-published-on-this-blog-5d9dae534595
+  domain: medium.com
+  image: ""
 - curated_id: gEkQR813o116HF8yldGiKvDtog1zeI9n4116fIHr5E7njDlzfcFoMh1HenoG9xDFFq123IM4116uY6GFuQjfDNUFkcXSDg117117
   item_date: "2017-02-07 00:00:00"
   title: Use a Local API to Protect Global Methods in a Distributed Environment
@@ -2423,11 +3444,47 @@
   url: https://newze.net/404-error-page/
   domain: newze.net
   image: ""
+- curated_id: b9c1269efab78c563dbd5925a0ed6f7d
+  item_date: "2017-02-07 00:00:00"
+  title: New integrations for you to discover
+  url: https://medium.com/intercom-developers/new-integrations-for-you-to-discover-6fc8b7694e23
+  domain: medium.com
+  image: ""
+- curated_id: 34fbb6b0449c73ab7a198ad351729546
+  item_date: "2017-02-08 00:00:00"
+  title: G Suite Developer Sessions at Google Cloud Next 2017
+  url: https://developers.googleblog.com/2017/02/g-suite-developer-sessions-at-google.html
+  domain: developers.googleblog.com
+  image: ""
 - curated_id: gCK4O9BWxWcBb9dnQDKBWP09J34pOlV2mK123dJUI116rgJm4cmHXnYEBgiGf886QlDbh1w621Lm9QIO2ap6VnxjLA117117
   item_date: "2017-02-08 00:00:00"
   title: The Simple Guide to HTTP Verbs PATCH PUT and POST
   url: https://dzone.com/articles/the-simple-guide-to-http-verbs-patch-put-and-post
   domain: dzone.com
+  image: ""
+- curated_id: 547818fae6894f376e123de2c139e13b
+  item_date: "2017-02-08 00:00:00"
+  title: Box Overhauls its Developer Experience
+  url: https://www.programmableweb.com/news/box-overhauls-its-developer-experience/brief/2017/02/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e30ca79a134825b4518c767a71493701
+  item_date: "2017-02-09 00:00:00"
+  title: 'EVMan: event management tool for devrel teams'
+  url: https://devrel.net/tools/evman-event-management-tool-devrel-teams
+  domain: devrel.net
+  image: ""
+- curated_id: 10ee763900b1b935275be258ddcec750
+  item_date: "2017-02-09 00:00:00"
+  title: New Developer Evanglist Charlotte Joins the OpenShift Team
+  url: https://blog.openshift.com/new-developer-evanglist-charlotte-joins-the-openshift-team/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 79ea01932ba921e110cb4e56635cbd8a
+  item_date: "2017-02-10 00:00:00"
+  title: Developer experience is user experience
+  url: https://devrel.net/developer-experience/developer-experience-user-experience
+  domain: devrel.net
   image: ""
 - curated_id: elZcgSL9ngOFQ3cXof9E2xLNhwU1ODX8GUYytnhlJ4sDC3T65bYKnBiTmH3Xinoev1kZYOijuQWQYztI0dK7SA117117
   item_date: "2017-02-10 00:00:00"
@@ -2435,17 +3492,17 @@
   url: https://dzone.com/articles/api-integration-patterns-experience-based-apis
   domain: dzone.com
   image: ""
+- curated_id: c69a8cda38d677659138208bbd798ed9
+  item_date: "2017-02-13 00:00:00"
+  title: Back the Developer Relations book Kickstarter
+  url: https://devrel.net/industry/back-developer-relations-book-kickstarter
+  domain: devrel.net
+  image: ""
 - curated_id: MuQmvlnqAeHvke123G116J7iru5hjIjUuZQJifBmoGRZ116joLUZAkoFtF3dUX9JWj0RwQuUTjlSXdJ6hV4KYSNeJbVQ117117
   item_date: "2017-02-14 00:00:00"
   title: Modeldriven RESTful API for CRUD and more
   url: https://www.codeproject.com/Articles/1169060/Model-driven-RESTful-API-for-CRUD-and-more
   domain: www.codeproject.com
-  image: ""
-- curated_id: 0IAQwlK116LpSD8H3HOaq1165GR2123Hn5UeZEcV7TDUbBwjAvhrZ6RyliHimG12309LLQ2STYPTcMVOokrWtmFcP41123wg117117
-  item_date: "2017-02-15 00:00:00"
-  title: ConsumerOriented API Design
-  url: http://api-university.com/blog/consumer-oriented-api-design-2/
-  domain: api-university.com
   image: ""
 - curated_id: cTdCVjsVWLDDPUFgpBCSdKj8TChU28RdRsjgqC3TLplkrOKZ6m5AkEDYmWJ1235yNjKX45K00pXsww5QUOQKqotg117117
   item_date: "2017-02-15 00:00:00"
@@ -2453,12 +3510,24 @@
   url: https://dzone.com/articles/implementing-domain-driven-design-in-php
   domain: dzone.com
   image: ""
+- curated_id: 0IAQwlK116LpSD8H3HOaq1165GR2123Hn5UeZEcV7TDUbBwjAvhrZ6RyliHimG12309LLQ2STYPTcMVOokrWtmFcP41123wg117117
+  item_date: "2017-02-15 00:00:00"
+  title: ConsumerOriented API Design
+  url: http://api-university.com/blog/consumer-oriented-api-design-2/
+  domain: api-university.com
+  image: ""
 - curated_id: obUXVkeXzx3i9MkgDvWk116XP2qZzRTC1PJ123DsMov1crv7f116q6bt2LkyU6wtFki123DLe6XsfuBujSEc3DwARnnwfA117117
   item_date: "2017-02-17 00:00:00"
   title: Article Untangling an APIfirst Transformation at Scale Lessons Learnt at
     PayPal  Part 1
   url: https://www.infoq.com/articles/paypal-api-first-part1
   domain: www.infoq.com
+  image: ""
+- curated_id: d4fba0768d2f627787f90d62c6574a34
+  item_date: "2017-02-19 00:00:00"
+  title: The dangers of technical evangelism
+  url: https://permanenttourist.ch/2017/02/the-dangers-of-technical-evangelism/
+  domain: permanenttourist.ch
   image: ""
 - curated_id: M6CuMUQGfTtZUdFgWzcBNgYYhfJqMRo4kx116Do0sm4jNzf9x3ts4OcCneLEnLAxQZtZBd6TQCMJTAg2og6A90LA117117
   item_date: "2017-02-19 00:00:00"
@@ -2472,6 +3541,18 @@
   title: Designing robust and predictable APIs with idempotency
   url: https://stripe.com/blog/idempotency
   domain: stripe.com
+  image: ""
+- curated_id: ab8669c8c728d02e76b6c26612de874a
+  item_date: "2017-02-22 00:00:00"
+  title: Who Actually Uses Your API?
+  url: https://zapier.com/engineering/non-developer-experience/
+  domain: zapier.com
+  image: ""
+- curated_id: c7461a5fc45ffbf7ed9338375d6a5e53
+  item_date: "2017-02-22 00:00:00"
+  title: What We Learned When We Surveyed Our Developer Community
+  url: http://keenio.tumblr.com/post/157583365631/what-we-learned-when-we-surveyed-our-developer#_=_
+  domain: keenio.tumblr.com
   image: ""
 - curated_id: dywdTtmTwVnAmqkOeJ123SwFwZmGWBq3fWEPIZV123Rl42fu9KrMIYpQEl3123qoJIsyMtRsCkzEaZTNCImC0mras8Ow117117
   item_date: "2017-02-22 00:00:00"
@@ -2490,6 +3571,13 @@
   title: REST over WebSockets instead of HTTP
   url: https://medium.com/m/global-identity
   domain: medium.com
+  image: ""
+- curated_id: ac495dee16b44f583510382653518675
+  item_date: "2017-02-27 00:00:00"
+  title: 'Developer Success: the real challenge for APIs, and how we plan to solve
+    that'
+  url: https://blog.hitchhq.com/developer-success-the-real-challenge-for-apis-and-how-we-plan-to-solve-that-80a9e7285958
+  domain: blog.hitchhq.com
   image: ""
 - curated_id: Wd7ucjMuRKxmxbg2fKlN3nqN116iXZRGcriSPYeVl766dJfX4Tl8Jp4ZXtOUChQOEOO116gmx4P123eaVHxIb12313XyLg117117
   item_date: "2017-03-01 00:00:00"
@@ -2516,6 +3604,12 @@
   url: https://apihandyman.io/google-api-design-guide-added-to-the-api-stylebook/
   domain: apihandyman.io
   image: ""
+- curated_id: 1a612d9c1aae8dcb683b833fa2b3ba2c
+  item_date: "2017-03-07 00:00:00"
+  title: Rebooting a community
+  url: https://devrel.net/craft/rebooting-a-community
+  domain: devrel.net
+  image: ""
 - curated_id: 1234jI1169sPCFC4v116ii6M8qI5SRtF5bCnrHJ7NI2uYbODv92123m116DkPB8iQujBhZUFkWbABJFaAYIx85123ZGEaW9LSA117117
   item_date: "2017-03-07 13:13:34"
   title: Autocomplete and tooltips for variables are now live
@@ -2528,17 +3622,17 @@
   url: https://tyk.io/2017/03/06/api-management-events-webhooks-microservices/
   domain: tyk.io
   image: ""
-- curated_id: IXNnXpt4KbvV7SYgrhePZLdBLnGWsSIw1JJu123ivKjBlyRQBaG6hc1S8pVpOYZIBA8Dubiho7oDZE4wIMwmfOWg117117
-  item_date: "2017-03-08 00:00:00"
-  title: Two Forgotten Aspects to an API Design First Approach
-  url: https://medium.com/m/global-identity
-  domain: medium.com
-  image: ""
 - curated_id: y7aIobXwBSysxDKTD7AyDx1ueYEqJlj4qY3riZMtIE3g1Y9klS4fguFLYyBUdsKFPW10oamsMlPPVwhaC116gEOw117117
   item_date: "2017-03-08 00:00:00"
   title: 4 Ways Your API Is Not Quite What I Want
   url: https://zapier.com/engineering/api-pet-peeves/
   domain: zapier.com
+  image: ""
+- curated_id: IXNnXpt4KbvV7SYgrhePZLdBLnGWsSIw1JJu123ivKjBlyRQBaG6hc1S8pVpOYZIBA8Dubiho7oDZE4wIMwmfOWg117117
+  item_date: "2017-03-08 00:00:00"
+  title: Two Forgotten Aspects to an API Design First Approach
+  url: https://medium.com/m/global-identity
+  domain: medium.com
   image: ""
 - curated_id: q1Nq1168Bcxhx3GzO5iZjXpvvGQiI1dZu7Jz6TNpVb1JutCa673BNVWfZoU116r3Yxl2OvB6MyFoO0VXYYOz116f1116Vg117117
   item_date: "2017-03-08 10:12:12"
@@ -2558,11 +3652,36 @@
   url: http://nordicapis.com/is-graphql-the-end-of-rest-style-apis/
   domain: nordicapis.com
   image: ""
+- curated_id: 404a5d64442b7f042dbbfbd3393c8271
+  item_date: "2017-03-14 00:00:00"
+  title: "From Building RESTful APIs to Teaching Hip Hop:  An Interview with VictorOps
+    Developer DeAndr\xE9 Carroll"
+  url: https://victorops.com/blog/building-restful-apis-teaching-hip-hop-interview-victorops-developer-deandre-carroll/
+  domain: victorops.com
+  image: ""
+- curated_id: 42f3ec344ca177600753864e25aa8a47
+  item_date: "2017-03-14 00:00:00"
+  title: Measuring growth for your API using the SAAS analogy
+  url: https://blog.hitchhq.com/measuring-growth-for-your-api-using-the-saas-analogy-33efc03d1ef4#.i4qhwq6lh
+  domain: blog.hitchhq.com
+  image: ""
+- curated_id: b0943cdf09ac2269841c21d519c8d47b
+  item_date: "2017-03-15 00:00:00"
+  title: Is Glitch the answer to API devrel?
+  url: https://devrel.net/tools/glitch-answer-api-devrel
+  domain: devrel.net
+  image: ""
 - curated_id: HxloJAo72xgUo6aQS116Yzj4V12aeXmDkvd0wMB116qsCGyi25ElXK297iXPDxM4yqHfY116JpmgSm4ZAetLs123JcXtlw117117
   item_date: "2017-03-16 00:00:00"
   title: A Nice API Design Gem Strategy Pattern With Lambdas
   url: https://blog.jooq.org/2017/03/17/a-nice-api-design-gem-strategy-pattern-with-lambdas/
   domain: blog.jooq.org
+  image: ""
+- curated_id: 6a98ca9c06e7dbd5d74e9fc2d83b201f
+  item_date: "2017-03-16 00:00:00"
+  title: Citizen Data Evangelists, CDOs,  Sunshine Week in the News
+  url: https://socrata.com/blog/citizen-data-evangelists-cdos-sunshine-week-news/
+  domain: socrata.com
   image: ""
 - curated_id: 2Ot1p1ihPGHi26Vjq5xpWfARqfZwtSjB92FHv116ZGhtmrQDJU3UxT4rXs0Y5fSqX89aJwYkvgdb5116hPehCQZ70Q117117
   item_date: "2017-03-18 22:42:17"
@@ -2570,16 +3689,22 @@
   url: http://daviddawson.me/blog/2017/02/21/muon-intro.html
   domain: daviddawson.me
   image: ""
-- curated_id: P123GLG50vbUOfZlqHnZhWCfm2RGV4e3AzqFY6uQynI3QzNu4a7io55iiXDE1XZ0VpqqgfA97EnxuJ6Hngi116NJ9w117117
-  item_date: "2017-03-20 00:00:00"
-  title: RESTful SNMP Over HTTP Part II
-  url: https://dzone.com/articles/restful-snmp-over-http-ii
-  domain: dzone.com
+- curated_id: 3b83ff648129741519aba48ce4beb16d
+  item_date: "2017-03-19 00:00:00"
+  title: "Talking to Developers and Civic Hackers on Their Own Terms\u2026"
+  url: https://blog.ouseful.info/2017/03/19/talking-to-developers/
+  domain: blog.ouseful.info
   image: ""
 - curated_id: YH353116wouFo123ya123WX70zkC4BmBhE2EmIf8qOTj25Eix3wrtzjA5X3eHniA116DmL2sxCnGH9GH54GwRn93bEqmEQ117117
   item_date: "2017-03-20 00:00:00"
   title: RESTful SNMP Over HTTP Part III
   url: https://dzone.com/articles/restful-snmp-over-http-3
+  domain: dzone.com
+  image: ""
+- curated_id: P123GLG50vbUOfZlqHnZhWCfm2RGV4e3AzqFY6uQynI3QzNu4a7io55iiXDE1XZ0VpqqgfA97EnxuJ6Hngi116NJ9w117117
+  item_date: "2017-03-20 00:00:00"
+  title: RESTful SNMP Over HTTP Part II
+  url: https://dzone.com/articles/restful-snmp-over-http-ii
   domain: dzone.com
   image: ""
 - curated_id: 5aZEQTZcJk1235sBBL4wRS8GfQpKd123AbMDY5ch8123WGGMw7oP5ITbeSsOGyDIYmITSok92iw4va6I4ddS0BywxoCQ117117
@@ -2588,12 +3713,24 @@
   url: http://blog.getpostman.com/2017/03/21/bigcommerce-uses-postman-before-a-single-line-of-code-is-written/
   domain: blog.getpostman.com
   image: ""
+- curated_id: e65ec2c8bbf1c5ade2cb294eff942605
+  item_date: "2017-03-22 00:00:00"
+  title: 'Now Live: Stack Overflow Developer Survey 2017 Results'
+  url: https://stackoverflow.blog/2017/03/22/now-live-stack-overflow-developer-survey-2017-results/
+  domain: stackoverflow.blog
+  image: ""
 - curated_id: 2pEG9np2mQLA3dmV0VeG123NA3dIAZXZJQ7CWMr6BUnJ8ZmDrKXrQldNjmTQXGSiMVJ7T116vvjt9avZAAAqJXprQA117117
   item_date: "2017-03-22 18:56:59"
   title: API design for machine learning software experiences from the scikitlearn
     project
   url: https://arxiv.org/abs/1309.0238
   domain: arxiv.org
+  image: ""
+- curated_id: cdde9e3570059f9d5042ca32ce9cb2e2
+  item_date: "2017-03-29 00:00:00"
+  title: In case you missed the AdWords API Workshops... videos are on YouTube
+  url: http://googleadsdeveloper.blogspot.com/2017/03/in-case-you-missed-adwords-api.html
+  domain: googleadsdeveloper.blogspot.com
   image: ""
 - curated_id: gujXXKHxBU6ozhCwpZwtF5awIFCwEUWT331VSMKlzNKSXC1GBZDgb8G4tIsk2DEuJg7q4nFDHreiCj8VHeZ25g117117
   item_date: "2017-04-04 00:00:00"
@@ -2625,6 +3762,12 @@
   url: https://community.hpe.com/t5/Quality-Center-ALM-Practitioners/ALM-Rest-API-posting-design-steps/td-p/6954521
   domain: community.hpe.com
   image: ""
+- curated_id: 94f8062678edf87c1399114a72474d01
+  item_date: "2017-04-06 00:00:00"
+  title: Announcing the Slack Platform Eurotour!
+  url: https://medium.com/slack-developer-blog/announcing-the-slack-platform-eurotour-bf1f4a05576e
+  domain: medium.com
+  image: ""
 - curated_id: ra123rE6JGtLbZE116mul3tLsTQFjCHNDsE1Q123dcJ0RTKliJS0W1LNl5l1164z9OaeEqReVxx1dhNoUWyk4isg4k6S123A117117
   item_date: "2017-04-07 00:00:00"
   title: API Design Standards With Andy Beier
@@ -2636,6 +3779,12 @@
   title: The 5 Basic API Design Paradigms
   url: https://blog.cloudobjects.io/api-design/2017/04/10/api-design-paradigms/
   domain: blog.cloudobjects.io
+  image: ""
+- curated_id: 16ad107752977fa45990934e28ac36ed
+  item_date: "2017-04-12 00:00:00"
+  title: OpsGenie Presents New Community
+  url: https://blog.opsgenie.com/2017/04/community
+  domain: blog.opsgenie.com
   image: ""
 - curated_id: dQABj84JsOJAH2jN4QvFHvEjONLmtXSbTYzyOX6qSulmTJSGImquWRG0IymZQkHEMXWG6sbqUtKjRcimSFStBQ117117
   item_date: "2017-04-12 00:00:00"
@@ -2656,17 +3805,29 @@
   url: http://blog.mparticle.com/simplicity-utility-x-data-success/
   domain: blog.mparticle.com
   image: ""
-- curated_id: mJ0CPNAifOOEAU1cqfL2rphranV116iVSuNYLHwswTTPE123N0wAqJJLduNcHS2UhpXSr21GKERyXRKwyBfswqRT9Q117117
-  item_date: "2017-04-19 00:00:00"
-  title: Microservices APIs and Swagger How They Fit Together
-  url: https://dzone.com/articles/microservices-apis-and-swagger-how-they-fit-togeth
-  domain: dzone.com
+- curated_id: 0c10931448f19055a577ddd22811d7af
+  item_date: "2017-04-17 00:00:00"
+  title: GitHub Updates its Developer Program
+  url: https://www.programmableweb.com/news/github-updates-its-developer-program/brief/2017/04/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 44b839a98a1a161a21e6c30eb9cc5195
+  item_date: "2017-04-17 00:00:00"
+  title: GitHub makes its Developer Program free, adds new benefits
+  url: http://www.zdnet.com/article/github-makes-its-developer-program-free-adds-new-benefits/
+  domain: www.zdnet.com
   image: ""
 - curated_id: rLk1167zKcM5ZqN0JvIulYhpCouEXRLnhFGpOhDP116Z4Ly7123YKtyUEyFCBwt5hK3lHLP116pqBmZFULBoMSPYnykb116w117117
   item_date: "2017-04-19 00:00:00"
   title: Building an API  lessons learned the hard way part 2
   url: https://medium.com/m/global-identity
   domain: medium.com
+  image: ""
+- curated_id: mJ0CPNAifOOEAU1cqfL2rphranV116iVSuNYLHwswTTPE123N0wAqJJLduNcHS2UhpXSr21GKERyXRKwyBfswqRT9Q117117
+  item_date: "2017-04-19 00:00:00"
+  title: Microservices APIs and Swagger How They Fit Together
+  url: https://dzone.com/articles/microservices-apis-and-swagger-how-they-fit-togeth
+  domain: dzone.com
   image: ""
 - curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
   item_date: "2017-04-20 00:00:00"
@@ -2686,23 +3847,29 @@
   url: http://www.kennethlange.com/posts/7_tips_for_designing_a_better_rest_api.html
   domain: www.kennethlange.com
   image: ""
+- curated_id: 09126edb3c2284c26e23e5999689d797
+  item_date: "2017-04-20 15:19:49"
+  title: "How I fail developers \u2013 Taylor Singletary \u2013 Medium"
+  url: https://medium.com/@episod/how-i-fail-developers-74580c13d5a4
+  domain: medium.com
+  image: ""
 - curated_id: a0BePIzeloh123cbLqqUMw4ourFZckrC93YU8MCRLDX4Q11667beQb6m9bhWZasX1168RzXOY1kJxSKz1x0rWcguA2cA117117
   item_date: "2017-04-21 00:00:00"
   title: Using field masks with update requests to Google APIs
   url: https://gsuite-developers.googleblog.com/2017/04/using-field-masks-with-update-requests.html
   domain: gsuite-developers.googleblog.com
   image: ""
-- curated_id: qPMVyOTH8Dpv116AoQ0Vr7UejhQzqbE1165z6W123JNmrJA9U6vf8lHbVdJJbG8slWosbw5i1232123aILigQniCLcxHKreA117117
-  item_date: "2017-04-25 00:00:00"
-  title: Introducing ProtocolOriented BDD in Swift for iOS Apps Part 1
-  url: https://dzone.com/articles/introducing-protocol-oriented-bdd-in-swift-for-ios
-  domain: dzone.com
-  image: ""
 - curated_id: tPdy123UwPhTwr1U123Og3IOSAINYRJsUllPTxqZkeN14QIWjARsjYGotesb1d0T8YmQUdxJ4Pz116c7IIyoii116YsiuA117117
   item_date: "2017-04-25 00:00:00"
   title: Deliveroo API Design Guidelines added to the API Stylebook
   url: https://apihandyman.io/deliveroo-api-design-guidelines-added-to-the-api-stylebook/
   domain: apihandyman.io
+  image: ""
+- curated_id: qPMVyOTH8Dpv116AoQ0Vr7UejhQzqbE1165z6W123JNmrJA9U6vf8lHbVdJJbG8slWosbw5i1232123aILigQniCLcxHKreA117117
+  item_date: "2017-04-25 00:00:00"
+  title: Introducing ProtocolOriented BDD in Swift for iOS Apps Part 1
+  url: https://dzone.com/articles/introducing-protocol-oriented-bdd-in-swift-for-ios
+  domain: dzone.com
   image: ""
 - curated_id: yNDL6OQYIJayeVJjtplUDL2H8123YXL792Uelek9O123N5ug1cKPZ5ERSxTbDRsoa22stYYmncb8SSkFopoH3svsyA117117
   item_date: "2017-04-25 12:10:12"
@@ -2716,17 +3883,17 @@
   url: https://twitter.com/Runscope/statuses/856992717330673664
   domain: twitter.com
   image: ""
-- curated_id: B4JNeA123K4BBbXcxPThwBmHsG99LdR2G1pDAA49RiLeWB4FCBEIIcLb4116fJ7ncC10eWULPKlyajAsrsjNNSOtOA117117
-  item_date: "2017-04-26 00:00:00"
-  title: Summarizing requests
-  url: http://www.apiful.io/intro/2017/04/27/summarizing-requests.html
-  domain: www.apiful.io
-  image: ""
 - curated_id: Wl8yWdJEUUBQXYXWW7dG1235SuuE3NFvjgW4lBDcuw16G116oCKuPhIuoHNwW7yLO5I9CaGdv4ddGh4iw8TDi2iJNg117117
   item_date: "2017-04-26 00:00:00"
   title: Manage your gRPC APIs with Google Cloud Endpoints
   url: http://cloudplatform.googleblog.com/2017/04/manage-your-gRPC-APIs-with-Google-Cloud-Endpoints.html
   domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: B4JNeA123K4BBbXcxPThwBmHsG99LdR2G1pDAA49RiLeWB4FCBEIIcLb4116fJ7ncC10eWULPKlyajAsrsjNNSOtOA117117
+  item_date: "2017-04-26 00:00:00"
+  title: Summarizing requests
+  url: http://www.apiful.io/intro/2017/04/27/summarizing-requests.html
+  domain: www.apiful.io
   image: ""
 - curated_id: drWoJN0PKccMe2Yhq50tDcqwTvmHEhqgIb38jaA5rlwINKXrYHViri0KnN8XZSzzwo9123fE8XNaPfjIVwM1NRbw117117
   item_date: "2017-04-27 12:47:45"
@@ -2752,17 +3919,17 @@
   url: https://github.com/18F/doi-extractives-data/wiki/Little-rules-for-designing-with-data
   domain: github.com
   image: ""
-- curated_id: YESer1QlB0ywuCcgSxl116JAWB6UjFCPUQNBgRPzGPcD123URPs9tetLeSHqUQbJ886osMMKr1167ctZXYx5h8VafAnA117117
-  item_date: "2017-05-03 00:00:00"
-  title: The two perspectives of API design
-  url: https://restlet.com/company/blog/2017/05/03/the-two-perspectives-of-api-design/
-  domain: restlet.com
-  image: ""
 - curated_id: W07EnCoRP4i0F3dLBpZku0xDNXV123GLaaPTNhBzIMrDTO2UJd4Tguc116L116n1BFUUCklkzbVJ1V3E4nmsropW116Jdg117117
   item_date: "2017-05-03 00:00:00"
   title: REST API Industry Debate OData vs GraphQL vs ORDS
   url: https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords
   domain: www.progress.com
+  image: ""
+- curated_id: YESer1QlB0ywuCcgSxl116JAWB6UjFCPUQNBgRPzGPcD123URPs9tetLeSHqUQbJ886osMMKr1167ctZXYx5h8VafAnA117117
+  item_date: "2017-05-03 00:00:00"
+  title: The two perspectives of API design
+  url: https://restlet.com/company/blog/2017/05/03/the-two-perspectives-of-api-design/
+  domain: restlet.com
   image: ""
 - curated_id: Hjeb94UAR03xqLCT123OSpCjFvg116saP2gANJbbeigUwyk2k2bhvOwj1239Qoved123VwvCptzrSQ9hvxKkcPZqlblzbg117117
   item_date: "2017-05-04 00:00:00"
@@ -2776,6 +3943,13 @@
   title: Yelp Adds GraphQL Support to Fusion API Introduces Developer Beta Program
   url: https://www.programmableweb.com/news/yelp-adds-graphql-support-to-fusion-api-introduces-developer-beta-program/brief/2017/05/05
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 0ef0042e11142e4a34136d2d1b07faa1
+  item_date: "2017-05-05 15:27:36"
+  title: 'Tweet: We#039;re hosting API Office Hours on Monday, May 8th at 1pm PST!
+    You can register here: https://t.co/m6ofDLwOOp'
+  url: https://twitter.com/BoxPlatform/statuses/860622032085676032
+  domain: twitter.com
   image: ""
 - curated_id: TiI2FqkFse0E3aKM5wCYv0jSKOB5eqFp4AXNSzhJ8nvwIKPGH9IWgPPkuAJblpfUk116ayhTikMmEiBJhEhXoz1g117117
   item_date: "2017-05-05 22:23:17"
@@ -2844,7 +4018,7 @@
   item_date: "2017-05-22 15:43:58"
   title: The Resource Groups Tagging API Makes It Easier to List Your Resources by
     Using a New Pagination Parameter
-  url: https://aws.amazon.com/blogs/security/the-resource-groups-tagging-api-now-supports-pagination-by-the-number-of-resources-and-automated-pagination-in-the-aws-cli/?sc_channel=sm&sc_campaign=rgtaggingapipagination&sc_publisher=tw&sc_medium=tw&sc_content=readpost&sc_country=global&sc_geo=global&sc_category=cloudformation&sc_outcome=other
+  url: https://aws.amazon.com/blogs/security/the-resource-groups-tagging-api-now-supports-pagination-by-the-number-of-resources-and-automated-pagination-in-the-aws-cli/?sc_channel=sm&amp;sc_campaign=rgtaggingapipagination&amp;sc_publisher=tw&amp;sc_medium=tw&amp;sc_content=readpost&amp;sc_country=global&amp;sc_geo=global&amp;sc_category=cloudformation&amp;sc_outcome=other
   domain: aws.amazon.com
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c37fc8743:23f8b5e:cfb784e9
